@@ -12,3 +12,4 @@ C:\Users\somna\Documents\wiprotraining\Calculator\Calculator\obj\Debug\net9.0\re
 C:\Users\somna\Documents\wiprotraining\Calculator\Calculator\obj\Debug\net9.0\Calculator.pdb
 C:\Users\somna\Documents\wiprotraining\Calculator\Calculator\obj\Debug\net9.0\Calculator.genruntimeconfig.cache
 C:\Users\somna\Documents\wiprotraining\Calculator\Calculator\obj\Debug\net9.0\ref\Calculator.dll
+C:\Users\somna\Documents\wiprotraining\Calculator\Calculator\obj\Debug\net9.0\Calculator.sourcelink.json

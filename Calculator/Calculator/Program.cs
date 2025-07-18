@@ -17,12 +17,15 @@ namespace Day1prog
             int sub = a - b;
             int mul = a * b;
             int div = a / b;
-            
+
             Console.WriteLine("Addition: " + add);
             Console.WriteLine("Subtraction: " + sub);
             Console.WriteLine("Multiplication: " + mul);
             Console.WriteLine("Division: " + div);
-            
+            Console.ReadKey();
+
         }
     }
 }
+
+
