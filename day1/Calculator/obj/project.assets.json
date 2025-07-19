@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\somna\\Documents\\wiprotraining\\Calculator\\Calculator\\Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\somna\\Documents\\wiprotraining\\Calculator\\Calculator.csproj",
       "projectName": "Calculator",
-      "projectPath": "C:\\Users\\somna\\Documents\\wiprotraining\\Calculator\\Calculator\\Calculator.csproj",
+      "projectPath": "C:\\Users\\somna\\Documents\\wiprotraining\\Calculator\\Calculator.csproj",
       "packagesPath": "C:\\Users\\somna\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\somna\\Documents\\wiprotraining\\Calculator\\Calculator\\obj\\",
+      "outputPath": "C:\\Users\\somna\\Documents\\wiprotraining\\Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\somna\\AppData\\Roaming\\NuGet\\NuGet.Config"
