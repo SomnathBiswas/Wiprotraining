@@ -1,0 +1,15 @@
+C:\Users\somna\Documents\wiprotraining\day2switchcase2\bin\Debug\net9.0\day2switchcase2.exe
+C:\Users\somna\Documents\wiprotraining\day2switchcase2\bin\Debug\net9.0\day2switchcase2.deps.json
+C:\Users\somna\Documents\wiprotraining\day2switchcase2\bin\Debug\net9.0\day2switchcase2.runtimeconfig.json
+C:\Users\somna\Documents\wiprotraining\day2switchcase2\bin\Debug\net9.0\day2switchcase2.dll
+C:\Users\somna\Documents\wiprotraining\day2switchcase2\bin\Debug\net9.0\day2switchcase2.pdb
+C:\Users\somna\Documents\wiprotraining\day2switchcase2\obj\Debug\net9.0\day2switchcase2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\somna\Documents\wiprotraining\day2switchcase2\obj\Debug\net9.0\day2switchcase2.AssemblyInfoInputs.cache
+C:\Users\somna\Documents\wiprotraining\day2switchcase2\obj\Debug\net9.0\day2switchcase2.AssemblyInfo.cs
+C:\Users\somna\Documents\wiprotraining\day2switchcase2\obj\Debug\net9.0\day2switchcase2.csproj.CoreCompileInputs.cache
+C:\Users\somna\Documents\wiprotraining\day2switchcase2\obj\Debug\net9.0\day2switchcase2.sourcelink.json
+C:\Users\somna\Documents\wiprotraining\day2switchcase2\obj\Debug\net9.0\day2switchcase2.dll
+C:\Users\somna\Documents\wiprotraining\day2switchcase2\obj\Debug\net9.0\refint\day2switchcase2.dll
+C:\Users\somna\Documents\wiprotraining\day2switchcase2\obj\Debug\net9.0\day2switchcase2.pdb
+C:\Users\somna\Documents\wiprotraining\day2switchcase2\obj\Debug\net9.0\day2switchcase2.genruntimeconfig.cache
+C:\Users\somna\Documents\wiprotraining\day2switchcase2\obj\Debug\net9.0\ref\day2switchcase2.dll
