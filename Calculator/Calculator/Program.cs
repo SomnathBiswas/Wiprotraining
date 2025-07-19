@@ -24,8 +24,27 @@ namespace Day1prog
             Console.WriteLine("Division: " + div);
             Console.ReadKey();
 
+            // Program2 p = new Program2();
+            // Console.WriteLine("Welcome To Calculator APP");
+            // p.Display();
+
+
         }
     }
 }
+ 
 
 
+
+ 
+// using System;
+// public class Calculator
+// {
+//    public static void Main(string[] args)
+//     {
+//         Program2 p = new Program2();
+//         Console.WriteLine("Welcome To Calculator APP");
+//         p.Display();
+//         Console.ReadKey();
+//     }
+// }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\somna\\Documents\\wiprotraining\\Calculator\\Calculator\\Calculator.csproj": {}
+    "C:\\Users\\somna\\Documents\\wiprotraining\\calculator\\calculator\\Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\somna\\Documents\\wiprotraining\\Calculator\\Calculator\\Calculator.csproj": {
+    "C:\\Users\\somna\\Documents\\wiprotraining\\calculator\\calculator\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\somna\\Documents\\wiprotraining\\Calculator\\Calculator\\Calculator.csproj",
+        "projectUniqueName": "C:\\Users\\somna\\Documents\\wiprotraining\\calculator\\calculator\\Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "C:\\Users\\somna\\Documents\\wiprotraining\\Calculator\\Calculator\\Calculator.csproj",
+        "projectPath": "C:\\Users\\somna\\Documents\\wiprotraining\\calculator\\calculator\\Calculator.csproj",
         "packagesPath": "C:\\Users\\somna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\somna\\Documents\\wiprotraining\\Calculator\\Calculator\\obj\\",
+        "outputPath": "C:\\Users\\somna\\Documents\\wiprotraining\\calculator\\calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\somna\\AppData\\Roaming\\NuGet\\NuGet.Config"
