@@ -1,0 +1,15 @@
+C:\Users\somna\Documents\wiprotraining\day3jaggedarray\bin\Debug\net9.0\day3jaggedarray.exe
+C:\Users\somna\Documents\wiprotraining\day3jaggedarray\bin\Debug\net9.0\day3jaggedarray.deps.json
+C:\Users\somna\Documents\wiprotraining\day3jaggedarray\bin\Debug\net9.0\day3jaggedarray.runtimeconfig.json
+C:\Users\somna\Documents\wiprotraining\day3jaggedarray\bin\Debug\net9.0\day3jaggedarray.dll
+C:\Users\somna\Documents\wiprotraining\day3jaggedarray\bin\Debug\net9.0\day3jaggedarray.pdb
+C:\Users\somna\Documents\wiprotraining\day3jaggedarray\obj\Debug\net9.0\day3jaggedarray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\somna\Documents\wiprotraining\day3jaggedarray\obj\Debug\net9.0\day3jaggedarray.AssemblyInfoInputs.cache
+C:\Users\somna\Documents\wiprotraining\day3jaggedarray\obj\Debug\net9.0\day3jaggedarray.AssemblyInfo.cs
+C:\Users\somna\Documents\wiprotraining\day3jaggedarray\obj\Debug\net9.0\day3jaggedarray.csproj.CoreCompileInputs.cache
+C:\Users\somna\Documents\wiprotraining\day3jaggedarray\obj\Debug\net9.0\day3jaggedarray.sourcelink.json
+C:\Users\somna\Documents\wiprotraining\day3jaggedarray\obj\Debug\net9.0\day3jaggedarray.dll
+C:\Users\somna\Documents\wiprotraining\day3jaggedarray\obj\Debug\net9.0\refint\day3jaggedarray.dll
+C:\Users\somna\Documents\wiprotraining\day3jaggedarray\obj\Debug\net9.0\day3jaggedarray.pdb
+C:\Users\somna\Documents\wiprotraining\day3jaggedarray\obj\Debug\net9.0\day3jaggedarray.genruntimeconfig.cache
+C:\Users\somna\Documents\wiprotraining\day3jaggedarray\obj\Debug\net9.0\ref\day3jaggedarray.dll

@@ -1,0 +1,15 @@
+C:\Users\somna\Documents\wiprotraining\day3mularray\bin\Debug\net9.0\day3mularray.exe
+C:\Users\somna\Documents\wiprotraining\day3mularray\bin\Debug\net9.0\day3mularray.deps.json
+C:\Users\somna\Documents\wiprotraining\day3mularray\bin\Debug\net9.0\day3mularray.runtimeconfig.json
+C:\Users\somna\Documents\wiprotraining\day3mularray\bin\Debug\net9.0\day3mularray.dll
+C:\Users\somna\Documents\wiprotraining\day3mularray\bin\Debug\net9.0\day3mularray.pdb
+C:\Users\somna\Documents\wiprotraining\day3mularray\obj\Debug\net9.0\day3mularray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\somna\Documents\wiprotraining\day3mularray\obj\Debug\net9.0\day3mularray.AssemblyInfoInputs.cache
+C:\Users\somna\Documents\wiprotraining\day3mularray\obj\Debug\net9.0\day3mularray.AssemblyInfo.cs
+C:\Users\somna\Documents\wiprotraining\day3mularray\obj\Debug\net9.0\day3mularray.csproj.CoreCompileInputs.cache
+C:\Users\somna\Documents\wiprotraining\day3mularray\obj\Debug\net9.0\day3mularray.sourcelink.json
+C:\Users\somna\Documents\wiprotraining\day3mularray\obj\Debug\net9.0\day3mularray.dll
+C:\Users\somna\Documents\wiprotraining\day3mularray\obj\Debug\net9.0\refint\day3mularray.dll
+C:\Users\somna\Documents\wiprotraining\day3mularray\obj\Debug\net9.0\day3mularray.pdb
+C:\Users\somna\Documents\wiprotraining\day3mularray\obj\Debug\net9.0\day3mularray.genruntimeconfig.cache
+C:\Users\somna\Documents\wiprotraining\day3mularray\obj\Debug\net9.0\ref\day3mularray.dll

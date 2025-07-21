@@ -1,0 +1,15 @@
+C:\Users\somna\Documents\wiprotraining\day3array\bin\Debug\net9.0\day3array.exe
+C:\Users\somna\Documents\wiprotraining\day3array\bin\Debug\net9.0\day3array.deps.json
+C:\Users\somna\Documents\wiprotraining\day3array\bin\Debug\net9.0\day3array.runtimeconfig.json
+C:\Users\somna\Documents\wiprotraining\day3array\bin\Debug\net9.0\day3array.dll
+C:\Users\somna\Documents\wiprotraining\day3array\bin\Debug\net9.0\day3array.pdb
+C:\Users\somna\Documents\wiprotraining\day3array\obj\Debug\net9.0\day3array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\somna\Documents\wiprotraining\day3array\obj\Debug\net9.0\day3array.AssemblyInfoInputs.cache
+C:\Users\somna\Documents\wiprotraining\day3array\obj\Debug\net9.0\day3array.AssemblyInfo.cs
+C:\Users\somna\Documents\wiprotraining\day3array\obj\Debug\net9.0\day3array.csproj.CoreCompileInputs.cache
+C:\Users\somna\Documents\wiprotraining\day3array\obj\Debug\net9.0\day3array.sourcelink.json
+C:\Users\somna\Documents\wiprotraining\day3array\obj\Debug\net9.0\day3array.dll
+C:\Users\somna\Documents\wiprotraining\day3array\obj\Debug\net9.0\refint\day3array.dll
+C:\Users\somna\Documents\wiprotraining\day3array\obj\Debug\net9.0\day3array.pdb
+C:\Users\somna\Documents\wiprotraining\day3array\obj\Debug\net9.0\day3array.genruntimeconfig.cache
+C:\Users\somna\Documents\wiprotraining\day3array\obj\Debug\net9.0\ref\day3array.dll
