@@ -1,0 +1,15 @@
+C:\Users\somna\Documents\wiprotraining\day3construtor\bin\Debug\net9.0\day3construtor.exe
+C:\Users\somna\Documents\wiprotraining\day3construtor\bin\Debug\net9.0\day3construtor.deps.json
+C:\Users\somna\Documents\wiprotraining\day3construtor\bin\Debug\net9.0\day3construtor.runtimeconfig.json
+C:\Users\somna\Documents\wiprotraining\day3construtor\bin\Debug\net9.0\day3construtor.dll
+C:\Users\somna\Documents\wiprotraining\day3construtor\bin\Debug\net9.0\day3construtor.pdb
+C:\Users\somna\Documents\wiprotraining\day3construtor\obj\Debug\net9.0\day3construtor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\somna\Documents\wiprotraining\day3construtor\obj\Debug\net9.0\day3construtor.AssemblyInfoInputs.cache
+C:\Users\somna\Documents\wiprotraining\day3construtor\obj\Debug\net9.0\day3construtor.AssemblyInfo.cs
+C:\Users\somna\Documents\wiprotraining\day3construtor\obj\Debug\net9.0\day3construtor.csproj.CoreCompileInputs.cache
+C:\Users\somna\Documents\wiprotraining\day3construtor\obj\Debug\net9.0\day3construtor.sourcelink.json
+C:\Users\somna\Documents\wiprotraining\day3construtor\obj\Debug\net9.0\day3construtor.dll
+C:\Users\somna\Documents\wiprotraining\day3construtor\obj\Debug\net9.0\refint\day3construtor.dll
+C:\Users\somna\Documents\wiprotraining\day3construtor\obj\Debug\net9.0\day3construtor.pdb
+C:\Users\somna\Documents\wiprotraining\day3construtor\obj\Debug\net9.0\day3construtor.genruntimeconfig.cache
+C:\Users\somna\Documents\wiprotraining\day3construtor\obj\Debug\net9.0\ref\day3construtor.dll
