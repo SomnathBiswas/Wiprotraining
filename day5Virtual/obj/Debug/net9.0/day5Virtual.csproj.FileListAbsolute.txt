@@ -1,0 +1,15 @@
+C:\Users\somna\Documents\wiprotraining\day5Virtual\bin\Debug\net9.0\day5Virtual.exe
+C:\Users\somna\Documents\wiprotraining\day5Virtual\bin\Debug\net9.0\day5Virtual.deps.json
+C:\Users\somna\Documents\wiprotraining\day5Virtual\bin\Debug\net9.0\day5Virtual.runtimeconfig.json
+C:\Users\somna\Documents\wiprotraining\day5Virtual\bin\Debug\net9.0\day5Virtual.dll
+C:\Users\somna\Documents\wiprotraining\day5Virtual\bin\Debug\net9.0\day5Virtual.pdb
+C:\Users\somna\Documents\wiprotraining\day5Virtual\obj\Debug\net9.0\day5Virtual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\somna\Documents\wiprotraining\day5Virtual\obj\Debug\net9.0\day5Virtual.AssemblyInfoInputs.cache
+C:\Users\somna\Documents\wiprotraining\day5Virtual\obj\Debug\net9.0\day5Virtual.AssemblyInfo.cs
+C:\Users\somna\Documents\wiprotraining\day5Virtual\obj\Debug\net9.0\day5Virtual.csproj.CoreCompileInputs.cache
+C:\Users\somna\Documents\wiprotraining\day5Virtual\obj\Debug\net9.0\day5Virtual.sourcelink.json
+C:\Users\somna\Documents\wiprotraining\day5Virtual\obj\Debug\net9.0\day5Virtual.dll
+C:\Users\somna\Documents\wiprotraining\day5Virtual\obj\Debug\net9.0\refint\day5Virtual.dll
+C:\Users\somna\Documents\wiprotraining\day5Virtual\obj\Debug\net9.0\day5Virtual.pdb
+C:\Users\somna\Documents\wiprotraining\day5Virtual\obj\Debug\net9.0\day5Virtual.genruntimeconfig.cache
+C:\Users\somna\Documents\wiprotraining\day5Virtual\obj\Debug\net9.0\ref\day5Virtual.dll

@@ -1,0 +1,15 @@
+C:\Users\somna\Documents\wiprotraining\day4stringp2\bin\Debug\net9.0\day4stringp2.exe
+C:\Users\somna\Documents\wiprotraining\day4stringp2\bin\Debug\net9.0\day4stringp2.deps.json
+C:\Users\somna\Documents\wiprotraining\day4stringp2\bin\Debug\net9.0\day4stringp2.runtimeconfig.json
+C:\Users\somna\Documents\wiprotraining\day4stringp2\bin\Debug\net9.0\day4stringp2.dll
+C:\Users\somna\Documents\wiprotraining\day4stringp2\bin\Debug\net9.0\day4stringp2.pdb
+C:\Users\somna\Documents\wiprotraining\day4stringp2\obj\Debug\net9.0\day4stringp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\somna\Documents\wiprotraining\day4stringp2\obj\Debug\net9.0\day4stringp2.AssemblyInfoInputs.cache
+C:\Users\somna\Documents\wiprotraining\day4stringp2\obj\Debug\net9.0\day4stringp2.AssemblyInfo.cs
+C:\Users\somna\Documents\wiprotraining\day4stringp2\obj\Debug\net9.0\day4stringp2.csproj.CoreCompileInputs.cache
+C:\Users\somna\Documents\wiprotraining\day4stringp2\obj\Debug\net9.0\day4stringp2.sourcelink.json
+C:\Users\somna\Documents\wiprotraining\day4stringp2\obj\Debug\net9.0\day4stringp2.dll
+C:\Users\somna\Documents\wiprotraining\day4stringp2\obj\Debug\net9.0\refint\day4stringp2.dll
+C:\Users\somna\Documents\wiprotraining\day4stringp2\obj\Debug\net9.0\day4stringp2.pdb
+C:\Users\somna\Documents\wiprotraining\day4stringp2\obj\Debug\net9.0\day4stringp2.genruntimeconfig.cache
+C:\Users\somna\Documents\wiprotraining\day4stringp2\obj\Debug\net9.0\ref\day4stringp2.dll

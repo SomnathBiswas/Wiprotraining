@@ -1,0 +1,15 @@
+C:\Users\somna\Documents\wiprotraining\day5Pollymorphism\bin\Debug\net9.0\day5Pollymorphism.exe
+C:\Users\somna\Documents\wiprotraining\day5Pollymorphism\bin\Debug\net9.0\day5Pollymorphism.deps.json
+C:\Users\somna\Documents\wiprotraining\day5Pollymorphism\bin\Debug\net9.0\day5Pollymorphism.runtimeconfig.json
+C:\Users\somna\Documents\wiprotraining\day5Pollymorphism\bin\Debug\net9.0\day5Pollymorphism.dll
+C:\Users\somna\Documents\wiprotraining\day5Pollymorphism\bin\Debug\net9.0\day5Pollymorphism.pdb
+C:\Users\somna\Documents\wiprotraining\day5Pollymorphism\obj\Debug\net9.0\day5Pollymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\somna\Documents\wiprotraining\day5Pollymorphism\obj\Debug\net9.0\day5Pollymorphism.AssemblyInfoInputs.cache
+C:\Users\somna\Documents\wiprotraining\day5Pollymorphism\obj\Debug\net9.0\day5Pollymorphism.AssemblyInfo.cs
+C:\Users\somna\Documents\wiprotraining\day5Pollymorphism\obj\Debug\net9.0\day5Pollymorphism.csproj.CoreCompileInputs.cache
+C:\Users\somna\Documents\wiprotraining\day5Pollymorphism\obj\Debug\net9.0\day5Pollymorphism.sourcelink.json
+C:\Users\somna\Documents\wiprotraining\day5Pollymorphism\obj\Debug\net9.0\day5Pollymorphism.dll
+C:\Users\somna\Documents\wiprotraining\day5Pollymorphism\obj\Debug\net9.0\refint\day5Pollymorphism.dll
+C:\Users\somna\Documents\wiprotraining\day5Pollymorphism\obj\Debug\net9.0\day5Pollymorphism.pdb
+C:\Users\somna\Documents\wiprotraining\day5Pollymorphism\obj\Debug\net9.0\day5Pollymorphism.genruntimeconfig.cache
+C:\Users\somna\Documents\wiprotraining\day5Pollymorphism\obj\Debug\net9.0\ref\day5Pollymorphism.dll

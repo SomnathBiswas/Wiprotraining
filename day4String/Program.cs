@@ -54,7 +54,7 @@ class StringPrograms
         int count3 = 0;
 
         int count4 = 0;
-        
+
 
         for (int i = 0; i < text.Length; i++)
         {
@@ -70,10 +70,23 @@ class StringPrograms
         Console.WriteLine("The number of vowels in a string : " + count3);
         Console.WriteLine("The number of uppercase vowels in a string : " + count4);
 
+        //using .toLower() count the vowel in a string
 
-        
+        int count5 = 0;
 
+        string lowerText = text.ToLower();  // convert the entire text to lowercase
 
+        for (int i = 0; i < lowerText.Length; i++)
+        {
+            if (lowerText[i] == 'a' || lowerText[i] == 'e' || lowerText[i] == 'i' || lowerText[i] == 'o' || lowerText[i] == 'u')
+            {
+                count5++;
+            }
+        }
+
+        Console.WriteLine("The number of vowels in the string: " + countVowels);
+
+        Console.WriteLine("" + count5); 
         Console.WriteLine(text.IndexOf("harp"));
         Console.WriteLine(text.ToUpper());
         string newString = text.Replace("CSharp", "Java");
