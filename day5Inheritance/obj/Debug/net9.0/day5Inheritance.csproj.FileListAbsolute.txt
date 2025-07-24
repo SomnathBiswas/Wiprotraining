@@ -1,0 +1,15 @@
+C:\Users\somna\Documents\wiprotraining\day5Inheritance\bin\Debug\net9.0\day5Inheritance.exe
+C:\Users\somna\Documents\wiprotraining\day5Inheritance\bin\Debug\net9.0\day5Inheritance.deps.json
+C:\Users\somna\Documents\wiprotraining\day5Inheritance\bin\Debug\net9.0\day5Inheritance.runtimeconfig.json
+C:\Users\somna\Documents\wiprotraining\day5Inheritance\bin\Debug\net9.0\day5Inheritance.dll
+C:\Users\somna\Documents\wiprotraining\day5Inheritance\bin\Debug\net9.0\day5Inheritance.pdb
+C:\Users\somna\Documents\wiprotraining\day5Inheritance\obj\Debug\net9.0\day5Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\somna\Documents\wiprotraining\day5Inheritance\obj\Debug\net9.0\day5Inheritance.AssemblyInfoInputs.cache
+C:\Users\somna\Documents\wiprotraining\day5Inheritance\obj\Debug\net9.0\day5Inheritance.AssemblyInfo.cs
+C:\Users\somna\Documents\wiprotraining\day5Inheritance\obj\Debug\net9.0\day5Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\somna\Documents\wiprotraining\day5Inheritance\obj\Debug\net9.0\day5Inheritance.sourcelink.json
+C:\Users\somna\Documents\wiprotraining\day5Inheritance\obj\Debug\net9.0\day5Inheritance.dll
+C:\Users\somna\Documents\wiprotraining\day5Inheritance\obj\Debug\net9.0\refint\day5Inheritance.dll
+C:\Users\somna\Documents\wiprotraining\day5Inheritance\obj\Debug\net9.0\day5Inheritance.pdb
+C:\Users\somna\Documents\wiprotraining\day5Inheritance\obj\Debug\net9.0\day5Inheritance.genruntimeconfig.cache
+C:\Users\somna\Documents\wiprotraining\day5Inheritance\obj\Debug\net9.0\ref\day5Inheritance.dll
