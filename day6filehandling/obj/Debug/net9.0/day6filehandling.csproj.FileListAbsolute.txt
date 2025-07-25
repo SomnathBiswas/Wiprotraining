@@ -1,0 +1,15 @@
+C:\Users\somna\Documents\wiprotraining\day6filehandling\bin\Debug\net9.0\day6filehandling.exe
+C:\Users\somna\Documents\wiprotraining\day6filehandling\bin\Debug\net9.0\day6filehandling.deps.json
+C:\Users\somna\Documents\wiprotraining\day6filehandling\bin\Debug\net9.0\day6filehandling.runtimeconfig.json
+C:\Users\somna\Documents\wiprotraining\day6filehandling\bin\Debug\net9.0\day6filehandling.dll
+C:\Users\somna\Documents\wiprotraining\day6filehandling\bin\Debug\net9.0\day6filehandling.pdb
+C:\Users\somna\Documents\wiprotraining\day6filehandling\obj\Debug\net9.0\day6filehandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\somna\Documents\wiprotraining\day6filehandling\obj\Debug\net9.0\day6filehandling.AssemblyInfoInputs.cache
+C:\Users\somna\Documents\wiprotraining\day6filehandling\obj\Debug\net9.0\day6filehandling.AssemblyInfo.cs
+C:\Users\somna\Documents\wiprotraining\day6filehandling\obj\Debug\net9.0\day6filehandling.csproj.CoreCompileInputs.cache
+C:\Users\somna\Documents\wiprotraining\day6filehandling\obj\Debug\net9.0\day6filehandling.sourcelink.json
+C:\Users\somna\Documents\wiprotraining\day6filehandling\obj\Debug\net9.0\day6filehandling.dll
+C:\Users\somna\Documents\wiprotraining\day6filehandling\obj\Debug\net9.0\refint\day6filehandling.dll
+C:\Users\somna\Documents\wiprotraining\day6filehandling\obj\Debug\net9.0\day6filehandling.pdb
+C:\Users\somna\Documents\wiprotraining\day6filehandling\obj\Debug\net9.0\day6filehandling.genruntimeconfig.cache
+C:\Users\somna\Documents\wiprotraining\day6filehandling\obj\Debug\net9.0\ref\day6filehandling.dll

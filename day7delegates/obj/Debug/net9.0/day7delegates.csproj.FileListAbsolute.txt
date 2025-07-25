@@ -1,0 +1,15 @@
+C:\Users\somna\Documents\wiprotraining\day7delegates\bin\Debug\net9.0\day7delegates.exe
+C:\Users\somna\Documents\wiprotraining\day7delegates\bin\Debug\net9.0\day7delegates.deps.json
+C:\Users\somna\Documents\wiprotraining\day7delegates\bin\Debug\net9.0\day7delegates.runtimeconfig.json
+C:\Users\somna\Documents\wiprotraining\day7delegates\bin\Debug\net9.0\day7delegates.dll
+C:\Users\somna\Documents\wiprotraining\day7delegates\bin\Debug\net9.0\day7delegates.pdb
+C:\Users\somna\Documents\wiprotraining\day7delegates\obj\Debug\net9.0\day7delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\somna\Documents\wiprotraining\day7delegates\obj\Debug\net9.0\day7delegates.AssemblyInfoInputs.cache
+C:\Users\somna\Documents\wiprotraining\day7delegates\obj\Debug\net9.0\day7delegates.AssemblyInfo.cs
+C:\Users\somna\Documents\wiprotraining\day7delegates\obj\Debug\net9.0\day7delegates.csproj.CoreCompileInputs.cache
+C:\Users\somna\Documents\wiprotraining\day7delegates\obj\Debug\net9.0\day7delegates.sourcelink.json
+C:\Users\somna\Documents\wiprotraining\day7delegates\obj\Debug\net9.0\day7delegates.dll
+C:\Users\somna\Documents\wiprotraining\day7delegates\obj\Debug\net9.0\refint\day7delegates.dll
+C:\Users\somna\Documents\wiprotraining\day7delegates\obj\Debug\net9.0\day7delegates.pdb
+C:\Users\somna\Documents\wiprotraining\day7delegates\obj\Debug\net9.0\day7delegates.genruntimeconfig.cache
+C:\Users\somna\Documents\wiprotraining\day7delegates\obj\Debug\net9.0\ref\day7delegates.dll
