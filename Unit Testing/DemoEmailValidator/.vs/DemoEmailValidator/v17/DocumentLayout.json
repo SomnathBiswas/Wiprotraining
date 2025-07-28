@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\DemoEmailValidator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B488E963-583D-452E-AE8F-38CDCA560CE3}|EmailValidation.MSTestProject\\EmailValidation.MSTestProject.csproj|c:\\users\\somna\\documents\\wiprotraining\\unit testing\\demoemailvalidator\\emailvalidation.mstestproject\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B488E963-583D-452E-AE8F-38CDCA560CE3}|EmailValidation.MSTestProject\\EmailValidation.MSTestProject.csproj|solutionrelative:emailvalidation.mstestproject\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD904BD-D627-49C4-AD69-BB4D323CD6F9}|DemoEmailValidator\\DemoEmailValidator.csproj|c:\\users\\somna\\documents\\wiprotraining\\unit testing\\demoemailvalidator\\demoemailvalidator\\emailvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD904BD-D627-49C4-AD69-BB4D323CD6F9}|DemoEmailValidator\\DemoEmailValidator.csproj|solutionrelative:demoemailvalidator\\emailvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0B2D6D-092B-468C-8E7F-2A5DA1ECD573}|EmailValidation.xUnit\\EmailValidation.xUnit.csproj|c:\\users\\somna\\documents\\wiprotraining\\unit testing\\demoemailvalidator\\emailvalidation.xunit\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F0B2D6D-092B-468C-8E7F-2A5DA1ECD573}|EmailValidation.xUnit\\EmailValidation.xUnit.csproj|solutionrelative:emailvalidation.xunit\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\DemoEmailValidator\\EmailValidation.xUnit\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "EmailValidation.xUnit\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\DemoEmailValidator\\EmailValidation.xUnit\\UnitTest1.cs",
+              "RelativeToolTip": "EmailValidation.xUnit\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:10:06.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\DemoEmailValidator\\EmailValidation.MSTestProject\\Test1.cs",
+              "RelativeDocumentMoniker": "EmailValidation.MSTestProject\\Test1.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\DemoEmailValidator\\EmailValidation.MSTestProject\\Test1.cs",
+              "RelativeToolTip": "EmailValidation.MSTestProject\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:02:21.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailValidator.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\DemoEmailValidator\\DemoEmailValidator\\EmailValidator.cs",
+              "RelativeDocumentMoniker": "DemoEmailValidator\\EmailValidator.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\DemoEmailValidator\\DemoEmailValidator\\EmailValidator.cs",
+              "RelativeToolTip": "DemoEmailValidator\\EmailValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T09:53:51.038Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

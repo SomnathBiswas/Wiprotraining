@@ -1,0 +1,15 @@
+C:\Users\somna\Documents\wiprotraining\Unit Testing\DemoEmailValidator\DemoEmailValidator\bin\Debug\net8.0\DemoEmailValidator.exe
+C:\Users\somna\Documents\wiprotraining\Unit Testing\DemoEmailValidator\DemoEmailValidator\bin\Debug\net8.0\DemoEmailValidator.deps.json
+C:\Users\somna\Documents\wiprotraining\Unit Testing\DemoEmailValidator\DemoEmailValidator\bin\Debug\net8.0\DemoEmailValidator.runtimeconfig.json
+C:\Users\somna\Documents\wiprotraining\Unit Testing\DemoEmailValidator\DemoEmailValidator\bin\Debug\net8.0\DemoEmailValidator.dll
+C:\Users\somna\Documents\wiprotraining\Unit Testing\DemoEmailValidator\DemoEmailValidator\bin\Debug\net8.0\DemoEmailValidator.pdb
+C:\Users\somna\Documents\wiprotraining\Unit Testing\DemoEmailValidator\DemoEmailValidator\obj\Debug\net8.0\DemoEmailValidator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\somna\Documents\wiprotraining\Unit Testing\DemoEmailValidator\DemoEmailValidator\obj\Debug\net8.0\DemoEmailValidator.AssemblyInfoInputs.cache
+C:\Users\somna\Documents\wiprotraining\Unit Testing\DemoEmailValidator\DemoEmailValidator\obj\Debug\net8.0\DemoEmailValidator.AssemblyInfo.cs
+C:\Users\somna\Documents\wiprotraining\Unit Testing\DemoEmailValidator\DemoEmailValidator\obj\Debug\net8.0\DemoEmailValidator.csproj.CoreCompileInputs.cache
+C:\Users\somna\Documents\wiprotraining\Unit Testing\DemoEmailValidator\DemoEmailValidator\obj\Debug\net8.0\DemoEmailValidator.sourcelink.json
+C:\Users\somna\Documents\wiprotraining\Unit Testing\DemoEmailValidator\DemoEmailValidator\obj\Debug\net8.0\DemoEmailValidator.dll
+C:\Users\somna\Documents\wiprotraining\Unit Testing\DemoEmailValidator\DemoEmailValidator\obj\Debug\net8.0\refint\DemoEmailValidator.dll
+C:\Users\somna\Documents\wiprotraining\Unit Testing\DemoEmailValidator\DemoEmailValidator\obj\Debug\net8.0\DemoEmailValidator.pdb
+C:\Users\somna\Documents\wiprotraining\Unit Testing\DemoEmailValidator\DemoEmailValidator\obj\Debug\net8.0\DemoEmailValidator.genruntimeconfig.cache
+C:\Users\somna\Documents\wiprotraining\Unit Testing\DemoEmailValidator\DemoEmailValidator\obj\Debug\net8.0\ref\DemoEmailValidator.dll

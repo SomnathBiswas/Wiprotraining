@@ -1,0 +1,15 @@
+C:\Users\somna\Documents\wiprotraining\day7invoicemaking\bin\Debug\net9.0\day7invoicemaking.exe
+C:\Users\somna\Documents\wiprotraining\day7invoicemaking\bin\Debug\net9.0\day7invoicemaking.deps.json
+C:\Users\somna\Documents\wiprotraining\day7invoicemaking\bin\Debug\net9.0\day7invoicemaking.runtimeconfig.json
+C:\Users\somna\Documents\wiprotraining\day7invoicemaking\bin\Debug\net9.0\day7invoicemaking.dll
+C:\Users\somna\Documents\wiprotraining\day7invoicemaking\bin\Debug\net9.0\day7invoicemaking.pdb
+C:\Users\somna\Documents\wiprotraining\day7invoicemaking\obj\Debug\net9.0\day7invoicemaking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\somna\Documents\wiprotraining\day7invoicemaking\obj\Debug\net9.0\day7invoicemaking.AssemblyInfoInputs.cache
+C:\Users\somna\Documents\wiprotraining\day7invoicemaking\obj\Debug\net9.0\day7invoicemaking.AssemblyInfo.cs
+C:\Users\somna\Documents\wiprotraining\day7invoicemaking\obj\Debug\net9.0\day7invoicemaking.csproj.CoreCompileInputs.cache
+C:\Users\somna\Documents\wiprotraining\day7invoicemaking\obj\Debug\net9.0\day7invoicemaking.sourcelink.json
+C:\Users\somna\Documents\wiprotraining\day7invoicemaking\obj\Debug\net9.0\day7invoicemaking.dll
+C:\Users\somna\Documents\wiprotraining\day7invoicemaking\obj\Debug\net9.0\refint\day7invoicemaking.dll
+C:\Users\somna\Documents\wiprotraining\day7invoicemaking\obj\Debug\net9.0\day7invoicemaking.pdb
+C:\Users\somna\Documents\wiprotraining\day7invoicemaking\obj\Debug\net9.0\day7invoicemaking.genruntimeconfig.cache
+C:\Users\somna\Documents\wiprotraining\day7invoicemaking\obj\Debug\net9.0\ref\day7invoicemaking.dll

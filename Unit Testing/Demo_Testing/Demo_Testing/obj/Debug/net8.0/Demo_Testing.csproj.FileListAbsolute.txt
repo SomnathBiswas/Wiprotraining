@@ -1,0 +1,15 @@
+C:\Users\somna\Documents\wiprotraining\Unit Testing\Demo_Testing\Demo_Testing\bin\Debug\net8.0\Demo_Testing.exe
+C:\Users\somna\Documents\wiprotraining\Unit Testing\Demo_Testing\Demo_Testing\bin\Debug\net8.0\Demo_Testing.deps.json
+C:\Users\somna\Documents\wiprotraining\Unit Testing\Demo_Testing\Demo_Testing\bin\Debug\net8.0\Demo_Testing.runtimeconfig.json
+C:\Users\somna\Documents\wiprotraining\Unit Testing\Demo_Testing\Demo_Testing\bin\Debug\net8.0\Demo_Testing.dll
+C:\Users\somna\Documents\wiprotraining\Unit Testing\Demo_Testing\Demo_Testing\bin\Debug\net8.0\Demo_Testing.pdb
+C:\Users\somna\Documents\wiprotraining\Unit Testing\Demo_Testing\Demo_Testing\obj\Debug\net8.0\Demo_Testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\somna\Documents\wiprotraining\Unit Testing\Demo_Testing\Demo_Testing\obj\Debug\net8.0\Demo_Testing.AssemblyInfoInputs.cache
+C:\Users\somna\Documents\wiprotraining\Unit Testing\Demo_Testing\Demo_Testing\obj\Debug\net8.0\Demo_Testing.AssemblyInfo.cs
+C:\Users\somna\Documents\wiprotraining\Unit Testing\Demo_Testing\Demo_Testing\obj\Debug\net8.0\Demo_Testing.csproj.CoreCompileInputs.cache
+C:\Users\somna\Documents\wiprotraining\Unit Testing\Demo_Testing\Demo_Testing\obj\Debug\net8.0\Demo_Testing.sourcelink.json
+C:\Users\somna\Documents\wiprotraining\Unit Testing\Demo_Testing\Demo_Testing\obj\Debug\net8.0\Demo_Testing.dll
+C:\Users\somna\Documents\wiprotraining\Unit Testing\Demo_Testing\Demo_Testing\obj\Debug\net8.0\refint\Demo_Testing.dll
+C:\Users\somna\Documents\wiprotraining\Unit Testing\Demo_Testing\Demo_Testing\obj\Debug\net8.0\Demo_Testing.pdb
+C:\Users\somna\Documents\wiprotraining\Unit Testing\Demo_Testing\Demo_Testing\obj\Debug\net8.0\Demo_Testing.genruntimeconfig.cache
+C:\Users\somna\Documents\wiprotraining\Unit Testing\Demo_Testing\Demo_Testing\obj\Debug\net8.0\ref\Demo_Testing.dll

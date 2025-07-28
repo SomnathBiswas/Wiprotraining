@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\Demo_Testing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{087617D6-D5D3-41BE-AD27-35E50AF6866D}|MathLibrary\\MathLibrary.csproj|c:\\users\\somna\\documents\\wiprotraining\\unit testing\\demo_testing\\mathlibrary\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{087617D6-D5D3-41BE-AD27-35E50AF6866D}|MathLibrary\\MathLibrary.csproj|solutionrelative:mathlibrary\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D33BACC-3A52-4A24-AB6A-C2A3A7A02E63}|Demo_Testing\\Demo_Testing.csproj|c:\\users\\somna\\documents\\wiprotraining\\unit testing\\demo_testing\\demo_testing\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D33BACC-3A52-4A24-AB6A-C2A3A7A02E63}|Demo_Testing\\Demo_Testing.csproj|solutionrelative:demo_testing\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\Demo_Testing\\MathLibrary\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "MathLibrary\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\Demo_Testing\\MathLibrary\\UnitTest1.cs",
+              "RelativeToolTip": "MathLibrary\\UnitTest1.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T05:34:46.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\Demo_Testing\\Demo_Testing\\Calculator.cs",
+              "RelativeDocumentMoniker": "Demo_Testing\\Calculator.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\Demo_Testing\\Demo_Testing\\Calculator.cs",
+              "RelativeToolTip": "Demo_Testing\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T05:29:54.42Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
