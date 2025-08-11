@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spring Flowers School - Student Portal</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.0/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container">
+            <a class="navbar-brand" href="#">Spring Flowers School</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#" onclick="showDashboard()">Dashboard</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#" onclick="showProfile()">Profile</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#" onclick="showTimeTable()">TimeTable</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#" onclick="logout()">Logout</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <div class="container-fluid">
+        <div class="row">
+            <!-- Sidebar -->
+            <div class="col-md-3 sidebar">
+                <div class="sidebar-content">
+                    <h6 class="sidebar-title">Student Menu</h6>
+                    <div class="sidebar-divider"></div>
+                    <ul class="nav flex-column">
+                        <li class="nav-item">
+                            <a class="nav-link active" href="#" onclick="showDashboard()">Dashboard</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#" onclick="showProfile()">Profile</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#" onclick="showTimeTable()">TimeTable</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#" onclick="showGrades()">Grades</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#" onclick="showAttendance()">Attendance</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Content Area -->
+            <div class="col-md-9 main-content">
+                <!-- Dashboard Section -->
+                <div id="dashboard" class="content-section">
+                    <div class="page-header">
+                        <h3>Welcome back, Somnath Biswas</h3>
+                        <p class="text-muted">Student ID: ST2024001 | Class: 10th Grade</p>
+                    </div>
+                    
+                    <div class="row">
+                        <div class="col-md-4 mb-3">
+                            <div class="card stats-card">
+                                <div class="card-body">
+                                    <h6 class="card-title">Total Subjects</h6>
+                                    <h4 class="stats-number">8</h4>
+                                    <small class="text-muted">Current semester</small>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 mb-3">
+                            <div class="card stats-card">
+                                <div class="card-body">
+                                    <h6 class="card-title">Attendance</h6>
+                                    <h4 class="stats-number">92%</h4>
+                                    <small class="text-muted">This month</small>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 mb-3">
+                            <div class="card stats-card">
+                                <div class="card-body">
+                                    <h6 class="card-title">Average Grade</h6>
+                                    <h4 class="stats-number">A-</h4>
+                                    <small class="text-muted">Current semester</small>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row mt-4">
+                        <div class="col-md-6">
+                            <div class="card">
+                                <div class="card-header">
+                                    <h6 class="mb-0">Recent Activities</h6>
+                                </div>
+                                <div class="card-body">
+                                    <ul class="list-unstyled">
+                                        <li class="mb-2">Mathematics assignment submitted</li>
+                                        <li class="mb-2">Physics test scheduled for tomorrow</li>
+                                        <li class="mb-2">English essay due next week</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="card">
+                                <div class="card-header">
+                                    <h6 class="mb-0">Upcoming Events</h6>
+                                </div>
+                                <div class="card-body">
+                                    <ul class="list-unstyled">
+                                        <li class="mb-2">Science Fair - Aug 15</li>
+                                        <li class="mb-2">Parent Meeting - Aug 20</li>
+                                        <li class="mb-2">Sports Day - Aug 25</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Profile Section -->
+                <div id="profile" class="content-section" style="display: none;">
+                    <div class="page-header">
+                        <h3>Student Profile</h3>
+                    </div>
+                    
+                    <div class="card">
+                        <div class="card-body">
+                            <div class="row">
+                                <div class="col-md-12 text-center mb-4">
+                                    <div class="profile-photo-container">
+                                        <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" class="profile-photo" alt="Student Photo">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <table class="table table-borderless profile-table mx-auto">
+                                        <tr>
+                                            <td><strong>Full Name:</strong></td>
+                                            <td>Somnath Biswas</td>
+                                        </tr>
+                                        <tr>
+                                            <td><strong>Student ID:</strong></td>
+                                            <td>ST2024001</td>
+                                        </tr>
+                                        <tr>
+                                            <td><strong>Class:</strong></td>
+                                            <td>10th Grade</td>
+                                        </tr>
+                                        <tr>
+                                            <td><strong>Email:</strong></td>
+                                            <td>somnath.b@springflowers.edu</td>
+                                        </tr>
+                                        <tr>
+                                            <td><strong>Phone:</strong></td>
+                                            <td>+91 9876543210</td>
+                                        </tr>
+                                        <tr>
+                                            <td><strong>Address:</strong></td>
+                                            <td>Kolkata, West Bengal</td>
+                                        </tr>
+                                        <tr>
+                                            <td><strong>Date of Birth:</strong></td>
+                                            <td>March 15, 2008</td>
+                                        </tr>
+                                    </table>
+                                    <button class="btn btn-primary">Edit Profile</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- TimeTable Section -->
+                <div id="timetable" class="content-section" style="display: none;">
+                    <div class="page-header">
+                        <h3>My TimeTable</h3>
+                    </div>
+                    
+                    <div class="timetable-wrapper">
+                        <div class="table-responsive">
+                            <table class="table table-bordered timetable-table">
+                                <thead>
+                                    <tr>
+                                        <th width="120">Time</th>
+                                        <th>Monday</th>
+                                        <th>Tuesday</th>
+                                        <th>Wednesday</th>
+                                        <th>Thursday</th>
+                                        <th>Friday</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td class="time-cell">8:00 - 9:00</td>
+                                        <td class="math-subject">Mathematics</td>
+                                        <td class="english-subject">English</td>
+                                        <td class="science-subject">Physics</td>
+                                        <td class="math-subject">Mathematics</td>
+                                        <td class="english-subject">English</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="time-cell">9:00 - 10:00</td>
+                                        <td class="science-subject">Chemistry</td>
+                                        <td class="math-subject">Mathematics</td>
+                                        <td class="english-subject">English</td>
+                                        <td class="science-subject">Biology</td>
+                                        <td class="math-subject">Mathematics</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="time-cell">10:00 - 10:15</td>
+                                        <td colspan="5" class="break-time">Break Time</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="time-cell">10:15 - 11:15</td>
+                                        <td class="history-subject">History</td>
+                                        <td class="science-subject">Physics</td>
+                                        <td class="math-subject">Mathematics</td>
+                                        <td class="english-subject">English</td>
+                                        <td class="science-subject">Chemistry</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="time-cell">11:15 - 12:15</td>
+                                        <td class="english-subject">English</td>
+                                        <td class="geography-subject">Geography</td>
+                                        <td class="science-subject">Biology</td>
+                                        <td class="history-subject">History</td>
+                                        <td class="pe-subject">Physical Ed.</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="time-cell">12:15 - 1:00</td>
+                                        <td colspan="5" class="lunch-time">Lunch Break</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="time-cell">1:00 - 2:00</td>
+                                        <td class="science-subject">Biology</td>
+                                        <td class="art-subject">Art</td>
+                                        <td class="history-subject">History</td>
+                                        <td class="geography-subject">Geography</td>
+                                        <td class="music-subject">Music</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="time-cell">2:00 - 3:00</td>
+                                        <td class="pe-subject">Physical Ed.</td>
+                                        <td class="computer-subject">Computer</td>
+                                        <td class="art-subject">Art</td>
+                                        <td class="computer-subject">Computer</td>
+                                        <td class="study-subject">Study Hall</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

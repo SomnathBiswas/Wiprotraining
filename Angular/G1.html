@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Grocery Manager</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    .tabs {
+      display: flex;
+      margin-bottom: 10px;
+    }
+    .tab-button {
+      padding: 10px 20px;
+      border: 1px solid #ccc;
+      background-color: #eee;
+      cursor: pointer;
+      margin-right: 5px;
+    }
+    .tab-button.active {
+      background-color: #ddd;
+      font-weight: bold;
+    }
+    .tab-content {
+      border: 1px solid #ccc;
+      padding: 10px;
+      display: none;
+    }
+    .tab-content.active {
+      display: block;
+    }
+    button {
+      margin-left: 5px;
+    }
+    ul {
+      list-style-type: none;
+      padding-left: 0;
+    }
+    li {
+      margin: 5px 0;
+    }
+  </style>
+</head>
+<body onload="listGroceries()">
+
+  <h2>Grocery Management</h2>
+
+  <div class="tabs">
+    <div class="tab-button active" onclick="showTab('tab1')">All Items</div>
+    <div class="tab-button" onclick="showTab('tab2')">Add Item</div>
+    <div class="tab-button" onclick="showTab('tab3'); listPurchased();">Purchased</div>
+  </div>
+
+  <div id="tab1" class="tab-content active">
+    <div id="groceryList">Loading items...</div>
+  </div>
+
+  <div id="tab2" class="tab-content">
+    <input type="text" id="newItem" placeholder="Enter grocery item">
+    <button onclick="addItem()">Add Item</button>
+  </div>
+
+  <div id="tab3" class="tab-content">
+    <div id="purchasedList">No purchased items.</div>
+  </div>
+
+  <script>
+    var groceryList = [
+      { id: 1, name: "Milk", purchased: false },
+      { id: 2, name: "Bread", purchased: true },
+      { id: 3, name: "Eggs", purchased: false }
+    ];
+    var nextId = 4;
+
+    function listGroceries() {
+      var list = document.getElementById("groceryList");
+      list.innerHTML = "<ul>";
+      groceryList.forEach(function(item) {
+        list.innerHTML += "<li>" + item.name +
+          (item.purchased ? " <button onclick='markUnpurchased(" + item.id + ")'>Mark Unpurchased</button>" :
+            " <button onclick='markPurchased(" + item.id + ")'>Mark Purchased</button>") +
+          " <button onclick='deleteItem(" + item.id + ")'>X</button></li>";
+      });
+      list.innerHTML += "</ul>";
+    }
+
+    function addItem() {
+      var name = document.getElementById("newItem").value.trim();
+      if (name) {
+        groceryList.push({ id: nextId++, name: name, purchased: false });
+        document.getElementById("newItem").value = "";
+        listGroceries();
+        alert("Item added!");
+      } else {
+        alert("Please enter a valid item name.");
+      }
+    }
+
+    function deleteItem(id) {
+      groceryList = groceryList.filter(item => item.id !== id);
+      listGroceries();
+    }
+
+    function markPurchased(id) {
+      groceryList.forEach(item => {
+        if (item.id === id) item.purchased = true;
+      });
+      listGroceries();
+    }
+
+    function markUnpurchased(id) {
+      groceryList.forEach(item => {
+        if (item.id === id) item.purchased = false;
+      });
+      listGroceries();
+    }
+
+    function listPurchased() {
+      var purchased = groceryList.filter(item => item.purchased);
+      var display = document.getElementById("purchasedList");
+      if (purchased.length === 0) {
+        display.innerHTML = "No purchased items.";
+        return;
+      }
+      display.innerHTML = "<ul>";
+      purchased.forEach(item => {
+        display.innerHTML += "<li>" + item.name + "</li>";
+      });
+      display.innerHTML += "</ul>";
+    }
+
+    function showTab(tabId) {
+      var contents = document.querySelectorAll(".tab-content");
+      var buttons = document.querySelectorAll(".tab-button");
+      contents.forEach(c => c.classList.remove("active"));
+      buttons.forEach(b => b.classList.remove("active"));
+      document.getElementById(tabId).classList.add("active");
+      event.target.classList.add("active");
+    }
+  </script>
+
+</body>
+</html>

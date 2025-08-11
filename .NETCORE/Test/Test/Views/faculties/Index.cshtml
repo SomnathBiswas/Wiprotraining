@@ -1,0 +1,33 @@
+﻿@model IEnumerable<Test.Models.faculty> // This line indicates that the model for this view is a collection of Patient objects.
+<h2>Faculties Databases</h2>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Department</th>
+            <th>Email</th>
+            <th>Phone Number</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var faculty in Model)
+        {
+            <tr>
+                <td>@faculty.Id</td>
+                <td>@faculty.Name</td>
+                <td>@faculty.Department</td>
+                <td>@faculty.Email</td>
+                <td>@faculty.PhoneNumber</td>
+                
+                <td>
+                    <a href="../Faculties/Delete?id=@faculty.Id">Delete</a>
+                </td>
+                <td>
+                    <a href="../Faculties/Edit?id=@faculty.Id">Edit</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

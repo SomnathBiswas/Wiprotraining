@@ -1,0 +1,12 @@
+C:\Users\somna\Documents\wiprotraining\Unit Testing\CoreRazorApp\CommonUtils\bin\Debug\net8.0\CommonUtils.deps.json
+C:\Users\somna\Documents\wiprotraining\Unit Testing\CoreRazorApp\CommonUtils\bin\Debug\net8.0\CommonUtils.dll
+C:\Users\somna\Documents\wiprotraining\Unit Testing\CoreRazorApp\CommonUtils\bin\Debug\net8.0\CommonUtils.pdb
+C:\Users\somna\Documents\wiprotraining\Unit Testing\CoreRazorApp\CommonUtils\obj\Debug\net8.0\CommonUtils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\somna\Documents\wiprotraining\Unit Testing\CoreRazorApp\CommonUtils\obj\Debug\net8.0\CommonUtils.AssemblyInfoInputs.cache
+C:\Users\somna\Documents\wiprotraining\Unit Testing\CoreRazorApp\CommonUtils\obj\Debug\net8.0\CommonUtils.AssemblyInfo.cs
+C:\Users\somna\Documents\wiprotraining\Unit Testing\CoreRazorApp\CommonUtils\obj\Debug\net8.0\CommonUtils.csproj.CoreCompileInputs.cache
+C:\Users\somna\Documents\wiprotraining\Unit Testing\CoreRazorApp\CommonUtils\obj\Debug\net8.0\CommonUtils.sourcelink.json
+C:\Users\somna\Documents\wiprotraining\Unit Testing\CoreRazorApp\CommonUtils\obj\Debug\net8.0\CommonUtils.dll
+C:\Users\somna\Documents\wiprotraining\Unit Testing\CoreRazorApp\CommonUtils\obj\Debug\net8.0\refint\CommonUtils.dll
+C:\Users\somna\Documents\wiprotraining\Unit Testing\CoreRazorApp\CommonUtils\obj\Debug\net8.0\CommonUtils.pdb
+C:\Users\somna\Documents\wiprotraining\Unit Testing\CoreRazorApp\CommonUtils\obj\Debug\net8.0\ref\CommonUtils.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36327.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecureUserManagement", "SecureUserManagement\SecureUserManagement.csproj", "{9CC3BBBD-0477-48E9-A4D8-9539E682273D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecureUserManagement.Tests", "SecureUserManagement.Tests\SecureUserManagement.Tests.csproj", "{DF28B77A-037A-4424-9176-1CB4BA86B718}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CC3BBBD-0477-48E9-A4D8-9539E682273D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CC3BBBD-0477-48E9-A4D8-9539E682273D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CC3BBBD-0477-48E9-A4D8-9539E682273D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CC3BBBD-0477-48E9-A4D8-9539E682273D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF28B77A-037A-4424-9176-1CB4BA86B718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF28B77A-037A-4424-9176-1CB4BA86B718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF28B77A-037A-4424-9176-1CB4BA86B718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF28B77A-037A-4424-9176-1CB4BA86B718}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45403BB7-BC24-4422-8D94-89E2679099C9}
+	EndGlobalSection
+EndGlobal

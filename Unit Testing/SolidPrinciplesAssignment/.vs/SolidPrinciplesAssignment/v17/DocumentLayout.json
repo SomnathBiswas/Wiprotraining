@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\SolidPrinciplesAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{332148B0-7A84-4212-8BE2-B5BC56577E47}|SolidPrinciplesAssignment\\SolidPrinciplesAssignment.csproj|c:\\users\\somna\\documents\\wiprotraining\\unit testing\\solidprinciplesassignment\\solidprinciplesassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332148B0-7A84-4212-8BE2-B5BC56577E47}|SolidPrinciplesAssignment\\SolidPrinciplesAssignment.csproj|solutionrelative:solidprinciplesassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332148B0-7A84-4212-8BE2-B5BC56577E47}|SolidPrinciplesAssignment\\SolidPrinciplesAssignment.csproj|c:\\users\\somna\\documents\\wiprotraining\\unit testing\\solidprinciplesassignment\\solidprinciplesassignment\\designpatterns\\documentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332148B0-7A84-4212-8BE2-B5BC56577E47}|SolidPrinciplesAssignment\\SolidPrinciplesAssignment.csproj|solutionrelative:solidprinciplesassignment\\designpatterns\\documentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332148B0-7A84-4212-8BE2-B5BC56577E47}|SolidPrinciplesAssignment\\SolidPrinciplesAssignment.csproj|c:\\users\\somna\\documents\\wiprotraining\\unit testing\\solidprinciplesassignment\\solidprinciplesassignment\\designpatterns\\worddocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332148B0-7A84-4212-8BE2-B5BC56577E47}|SolidPrinciplesAssignment\\SolidPrinciplesAssignment.csproj|solutionrelative:solidprinciplesassignment\\designpatterns\\worddocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332148B0-7A84-4212-8BE2-B5BC56577E47}|SolidPrinciplesAssignment\\SolidPrinciplesAssignment.csproj|c:\\users\\somna\\documents\\wiprotraining\\unit testing\\solidprinciplesassignment\\solidprinciplesassignment\\designpatterns\\pdfdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332148B0-7A84-4212-8BE2-B5BC56577E47}|SolidPrinciplesAssignment\\SolidPrinciplesAssignment.csproj|solutionrelative:solidprinciplesassignment\\designpatterns\\pdfdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332148B0-7A84-4212-8BE2-B5BC56577E47}|SolidPrinciplesAssignment\\SolidPrinciplesAssignment.csproj|c:\\users\\somna\\documents\\wiprotraining\\unit testing\\solidprinciplesassignment\\solidprinciplesassignment\\solidprinciplesassignment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{332148B0-7A84-4212-8BE2-B5BC56577E47}|SolidPrinciplesAssignment\\SolidPrinciplesAssignment.csproj|solutionrelative:solidprinciplesassignment\\solidprinciplesassignment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332148B0-7A84-4212-8BE2-B5BC56577E47}|SolidPrinciplesAssignment\\SolidPrinciplesAssignment.csproj|c:\\users\\somna\\documents\\wiprotraining\\unit testing\\solidprinciplesassignment\\solidprinciplesassignment\\interfaces\\idocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332148B0-7A84-4212-8BE2-B5BC56577E47}|SolidPrinciplesAssignment\\SolidPrinciplesAssignment.csproj|solutionrelative:solidprinciplesassignment\\interfaces\\idocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332148B0-7A84-4212-8BE2-B5BC56577E47}|SolidPrinciplesAssignment\\SolidPrinciplesAssignment.csproj|c:\\users\\somna\\documents\\wiprotraining\\unit testing\\solidprinciplesassignment\\solidprinciplesassignment\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332148B0-7A84-4212-8BE2-B5BC56577E47}|SolidPrinciplesAssignment\\SolidPrinciplesAssignment.csproj|solutionrelative:solidprinciplesassignment\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332148B0-7A84-4212-8BE2-B5BC56577E47}|SolidPrinciplesAssignment\\SolidPrinciplesAssignment.csproj|c:\\users\\somna\\documents\\wiprotraining\\unit testing\\solidprinciplesassignment\\solidprinciplesassignment\\interfaces\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332148B0-7A84-4212-8BE2-B5BC56577E47}|SolidPrinciplesAssignment\\SolidPrinciplesAssignment.csproj|solutionrelative:solidprinciplesassignment\\interfaces\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332148B0-7A84-4212-8BE2-B5BC56577E47}|SolidPrinciplesAssignment\\SolidPrinciplesAssignment.csproj|c:\\users\\somna\\documents\\wiprotraining\\unit testing\\solidprinciplesassignment\\solidprinciplesassignment\\interfaces\\isavable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332148B0-7A84-4212-8BE2-B5BC56577E47}|SolidPrinciplesAssignment\\SolidPrinciplesAssignment.csproj|solutionrelative:solidprinciplesassignment\\interfaces\\isavable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332148B0-7A84-4212-8BE2-B5BC56577E47}|SolidPrinciplesAssignment\\SolidPrinciplesAssignment.csproj|c:\\users\\somna\\documents\\wiprotraining\\unit testing\\solidprinciplesassignment\\solidprinciplesassignment\\interfaces\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332148B0-7A84-4212-8BE2-B5BC56577E47}|SolidPrinciplesAssignment\\SolidPrinciplesAssignment.csproj|solutionrelative:solidprinciplesassignment\\interfaces\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332148B0-7A84-4212-8BE2-B5BC56577E47}|SolidPrinciplesAssignment\\SolidPrinciplesAssignment.csproj|c:\\users\\somna\\documents\\wiprotraining\\unit testing\\solidprinciplesassignment\\solidprinciplesassignment\\models\\inventoryreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332148B0-7A84-4212-8BE2-B5BC56577E47}|SolidPrinciplesAssignment\\SolidPrinciplesAssignment.csproj|solutionrelative:solidprinciplesassignment\\models\\inventoryreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332148B0-7A84-4212-8BE2-B5BC56577E47}|SolidPrinciplesAssignment\\SolidPrinciplesAssignment.csproj|c:\\users\\somna\\documents\\wiprotraining\\unit testing\\solidprinciplesassignment\\solidprinciplesassignment\\models\\salesreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332148B0-7A84-4212-8BE2-B5BC56577E47}|SolidPrinciplesAssignment\\SolidPrinciplesAssignment.csproj|solutionrelative:solidprinciplesassignment\\models\\salesreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332148B0-7A84-4212-8BE2-B5BC56577E47}|SolidPrinciplesAssignment\\SolidPrinciplesAssignment.csproj|c:\\users\\somna\\documents\\wiprotraining\\unit testing\\solidprinciplesassignment\\solidprinciplesassignment\\models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332148B0-7A84-4212-8BE2-B5BC56577E47}|SolidPrinciplesAssignment\\SolidPrinciplesAssignment.csproj|solutionrelative:solidprinciplesassignment\\models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332148B0-7A84-4212-8BE2-B5BC56577E47}|SolidPrinciplesAssignment\\SolidPrinciplesAssignment.csproj|c:\\users\\somna\\documents\\wiprotraining\\unit testing\\solidprinciplesassignment\\solidprinciplesassignment\\formatters\\excelreportformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332148B0-7A84-4212-8BE2-B5BC56577E47}|SolidPrinciplesAssignment\\SolidPrinciplesAssignment.csproj|solutionrelative:solidprinciplesassignment\\formatters\\excelreportformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332148B0-7A84-4212-8BE2-B5BC56577E47}|SolidPrinciplesAssignment\\SolidPrinciplesAssignment.csproj|c:\\users\\somna\\documents\\wiprotraining\\unit testing\\solidprinciplesassignment\\solidprinciplesassignment\\formatters\\pdfreportformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332148B0-7A84-4212-8BE2-B5BC56577E47}|SolidPrinciplesAssignment\\SolidPrinciplesAssignment.csproj|solutionrelative:solidprinciplesassignment\\formatters\\pdfreportformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332148B0-7A84-4212-8BE2-B5BC56577E47}|SolidPrinciplesAssignment\\SolidPrinciplesAssignment.csproj|c:\\users\\somna\\documents\\wiprotraining\\unit testing\\solidprinciplesassignment\\solidprinciplesassignment\\interfaces\\ireportformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332148B0-7A84-4212-8BE2-B5BC56577E47}|SolidPrinciplesAssignment\\SolidPrinciplesAssignment.csproj|solutionrelative:solidprinciplesassignment\\interfaces\\ireportformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332148B0-7A84-4212-8BE2-B5BC56577E47}|SolidPrinciplesAssignment\\SolidPrinciplesAssignment.csproj|c:\\users\\somna\\documents\\wiprotraining\\unit testing\\solidprinciplesassignment\\solidprinciplesassignment\\reportsaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332148B0-7A84-4212-8BE2-B5BC56577E47}|SolidPrinciplesAssignment\\SolidPrinciplesAssignment.csproj|solutionrelative:solidprinciplesassignment\\reportsaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332148B0-7A84-4212-8BE2-B5BC56577E47}|SolidPrinciplesAssignment\\SolidPrinciplesAssignment.csproj|c:\\users\\somna\\documents\\wiprotraining\\unit testing\\solidprinciplesassignment\\solidprinciplesassignment\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332148B0-7A84-4212-8BE2-B5BC56577E47}|SolidPrinciplesAssignment\\SolidPrinciplesAssignment.csproj|solutionrelative:solidprinciplesassignment\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DocumentFactory.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\SolidPrinciplesAssignment\\SolidPrinciplesAssignment\\DesignPatterns\\DocumentFactory.cs",
+              "RelativeDocumentMoniker": "SolidPrinciplesAssignment\\DesignPatterns\\DocumentFactory.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\SolidPrinciplesAssignment\\SolidPrinciplesAssignment\\DesignPatterns\\DocumentFactory.cs",
+              "RelativeToolTip": "SolidPrinciplesAssignment\\DesignPatterns\\DocumentFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T17:12:35.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WordDocument.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\SolidPrinciplesAssignment\\SolidPrinciplesAssignment\\DesignPatterns\\WordDocument.cs",
+              "RelativeDocumentMoniker": "SolidPrinciplesAssignment\\DesignPatterns\\WordDocument.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\SolidPrinciplesAssignment\\SolidPrinciplesAssignment\\DesignPatterns\\WordDocument.cs",
+              "RelativeToolTip": "SolidPrinciplesAssignment\\DesignPatterns\\WordDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T17:12:16.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\SolidPrinciplesAssignment\\SolidPrinciplesAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "SolidPrinciplesAssignment\\Program.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\SolidPrinciplesAssignment\\SolidPrinciplesAssignment\\Program.cs",
+              "RelativeToolTip": "SolidPrinciplesAssignment\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswBUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T16:41:58.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PDFDocument.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\SolidPrinciplesAssignment\\SolidPrinciplesAssignment\\DesignPatterns\\PDFDocument.cs",
+              "RelativeDocumentMoniker": "SolidPrinciplesAssignment\\DesignPatterns\\PDFDocument.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\SolidPrinciplesAssignment\\SolidPrinciplesAssignment\\DesignPatterns\\PDFDocument.cs",
+              "RelativeToolTip": "SolidPrinciplesAssignment\\DesignPatterns\\PDFDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T17:12:00.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDocument.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\SolidPrinciplesAssignment\\SolidPrinciplesAssignment\\Interfaces\\IDocument.cs",
+              "RelativeDocumentMoniker": "SolidPrinciplesAssignment\\Interfaces\\IDocument.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\SolidPrinciplesAssignment\\SolidPrinciplesAssignment\\Interfaces\\IDocument.cs",
+              "RelativeToolTip": "SolidPrinciplesAssignment\\Interfaces\\IDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T17:11:25.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\SolidPrinciplesAssignment\\SolidPrinciplesAssignment\\Services\\ReportService.cs",
+              "RelativeDocumentMoniker": "SolidPrinciplesAssignment\\Services\\ReportService.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\SolidPrinciplesAssignment\\SolidPrinciplesAssignment\\Services\\ReportService.cs",
+              "RelativeToolTip": "SolidPrinciplesAssignment\\Services\\ReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T17:10:48.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SolidPrinciplesAssignment",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\SolidPrinciplesAssignment\\SolidPrinciplesAssignment\\SolidPrinciplesAssignment.csproj",
+              "RelativeDocumentMoniker": "SolidPrinciplesAssignment\\SolidPrinciplesAssignment.csproj",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\SolidPrinciplesAssignment\\SolidPrinciplesAssignment\\SolidPrinciplesAssignment.csproj",
+              "RelativeToolTip": "SolidPrinciplesAssignment\\SolidPrinciplesAssignment.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-04T17:06:09.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IReportService.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\SolidPrinciplesAssignment\\SolidPrinciplesAssignment\\Interfaces\\IReportService.cs",
+              "RelativeDocumentMoniker": "SolidPrinciplesAssignment\\Interfaces\\IReportService.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\SolidPrinciplesAssignment\\SolidPrinciplesAssignment\\Interfaces\\IReportService.cs",
+              "RelativeToolTip": "SolidPrinciplesAssignment\\Interfaces\\IReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T17:10:09.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ISavable.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\SolidPrinciplesAssignment\\SolidPrinciplesAssignment\\Interfaces\\ISavable.cs",
+              "RelativeDocumentMoniker": "SolidPrinciplesAssignment\\Interfaces\\ISavable.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\SolidPrinciplesAssignment\\SolidPrinciplesAssignment\\Interfaces\\ISavable.cs",
+              "RelativeToolTip": "SolidPrinciplesAssignment\\Interfaces\\ISavable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T17:09:36.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPrintable.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\SolidPrinciplesAssignment\\SolidPrinciplesAssignment\\Interfaces\\IPrintable.cs",
+              "RelativeDocumentMoniker": "SolidPrinciplesAssignment\\Interfaces\\IPrintable.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\SolidPrinciplesAssignment\\SolidPrinciplesAssignment\\Interfaces\\IPrintable.cs",
+              "RelativeToolTip": "SolidPrinciplesAssignment\\Interfaces\\IPrintable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T17:09:23.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InventoryReport.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\SolidPrinciplesAssignment\\SolidPrinciplesAssignment\\Models\\InventoryReport.cs",
+              "RelativeDocumentMoniker": "SolidPrinciplesAssignment\\Models\\InventoryReport.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\SolidPrinciplesAssignment\\SolidPrinciplesAssignment\\Models\\InventoryReport.cs",
+              "RelativeToolTip": "SolidPrinciplesAssignment\\Models\\InventoryReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T17:08:53.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SalesReport.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\SolidPrinciplesAssignment\\SolidPrinciplesAssignment\\Models\\SalesReport.cs",
+              "RelativeDocumentMoniker": "SolidPrinciplesAssignment\\Models\\SalesReport.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\SolidPrinciplesAssignment\\SolidPrinciplesAssignment\\Models\\SalesReport.cs",
+              "RelativeToolTip": "SolidPrinciplesAssignment\\Models\\SalesReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T17:08:35.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Report.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\SolidPrinciplesAssignment\\SolidPrinciplesAssignment\\Models\\Report.cs",
+              "RelativeDocumentMoniker": "SolidPrinciplesAssignment\\Models\\Report.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\SolidPrinciplesAssignment\\SolidPrinciplesAssignment\\Models\\Report.cs",
+              "RelativeToolTip": "SolidPrinciplesAssignment\\Models\\Report.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T17:08:20.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ExcelReportFormatter.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\SolidPrinciplesAssignment\\SolidPrinciplesAssignment\\Formatters\\ExcelReportFormatter.cs",
+              "RelativeDocumentMoniker": "SolidPrinciplesAssignment\\Formatters\\ExcelReportFormatter.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\SolidPrinciplesAssignment\\SolidPrinciplesAssignment\\Formatters\\ExcelReportFormatter.cs",
+              "RelativeToolTip": "SolidPrinciplesAssignment\\Formatters\\ExcelReportFormatter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T17:06:56.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PdfReportFormatter.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\SolidPrinciplesAssignment\\SolidPrinciplesAssignment\\Formatters\\PdfReportFormatter.cs",
+              "RelativeDocumentMoniker": "SolidPrinciplesAssignment\\Formatters\\PdfReportFormatter.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\SolidPrinciplesAssignment\\SolidPrinciplesAssignment\\Formatters\\PdfReportFormatter.cs",
+              "RelativeToolTip": "SolidPrinciplesAssignment\\Formatters\\PdfReportFormatter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T17:05:42.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IReportFormatter.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\SolidPrinciplesAssignment\\SolidPrinciplesAssignment\\Interfaces\\IReportFormatter.cs",
+              "RelativeDocumentMoniker": "SolidPrinciplesAssignment\\Interfaces\\IReportFormatter.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\SolidPrinciplesAssignment\\SolidPrinciplesAssignment\\Interfaces\\IReportFormatter.cs",
+              "RelativeToolTip": "SolidPrinciplesAssignment\\Interfaces\\IReportFormatter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T17:05:26.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReportSaver.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\SolidPrinciplesAssignment\\SolidPrinciplesAssignment\\ReportSaver.cs",
+              "RelativeDocumentMoniker": "SolidPrinciplesAssignment\\ReportSaver.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\SolidPrinciplesAssignment\\SolidPrinciplesAssignment\\ReportSaver.cs",
+              "RelativeToolTip": "SolidPrinciplesAssignment\\ReportSaver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T17:04:18.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ReportGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\SolidPrinciplesAssignment\\SolidPrinciplesAssignment\\ReportGenerator.cs",
+              "RelativeDocumentMoniker": "SolidPrinciplesAssignment\\ReportGenerator.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\SolidPrinciplesAssignment\\SolidPrinciplesAssignment\\ReportGenerator.cs",
+              "RelativeToolTip": "SolidPrinciplesAssignment\\ReportGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T17:04:06.872Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

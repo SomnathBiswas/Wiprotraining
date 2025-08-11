@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\SecureUserManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5931961-982A-4585-B569-D47CB1E271A8}|SecureUserManagement.Tests\\SecureUserManagement.Tests.csproj|c:\\users\\somna\\documents\\wiprotraining\\unit testing\\secureusermanagement\\secureusermanagement.tests\\usercontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5931961-982A-4585-B569-D47CB1E271A8}|SecureUserManagement.Tests\\SecureUserManagement.Tests.csproj|solutionrelative:secureusermanagement.tests\\usercontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5931961-982A-4585-B569-D47CB1E271A8}|SecureUserManagement.Tests\\SecureUserManagement.Tests.csproj|c:\\users\\somna\\documents\\wiprotraining\\unit testing\\secureusermanagement\\secureusermanagement.tests\\securityservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5931961-982A-4585-B569-D47CB1E271A8}|SecureUserManagement.Tests\\SecureUserManagement.Tests.csproj|solutionrelative:secureusermanagement.tests\\securityservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{572BAAEE-7684-450B-9D01-363E23390B81}|SecureUserManagement\\SecureUserManagement.csproj|c:\\users\\somna\\documents\\wiprotraining\\unit testing\\secureusermanagement\\secureusermanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{572BAAEE-7684-450B-9D01-363E23390B81}|SecureUserManagement\\SecureUserManagement.csproj|solutionrelative:secureusermanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{572BAAEE-7684-450B-9D01-363E23390B81}|SecureUserManagement\\SecureUserManagement.csproj|c:\\users\\somna\\documents\\wiprotraining\\unit testing\\secureusermanagement\\secureusermanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{572BAAEE-7684-450B-9D01-363E23390B81}|SecureUserManagement\\SecureUserManagement.csproj|solutionrelative:secureusermanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\SecureUserManagement\\SecureUserManagement.Tests\\UserControllerTests.cs",
+              "RelativeDocumentMoniker": "SecureUserManagement.Tests\\UserControllerTests.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\SecureUserManagement\\SecureUserManagement.Tests\\UserControllerTests.cs",
+              "RelativeToolTip": "SecureUserManagement.Tests\\UserControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T06:56:58.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SecurityServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\SecureUserManagement\\SecureUserManagement.Tests\\SecurityServiceTests.cs",
+              "RelativeDocumentMoniker": "SecureUserManagement.Tests\\SecurityServiceTests.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\SecureUserManagement\\SecureUserManagement.Tests\\SecurityServiceTests.cs",
+              "RelativeToolTip": "SecureUserManagement.Tests\\SecurityServiceTests.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T06:53:39.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\SecureUserManagement\\SecureUserManagement\\Program.cs",
+              "RelativeDocumentMoniker": "SecureUserManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\SecureUserManagement\\SecureUserManagement\\Program.cs",
+              "RelativeToolTip": "SecureUserManagement\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T06:21:14.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\SecureUserManagement\\SecureUserManagement\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SecureUserManagement\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\SecureUserManagement\\SecureUserManagement\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SecureUserManagement\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T06:05:51.641Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

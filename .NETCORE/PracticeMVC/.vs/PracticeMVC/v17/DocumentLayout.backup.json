@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\PracticeMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA27B1E6-B139-4A7B-A6FD-38474584F113}|PracticeMVC\\PracticeMVC.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\practicemvc\\practicemvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA27B1E6-B139-4A7B-A6FD-38474584F113}|PracticeMVC\\PracticeMVC.csproj|solutionrelative:practicemvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA27B1E6-B139-4A7B-A6FD-38474584F113}|PracticeMVC\\PracticeMVC.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\practicemvc\\practicemvc\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA27B1E6-B139-4A7B-A6FD-38474584F113}|PracticeMVC\\PracticeMVC.csproj|solutionrelative:practicemvc\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA27B1E6-B139-4A7B-A6FD-38474584F113}|PracticeMVC\\PracticeMVC.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\practicemvc\\practicemvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EA27B1E6-B139-4A7B-A6FD-38474584F113}|PracticeMVC\\PracticeMVC.csproj|solutionrelative:practicemvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA27B1E6-B139-4A7B-A6FD-38474584F113}|PracticeMVC\\PracticeMVC.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\practicemvc\\practicemvc\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA27B1E6-B139-4A7B-A6FD-38474584F113}|PracticeMVC\\PracticeMVC.csproj|solutionrelative:practicemvc\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA27B1E6-B139-4A7B-A6FD-38474584F113}|PracticeMVC\\PracticeMVC.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\practicemvc\\practicemvc\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA27B1E6-B139-4A7B-A6FD-38474584F113}|PracticeMVC\\PracticeMVC.csproj|solutionrelative:practicemvc\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA27B1E6-B139-4A7B-A6FD-38474584F113}|PracticeMVC\\PracticeMVC.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\practicemvc\\practicemvc\\controllers\\hodscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA27B1E6-B139-4A7B-A6FD-38474584F113}|PracticeMVC\\PracticeMVC.csproj|solutionrelative:practicemvc\\controllers\\hodscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA27B1E6-B139-4A7B-A6FD-38474584F113}|PracticeMVC\\PracticeMVC.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\practicemvc\\practicemvc\\models\\hod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA27B1E6-B139-4A7B-A6FD-38474584F113}|PracticeMVC\\PracticeMVC.csproj|solutionrelative:practicemvc\\models\\hod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA27B1E6-B139-4A7B-A6FD-38474584F113}|PracticeMVC\\PracticeMVC.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\practicemvc\\practicemvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA27B1E6-B139-4A7B-A6FD-38474584F113}|PracticeMVC\\PracticeMVC.csproj|solutionrelative:practicemvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA27B1E6-B139-4A7B-A6FD-38474584F113}|PracticeMVC\\PracticeMVC.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\practicemvc\\practicemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA27B1E6-B139-4A7B-A6FD-38474584F113}|PracticeMVC\\PracticeMVC.csproj|solutionrelative:practicemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA27B1E6-B139-4A7B-A6FD-38474584F113}|PracticeMVC\\PracticeMVC.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\practicemvc\\practicemvc\\data\\migrations\\20250731155914_ok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA27B1E6-B139-4A7B-A6FD-38474584F113}|PracticeMVC\\PracticeMVC.csproj|solutionrelative:practicemvc\\data\\migrations\\20250731155914_ok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\PracticeMVC\\PracticeMVC\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "PracticeMVC\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\PracticeMVC\\PracticeMVC\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "PracticeMVC\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-01T03:17:59.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\PracticeMVC\\PracticeMVC\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "PracticeMVC\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\PracticeMVC\\PracticeMVC\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "PracticeMVC\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-08-01T03:19:28.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\PracticeMVC\\PracticeMVC\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "PracticeMVC\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\PracticeMVC\\PracticeMVC\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "PracticeMVC\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-01T03:19:28.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\PracticeMVC\\PracticeMVC\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "PracticeMVC\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\PracticeMVC\\PracticeMVC\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "PracticeMVC\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T03:19:27.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "hodsController.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\PracticeMVC\\PracticeMVC\\Controllers\\hodsController.cs",
+              "RelativeDocumentMoniker": "PracticeMVC\\Controllers\\hodsController.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\PracticeMVC\\PracticeMVC\\Controllers\\hodsController.cs",
+              "RelativeToolTip": "PracticeMVC\\Controllers\\hodsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T03:04:27.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\PracticeMVC\\PracticeMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "PracticeMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\PracticeMVC\\PracticeMVC\\appsettings.json",
+              "RelativeToolTip": "PracticeMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-31T15:36:36.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\PracticeMVC\\PracticeMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PracticeMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\PracticeMVC\\PracticeMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PracticeMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T17:08:51.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\PracticeMVC\\PracticeMVC\\Program.cs",
+              "RelativeDocumentMoniker": "PracticeMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\PracticeMVC\\PracticeMVC\\Program.cs",
+              "RelativeToolTip": "PracticeMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T16:50:42.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250731155914_ok.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\PracticeMVC\\PracticeMVC\\Data\\Migrations\\20250731155914_ok.cs",
+              "RelativeDocumentMoniker": "PracticeMVC\\Data\\Migrations\\20250731155914_ok.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\PracticeMVC\\PracticeMVC\\Data\\Migrations\\20250731155914_ok.cs",
+              "RelativeToolTip": "PracticeMVC\\Data\\Migrations\\20250731155914_ok.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T15:59:14.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "hod.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\PracticeMVC\\PracticeMVC\\Models\\hod.cs",
+              "RelativeDocumentMoniker": "PracticeMVC\\Models\\hod.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\PracticeMVC\\PracticeMVC\\Models\\hod.cs",
+              "RelativeToolTip": "PracticeMVC\\Models\\hod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T15:51:07.158Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+.title{
+    text-align: center;
+    
+}
+
+.signalType{
+   display: flex; 
+   gap: 10px;
+}

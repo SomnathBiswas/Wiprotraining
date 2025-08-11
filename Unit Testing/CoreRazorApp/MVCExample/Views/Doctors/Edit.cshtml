@@ -1,0 +1,32 @@
+﻿@model MVCExample.Models.Doctor
+
+@{
+    ViewData["Title"] = "Edit Doctor";
+}
+
+<h2 class="text-center my-4">Edit Doctor</h2>
+
+<form action="Edit" method="post" class="w-50 mx-auto border p-4 rounded shadow-sm bg-light">
+
+    @Html.HiddenFor(e => e.Id)
+
+    <div class="mb-3">
+        <label class="form-label">@Html.DisplayNameFor(e => e.DocName)</label>
+        @Html.TextBoxFor(e => e.DocName, new { @class = "form-control", placeholder = "Enter doctor's name" })
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">@Html.DisplayNameFor(e => e.Specialization)</label>
+        @Html.TextBoxFor(e => e.Specialization, new { @class = "form-control", placeholder = "Enter specialization" })
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">@Html.DisplayNameFor(e => e.PhoneNumber)</label>
+        @Html.TextBoxFor(e => e.PhoneNumber, new { @class = "form-control", placeholder = "Enter phone number", type = "tel", pattern = "[0-9]{10}" })
+    </div>
+
+    <div class="text-end">
+        <input type="submit" value="Update" class="btn btn-primary" />
+        <a href="/Doctors/Index" class="btn btn-secondary ms-2">Cancel</a>
+    </div>
+</form>

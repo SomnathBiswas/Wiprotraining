@@ -1,0 +1,29 @@
+﻿@model IEnumerable<MVCExample.Models.Patient> // This line indicates that the model for this view is a collection of Patient objects.
+<h2>Patients Databases</h2>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Allergies</th>
+                <th>Number</th>
+            </tr>
+        </thead>
+    <tbody>
+        @foreach (var patient in Model)
+        {
+            <tr>
+                <td>@patient.Id</td>
+                <td>@patient.Name</td>
+                <td>@patient.Allergies</td>
+                <td>@patient.Number</td>
+                <td>
+                    <a href = "../Patients/Delete?id=@patient.Id">Delete</a>
+                </td>
+                <td>
+                    <a href = "../Patients/Edit?id=@patient.Id">Edit</a>
+                </td>
+            </tr>
+    }   
+    </tbody>
+    </table>

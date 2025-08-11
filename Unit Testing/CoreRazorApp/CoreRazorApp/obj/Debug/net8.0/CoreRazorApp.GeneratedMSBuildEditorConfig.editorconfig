@@ -1,0 +1,169 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CoreRazorApp
+build_property.RootNamespace = CoreRazorApp
+build_property.ProjectDir = C:\Users\somna\Documents\wiprotraining\Unit Testing\CoreRazorApp\CoreRazorApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\somna\Documents\wiprotraining\Unit Testing\CoreRazorApp\CoreRazorApp
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/somna/Documents/wiprotraining/Unit Testing/CoreRazorApp/CoreRazorApp/Areas/Identity/Pages/Account/ConfirmEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxDb25maXJtRW1haWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/somna/Documents/wiprotraining/Unit Testing/CoreRazorApp/CoreRazorApp/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/somna/Documents/wiprotraining/Unit Testing/CoreRazorApp/CoreRazorApp/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/somna/Documents/wiprotraining/Unit Testing/CoreRazorApp/CoreRazorApp/Areas/Identity/Pages/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/somna/Documents/wiprotraining/Unit Testing/CoreRazorApp/CoreRazorApp/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcVHdvRmFjdG9yQXV0aGVudGljYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/somna/Documents/wiprotraining/Unit Testing/CoreRazorApp/CoreRazorApp/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX01hbmFnZU5hdi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/somna/Documents/wiprotraining/Unit Testing/CoreRazorApp/CoreRazorApp/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/somna/Documents/wiprotraining/Unit Testing/CoreRazorApp/CoreRazorApp/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNlbmRFbWFpbENvbmZpcm1hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/somna/Documents/wiprotraining/Unit Testing/CoreRazorApp/CoreRazorApp/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/somna/Documents/wiprotraining/Unit Testing/CoreRazorApp/CoreRazorApp/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/somna/Documents/wiprotraining/Unit Testing/CoreRazorApp/CoreRazorApp/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/somna/Documents/wiprotraining/Unit Testing/CoreRazorApp/CoreRazorApp/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/somna/Documents/wiprotraining/Unit Testing/CoreRazorApp/CoreRazorApp/Pages/Dept/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVwdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/somna/Documents/wiprotraining/Unit Testing/CoreRazorApp/CoreRazorApp/Pages/Dept/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVwdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/somna/Documents/wiprotraining/Unit Testing/CoreRazorApp/CoreRazorApp/Pages/Dept/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVwdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/somna/Documents/wiprotraining/Unit Testing/CoreRazorApp/CoreRazorApp/Pages/Dept/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVwdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/somna/Documents/wiprotraining/Unit Testing/CoreRazorApp/CoreRazorApp/Pages/Dept/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVwdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/somna/Documents/wiprotraining/Unit Testing/CoreRazorApp/CoreRazorApp/Pages/Emp/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/somna/Documents/wiprotraining/Unit Testing/CoreRazorApp/CoreRazorApp/Pages/Emp/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/somna/Documents/wiprotraining/Unit Testing/CoreRazorApp/CoreRazorApp/Pages/Emp/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/somna/Documents/wiprotraining/Unit Testing/CoreRazorApp/CoreRazorApp/Pages/Emp/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/somna/Documents/wiprotraining/Unit Testing/CoreRazorApp/CoreRazorApp/Pages/Emp/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/somna/Documents/wiprotraining/Unit Testing/CoreRazorApp/CoreRazorApp/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/somna/Documents/wiprotraining/Unit Testing/CoreRazorApp/CoreRazorApp/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/somna/Documents/wiprotraining/Unit Testing/CoreRazorApp/CoreRazorApp/Pages/Org/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JnXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/somna/Documents/wiprotraining/Unit Testing/CoreRazorApp/CoreRazorApp/Pages/Org/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JnXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/somna/Documents/wiprotraining/Unit Testing/CoreRazorApp/CoreRazorApp/Pages/Org/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JnXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/somna/Documents/wiprotraining/Unit Testing/CoreRazorApp/CoreRazorApp/Pages/Org/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JnXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/somna/Documents/wiprotraining/Unit Testing/CoreRazorApp/CoreRazorApp/Pages/Org/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JnXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/somna/Documents/wiprotraining/Unit Testing/CoreRazorApp/CoreRazorApp/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/somna/Documents/wiprotraining/Unit Testing/CoreRazorApp/CoreRazorApp/Pages/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/somna/Documents/wiprotraining/Unit Testing/CoreRazorApp/CoreRazorApp/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/somna/Documents/wiprotraining/Unit Testing/CoreRazorApp/CoreRazorApp/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/somna/Documents/wiprotraining/Unit Testing/CoreRazorApp/CoreRazorApp/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/somna/Documents/wiprotraining/Unit Testing/CoreRazorApp/CoreRazorApp/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-2f9uw3t1c3

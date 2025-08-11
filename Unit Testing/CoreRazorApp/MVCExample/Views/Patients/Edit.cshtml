@@ -1,0 +1,19 @@
+﻿@model MVCExample.Models.Patient
+<form action="Edit" method="post">
+<div>
+    @Html.HiddenFor(e => e.Id)
+    <label>@Html.DisplayNameFor(e=>e.Name)</label>
+    @Html.TextBoxFor(e=>e.Name)
+</div>
+
+<div>
+    <label>@Html.DisplayNameFor(e => e.Allergies)</label>
+    @Html.TextBoxFor(e => e.Allergies)
+</div>
+
+    <div>
+        <label>@Html.DisplayNameFor(e => e.Number)</label>
+        @Html.TextBoxFor(e => e.Number)
+    </div>
+<div><input type="submit" class="btn btn-primary"/></div>
+</form>

@@ -1,0 +1,267 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F7B52F-2A9C-48F5-9A54-3AAE8C746546}|Test\\Test.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\test\\test\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F7B52F-2A9C-48F5-9A54-3AAE8C746546}|Test\\Test.csproj|solutionrelative:test\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Test\\Test\\Data\\Migrations\\20250731203239_msg2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Test\\Data\\Migrations\\20250731203239_msg2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F7B52F-2A9C-48F5-9A54-3AAE8C746546}|Test\\Test.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\test\\test\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F7B52F-2A9C-48F5-9A54-3AAE8C746546}|Test\\Test.csproj|solutionrelative:test\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F7B52F-2A9C-48F5-9A54-3AAE8C746546}|Test\\Test.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\test\\test\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F7B52F-2A9C-48F5-9A54-3AAE8C746546}|Test\\Test.csproj|solutionrelative:test\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Test\\Test\\Data\\Migrations\\20250731201756_msg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Test\\Data\\Migrations\\20250731201756_msg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F7B52F-2A9C-48F5-9A54-3AAE8C746546}|Test\\Test.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\test\\test\\views\\faculties\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7F7B52F-2A9C-48F5-9A54-3AAE8C746546}|Test\\Test.csproj|solutionrelative:test\\views\\faculties\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F7B52F-2A9C-48F5-9A54-3AAE8C746546}|Test\\Test.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\test\\test\\controllers\\facultiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F7B52F-2A9C-48F5-9A54-3AAE8C746546}|Test\\Test.csproj|solutionrelative:test\\controllers\\facultiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F7B52F-2A9C-48F5-9A54-3AAE8C746546}|Test\\Test.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\test\\test\\views\\faculties\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7F7B52F-2A9C-48F5-9A54-3AAE8C746546}|Test\\Test.csproj|solutionrelative:test\\views\\faculties\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F7B52F-2A9C-48F5-9A54-3AAE8C746546}|Test\\Test.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\test\\test\\views\\faculties\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7F7B52F-2A9C-48F5-9A54-3AAE8C746546}|Test\\Test.csproj|solutionrelative:test\\views\\faculties\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F7B52F-2A9C-48F5-9A54-3AAE8C746546}|Test\\Test.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\test\\test\\views\\faculties\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7F7B52F-2A9C-48F5-9A54-3AAE8C746546}|Test\\Test.csproj|solutionrelative:test\\views\\faculties\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F7B52F-2A9C-48F5-9A54-3AAE8C746546}|Test\\Test.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\test\\test\\models\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F7B52F-2A9C-48F5-9A54-3AAE8C746546}|Test\\Test.csproj|solutionrelative:test\\models\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F7B52F-2A9C-48F5-9A54-3AAE8C746546}|Test\\Test.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\test\\test\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F7B52F-2A9C-48F5-9A54-3AAE8C746546}|Test\\Test.csproj|solutionrelative:test\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F7B52F-2A9C-48F5-9A54-3AAE8C746546}|Test\\Test.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\test\\test\\data\\migrations\\20250731185748_adding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F7B52F-2A9C-48F5-9A54-3AAE8C746546}|Test\\Test.csproj|solutionrelative:test\\data\\migrations\\20250731185748_adding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F7B52F-2A9C-48F5-9A54-3AAE8C746546}|Test\\Test.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\test\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F7B52F-2A9C-48F5-9A54-3AAE8C746546}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F7B52F-2A9C-48F5-9A54-3AAE8C746546}|Test\\Test.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\test\\test\\data\\migrations\\20250731190032_one.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F7B52F-2A9C-48F5-9A54-3AAE8C746546}|Test\\Test.csproj|solutionrelative:test\\data\\migrations\\20250731190032_one.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "faculty.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Test\\Test\\Models\\faculty.cs",
+              "RelativeDocumentMoniker": "Test\\Models\\faculty.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Test\\Test\\Models\\faculty.cs",
+              "RelativeToolTip": "Test\\Models\\faculty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T18:54:26.396Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Test\\Test\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Test\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Test\\Test\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Test\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T20:33:22.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250731203239_msg2.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Test\\Test\\Data\\Migrations\\20250731203239_msg2.cs",
+              "RelativeDocumentMoniker": "Test\\Data\\Migrations\\20250731203239_msg2.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Test\\Test\\Data\\Migrations\\20250731203239_msg2.cs",
+              "RelativeToolTip": "Test\\Data\\Migrations\\20250731203239_msg2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T20:32:39.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250731201756_msg.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Test\\Test\\Data\\Migrations\\20250731201756_msg.cs",
+              "RelativeDocumentMoniker": "Test\\Data\\Migrations\\20250731201756_msg.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Test\\Test\\Data\\Migrations\\20250731201756_msg.cs",
+              "RelativeToolTip": "Test\\Data\\Migrations\\20250731201756_msg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T20:17:56.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Test\\Test\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Test\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Test\\Test\\Models\\Student.cs",
+              "RelativeToolTip": "Test\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T20:17:18.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Test\\Test\\Views\\faculties\\Index.cshtml",
+              "RelativeDocumentMoniker": "Test\\Views\\faculties\\Index.cshtml",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Test\\Test\\Views\\faculties\\Index.cshtml",
+              "RelativeToolTip": "Test\\Views\\faculties\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T19:32:53.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Test\\Test\\Views\\faculties\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Test\\Views\\faculties\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Test\\Test\\Views\\faculties\\Delete.cshtml",
+              "RelativeToolTip": "Test\\Views\\faculties\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T20:06:43.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Test\\Test\\Views\\faculties\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Test\\Views\\faculties\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Test\\Test\\Views\\faculties\\Edit.cshtml",
+              "RelativeToolTip": "Test\\Views\\faculties\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T19:47:10.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Test\\Test\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Test\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Test\\Test\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Test\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T19:00:56.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "facultiesController.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Test\\Test\\Controllers\\facultiesController.cs",
+              "RelativeDocumentMoniker": "Test\\Controllers\\facultiesController.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Test\\Test\\Controllers\\facultiesController.cs",
+              "RelativeToolTip": "Test\\Controllers\\facultiesController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAswF8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T19:13:27.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Test\\Test\\Views\\faculties\\Create.cshtml",
+              "RelativeDocumentMoniker": "Test\\Views\\faculties\\Create.cshtml",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Test\\Test\\Views\\faculties\\Create.cshtml",
+              "RelativeToolTip": "Test\\Views\\faculties\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T19:17:56.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Test\\Test\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Test\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Test\\Test\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Test\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T19:00:51.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250731190032_one.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Test\\Test\\Data\\Migrations\\20250731190032_one.cs",
+              "RelativeDocumentMoniker": "Test\\Data\\Migrations\\20250731190032_one.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Test\\Test\\Data\\Migrations\\20250731190032_one.cs",
+              "RelativeToolTip": "Test\\Data\\Migrations\\20250731190032_one.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T19:00:32.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250731185748_adding.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Test\\Test\\Data\\Migrations\\20250731185748_adding.cs",
+              "RelativeDocumentMoniker": "Test\\Data\\Migrations\\20250731185748_adding.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Test\\Test\\Data\\Migrations\\20250731185748_adding.cs",
+              "RelativeToolTip": "Test\\Data\\Migrations\\20250731185748_adding.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T18:57:49.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Test\\Test\\Program.cs",
+              "RelativeDocumentMoniker": "Test\\Program.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Test\\Test\\Program.cs",
+              "RelativeToolTip": "Test\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T17:39:21.555Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
