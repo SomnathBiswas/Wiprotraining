@@ -1,0 +1,38 @@
+@model MvcApp.Models.Person
+
+@{
+    ViewData["Title"] = "Create Person";
+}
+
+<h2>Create Person</h2>
+
+<form asp-action="Create" method="post">
+    <div>
+        <label>First Name:</label>
+        <input asp-for="FirstName" />
+    </div>
+    <div>
+        <label>Last Name:</label>
+        <input asp-for="LastName" />
+    </div>
+    <div>
+        <label>Age:</label>
+        <input asp-for="Age" type="number" />
+    </div>
+
+    <h3>Address</h3>
+    <div>
+        <label>Street:</label>
+        <input asp-for="Address.Street" />
+    </div>
+    <div>
+        <label>City:</label>
+        <input asp-for="Address.City" />
+    </div>
+    <div>
+        <label>Zip Code:</label>
+        <input asp-for="Address.ZipCode" />
+    </div>
+
+    <button type="submit">Submit</button>
+</form>

@@ -1,0 +1,13 @@
+@page "{id:int}"
+@model AdvancedRazorPagesApp.Pages.Products.DetailsModel
+
+<h2>Product Details</h2>
+<h3>@Model.Product.Name</h3>
+<p>@Model.Product.Description</p>
+<h4>Categories:</h4>
+<ul>
+    @foreach (var cat in Model.Product.Categories)
+    {
+        <li>@cat.CategoryName</li>
+    }
+</ul>

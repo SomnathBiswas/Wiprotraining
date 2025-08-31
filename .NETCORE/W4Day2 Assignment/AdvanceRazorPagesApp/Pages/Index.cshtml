@@ -1,0 +1,9 @@
+﻿@page
+@model AdvancedRazorPagesApp.Pages.Products.IndexModel
+
+<h2>Products</h2>
+
+@foreach (var product in Model.Products)
+{
+    <partial name="_ProductSummary" model="product" />
+}

@@ -1,0 +1,27 @@
+@page
+@model AdvancedRazorPagesApp.Pages.Products.CreateModel
+
+<h2>Create Product</h2>
+
+<form method="post">
+    <div>
+        <label>Name</label>
+        <input asp-for="Product.Name" />
+        <span asp-validation-for="Product.Name"></span>
+    </div>
+    <div>
+        <label>Description</label>
+        <textarea asp-for="Product.Description"></textarea>
+        <span asp-validation-for="Product.Description"></span>
+    </div>
+
+    <h4>Select Categories</h4>
+    @foreach (var cat in Model.AvailableCategories)
+    {
+        <div>
+            <input type="checkbox" name="Product.Categories" value="@cat.CategoryName" /> @cat.CategoryName
+        </div>
+    }
+
+    <button type="submit">Save</button>
+</form>

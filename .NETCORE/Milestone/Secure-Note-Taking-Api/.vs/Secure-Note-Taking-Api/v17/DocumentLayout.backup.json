@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Milestone\\Secure-Note-Taking-Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBE2CB8-FC75-4128-83F5-F1FF608DAB35}|Secure-Note-Taking-Api\\Secure-Note-Taking-Api.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\milestone\\secure-note-taking-api\\secure-note-taking-api\\datatranferobjects\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBE2CB8-FC75-4128-83F5-F1FF608DAB35}|Secure-Note-Taking-Api\\Secure-Note-Taking-Api.csproj|solutionrelative:secure-note-taking-api\\datatranferobjects\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBE2CB8-FC75-4128-83F5-F1FF608DAB35}|Secure-Note-Taking-Api\\Secure-Note-Taking-Api.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\milestone\\secure-note-taking-api\\secure-note-taking-api\\datatranferobjects\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBE2CB8-FC75-4128-83F5-F1FF608DAB35}|Secure-Note-Taking-Api\\Secure-Note-Taking-Api.csproj|solutionrelative:secure-note-taking-api\\datatranferobjects\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBE2CB8-FC75-4128-83F5-F1FF608DAB35}|Secure-Note-Taking-Api\\Secure-Note-Taking-Api.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\milestone\\secure-note-taking-api\\secure-note-taking-api\\datatranferobjects\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBE2CB8-FC75-4128-83F5-F1FF608DAB35}|Secure-Note-Taking-Api\\Secure-Note-Taking-Api.csproj|solutionrelative:secure-note-taking-api\\datatranferobjects\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBE2CB8-FC75-4128-83F5-F1FF608DAB35}|Secure-Note-Taking-Api\\Secure-Note-Taking-Api.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\milestone\\secure-note-taking-api\\secure-note-taking-api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBE2CB8-FC75-4128-83F5-F1FF608DAB35}|Secure-Note-Taking-Api\\Secure-Note-Taking-Api.csproj|solutionrelative:secure-note-taking-api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBE2CB8-FC75-4128-83F5-F1FF608DAB35}|Secure-Note-Taking-Api\\Secure-Note-Taking-Api.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\milestone\\secure-note-taking-api\\secure-note-taking-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBE2CB8-FC75-4128-83F5-F1FF608DAB35}|Secure-Note-Taking-Api\\Secure-Note-Taking-Api.csproj|solutionrelative:secure-note-taking-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBE2CB8-FC75-4128-83F5-F1FF608DAB35}|Secure-Note-Taking-Api\\Secure-Note-Taking-Api.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\milestone\\secure-note-taking-api\\secure-note-taking-api\\data\\securenotedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBE2CB8-FC75-4128-83F5-F1FF608DAB35}|Secure-Note-Taking-Api\\Secure-Note-Taking-Api.csproj|solutionrelative:secure-note-taking-api\\data\\securenotedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBE2CB8-FC75-4128-83F5-F1FF608DAB35}|Secure-Note-Taking-Api\\Secure-Note-Taking-Api.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\milestone\\secure-note-taking-api\\secure-note-taking-api\\models\\notemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBE2CB8-FC75-4128-83F5-F1FF608DAB35}|Secure-Note-Taking-Api\\Secure-Note-Taking-Api.csproj|solutionrelative:secure-note-taking-api\\models\\notemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBE2CB8-FC75-4128-83F5-F1FF608DAB35}|Secure-Note-Taking-Api\\Secure-Note-Taking-Api.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\milestone\\secure-note-taking-api\\secure-note-taking-api\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBE2CB8-FC75-4128-83F5-F1FF608DAB35}|Secure-Note-Taking-Api\\Secure-Note-Taking-Api.csproj|solutionrelative:secure-note-taking-api\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBE2CB8-FC75-4128-83F5-F1FF608DAB35}|Secure-Note-Taking-Api\\Secure-Note-Taking-Api.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\milestone\\secure-note-taking-api\\secure-note-taking-api\\secure-note-taking-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CBBE2CB8-FC75-4128-83F5-F1FF608DAB35}|Secure-Note-Taking-Api\\Secure-Note-Taking-Api.csproj|solutionrelative:secure-note-taking-api\\secure-note-taking-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Milestone\\Secure-Note-Taking-Api\\Secure-Note-Taking-Api\\Program.cs",
+              "RelativeDocumentMoniker": "Secure-Note-Taking-Api\\Program.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Milestone\\Secure-Note-Taking-Api\\Secure-Note-Taking-Api\\Program.cs",
+              "RelativeToolTip": "Secure-Note-Taking-Api\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T05:33:03.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Milestone\\Secure-Note-Taking-Api\\Secure-Note-Taking-Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Secure-Note-Taking-Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Milestone\\Secure-Note-Taking-Api\\Secure-Note-Taking-Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Secure-Note-Taking-Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA1wCkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T04:49:20.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Milestone\\Secure-Note-Taking-Api\\Secure-Note-Taking-Api\\DataTranferObjects\\Login.cs",
+              "RelativeDocumentMoniker": "Secure-Note-Taking-Api\\DataTranferObjects\\Login.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Milestone\\Secure-Note-Taking-Api\\Secure-Note-Taking-Api\\DataTranferObjects\\Login.cs",
+              "RelativeToolTip": "Secure-Note-Taking-Api\\DataTranferObjects\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T04:57:15.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Milestone\\Secure-Note-Taking-Api\\Secure-Note-Taking-Api\\DataTranferObjects\\Register.cs",
+              "RelativeDocumentMoniker": "Secure-Note-Taking-Api\\DataTranferObjects\\Register.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Milestone\\Secure-Note-Taking-Api\\Secure-Note-Taking-Api\\DataTranferObjects\\Register.cs",
+              "RelativeToolTip": "Secure-Note-Taking-Api\\DataTranferObjects\\Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T04:57:04.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Milestone\\Secure-Note-Taking-Api\\Secure-Note-Taking-Api\\DataTranferObjects\\Note.cs",
+              "RelativeDocumentMoniker": "Secure-Note-Taking-Api\\DataTranferObjects\\Note.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Milestone\\Secure-Note-Taking-Api\\Secure-Note-Taking-Api\\DataTranferObjects\\Note.cs",
+              "RelativeToolTip": "Secure-Note-Taking-Api\\DataTranferObjects\\Note.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T04:57:27.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SecureNoteDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Milestone\\Secure-Note-Taking-Api\\Secure-Note-Taking-Api\\Data\\SecureNoteDbContext.cs",
+              "RelativeDocumentMoniker": "Secure-Note-Taking-Api\\Data\\SecureNoteDbContext.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Milestone\\Secure-Note-Taking-Api\\Secure-Note-Taking-Api\\Data\\SecureNoteDbContext.cs",
+              "RelativeToolTip": "Secure-Note-Taking-Api\\Data\\SecureNoteDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T04:47:08.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NoteModel.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Milestone\\Secure-Note-Taking-Api\\Secure-Note-Taking-Api\\Models\\NoteModel.cs",
+              "RelativeDocumentMoniker": "Secure-Note-Taking-Api\\Models\\NoteModel.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Milestone\\Secure-Note-Taking-Api\\Secure-Note-Taking-Api\\Models\\NoteModel.cs",
+              "RelativeToolTip": "Secure-Note-Taking-Api\\Models\\NoteModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T04:47:53.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Milestone\\Secure-Note-Taking-Api\\Secure-Note-Taking-Api\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "Secure-Note-Taking-Api\\Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Milestone\\Secure-Note-Taking-Api\\Secure-Note-Taking-Api\\Models\\UserModel.cs",
+              "RelativeToolTip": "Secure-Note-Taking-Api\\Models\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T04:47:40.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Secure-Note-Taking-Api",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Milestone\\Secure-Note-Taking-Api\\Secure-Note-Taking-Api\\Secure-Note-Taking-Api.csproj",
+              "RelativeDocumentMoniker": "Secure-Note-Taking-Api\\Secure-Note-Taking-Api.csproj",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Milestone\\Secure-Note-Taking-Api\\Secure-Note-Taking-Api\\Secure-Note-Taking-Api.csproj",
+              "RelativeToolTip": "Secure-Note-Taking-Api\\Secure-Note-Taking-Api.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-30T06:24:49.013Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

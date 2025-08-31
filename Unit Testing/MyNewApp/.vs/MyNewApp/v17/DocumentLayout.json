@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\MyNewApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF7A0A0-4015-49D7-945C-9F475613EAEE}|MyNewApp\\MyNewApp.csproj|c:\\users\\somna\\documents\\wiprotraining\\unit testing\\mynewapp\\mynewapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF7A0A0-4015-49D7-945C-9F475613EAEE}|MyNewApp\\MyNewApp.csproj|solutionrelative:mynewapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF7A0A0-4015-49D7-945C-9F475613EAEE}|MyNewApp\\MyNewApp.csproj|c:\\users\\somna\\documents\\wiprotraining\\unit testing\\mynewapp\\mynewapp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF7A0A0-4015-49D7-945C-9F475613EAEE}|MyNewApp\\MyNewApp.csproj|solutionrelative:mynewapp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF7A0A0-4015-49D7-945C-9F475613EAEE}|MyNewApp\\MyNewApp.csproj|c:\\users\\somna\\documents\\wiprotraining\\unit testing\\mynewapp\\mynewapp\\data\\newclasscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF7A0A0-4015-49D7-945C-9F475613EAEE}|MyNewApp\\MyNewApp.csproj|solutionrelative:mynewapp\\data\\newclasscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\MyNewApp\\MyNewApp\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "MyNewApp\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\MyNewApp\\MyNewApp\\Models\\Category.cs",
+              "RelativeToolTip": "MyNewApp\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T09:33:39.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\MyNewApp\\MyNewApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "MyNewApp\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\MyNewApp\\MyNewApp\\Models\\Product.cs",
+              "RelativeToolTip": "MyNewApp\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T09:25:49.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewClassContext.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\MyNewApp\\MyNewApp\\Data\\NewClassContext.cs",
+              "RelativeDocumentMoniker": "MyNewApp\\Data\\NewClassContext.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\Unit Testing\\MyNewApp\\MyNewApp\\Data\\NewClassContext.cs",
+              "RelativeToolTip": "MyNewApp\\Data\\NewClassContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T09:25:29.283Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

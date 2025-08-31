@@ -1,0 +1,302 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLogin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A732725-2811-4036-9A93-3CDF3F15862C}|SecureLogin\\SecureLogin.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\prep\\securelogin\\securelogin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3A732725-2811-4036-9A93-3CDF3F15862C}|SecureLogin\\SecureLogin.csproj|solutionrelative:securelogin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A732725-2811-4036-9A93-3CDF3F15862C}|SecureLogin\\SecureLogin.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\prep\\securelogin\\securelogin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A732725-2811-4036-9A93-3CDF3F15862C}|SecureLogin\\SecureLogin.csproj|solutionrelative:securelogin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A732725-2811-4036-9A93-3CDF3F15862C}|SecureLogin\\SecureLogin.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\prep\\securelogin\\securelogin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A732725-2811-4036-9A93-3CDF3F15862C}|SecureLogin\\SecureLogin.csproj|solutionrelative:securelogin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A732725-2811-4036-9A93-3CDF3F15862C}|SecureLogin\\SecureLogin.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\prep\\securelogin\\securelogin\\views\\home\\admindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A732725-2811-4036-9A93-3CDF3F15862C}|SecureLogin\\SecureLogin.csproj|solutionrelative:securelogin\\views\\home\\admindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A732725-2811-4036-9A93-3CDF3F15862C}|SecureLogin\\SecureLogin.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\prep\\securelogin\\securelogin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A732725-2811-4036-9A93-3CDF3F15862C}|SecureLogin\\SecureLogin.csproj|solutionrelative:securelogin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A732725-2811-4036-9A93-3CDF3F15862C}|SecureLogin\\SecureLogin.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\prep\\securelogin\\securelogin\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A732725-2811-4036-9A93-3CDF3F15862C}|SecureLogin\\SecureLogin.csproj|solutionrelative:securelogin\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A732725-2811-4036-9A93-3CDF3F15862C}|SecureLogin\\SecureLogin.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\prep\\securelogin\\securelogin\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A732725-2811-4036-9A93-3CDF3F15862C}|SecureLogin\\SecureLogin.csproj|solutionrelative:securelogin\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A732725-2811-4036-9A93-3CDF3F15862C}|SecureLogin\\SecureLogin.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\prep\\securelogin\\securelogin\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A732725-2811-4036-9A93-3CDF3F15862C}|SecureLogin\\SecureLogin.csproj|solutionrelative:securelogin\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A732725-2811-4036-9A93-3CDF3F15862C}|SecureLogin\\SecureLogin.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\prep\\securelogin\\securelogin\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A732725-2811-4036-9A93-3CDF3F15862C}|SecureLogin\\SecureLogin.csproj|solutionrelative:securelogin\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A732725-2811-4036-9A93-3CDF3F15862C}|SecureLogin\\SecureLogin.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\prep\\securelogin\\securelogin\\views\\home\\userprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A732725-2811-4036-9A93-3CDF3F15862C}|SecureLogin\\SecureLogin.csproj|solutionrelative:securelogin\\views\\home\\userprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A732725-2811-4036-9A93-3CDF3F15862C}|SecureLogin\\SecureLogin.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\prep\\securelogin\\securelogin\\views\\home\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A732725-2811-4036-9A93-3CDF3F15862C}|SecureLogin\\SecureLogin.csproj|solutionrelative:securelogin\\views\\home\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A732725-2811-4036-9A93-3CDF3F15862C}|SecureLogin\\SecureLogin.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\prep\\securelogin\\securelogin\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A732725-2811-4036-9A93-3CDF3F15862C}|SecureLogin\\SecureLogin.csproj|solutionrelative:securelogin\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A732725-2811-4036-9A93-3CDF3F15862C}|SecureLogin\\SecureLogin.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\prep\\securelogin\\securelogin\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3A732725-2811-4036-9A93-3CDF3F15862C}|SecureLogin\\SecureLogin.csproj|solutionrelative:securelogin\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A732725-2811-4036-9A93-3CDF3F15862C}|SecureLogin\\SecureLogin.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\prep\\securelogin\\securelogin\\data\\migrations\\20250829054346_initroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A732725-2811-4036-9A93-3CDF3F15862C}|SecureLogin\\SecureLogin.csproj|solutionrelative:securelogin\\data\\migrations\\20250829054346_initroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A732725-2811-4036-9A93-3CDF3F15862C}|SecureLogin\\SecureLogin.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\prep\\securelogin\\securelogin\\data\\migrations\\20250829051254_initrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A732725-2811-4036-9A93-3CDF3F15862C}|SecureLogin\\SecureLogin.csproj|solutionrelative:securelogin\\data\\migrations\\20250829051254_initrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A732725-2811-4036-9A93-3CDF3F15862C}|SecureLogin\\SecureLogin.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\prep\\securelogin\\securelogin\\data\\migrations\\20250829051014_initr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A732725-2811-4036-9A93-3CDF3F15862C}|SecureLogin\\SecureLogin.csproj|solutionrelative:securelogin\\data\\migrations\\20250829051014_initr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A732725-2811-4036-9A93-3CDF3F15862C}|SecureLogin\\SecureLogin.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\prep\\securelogin\\securelogin\\data\\migrations\\20250829050043_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A732725-2811-4036-9A93-3CDF3F15862C}|SecureLogin\\SecureLogin.csproj|solutionrelative:securelogin\\data\\migrations\\20250829050043_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLogin\\SecureLogin\\Program.cs",
+              "RelativeDocumentMoniker": "SecureLogin\\Program.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLogin\\SecureLogin\\Program.cs",
+              "RelativeToolTip": "SecureLogin\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T04:08:28.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLogin\\SecureLogin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SecureLogin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLogin\\SecureLogin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SecureLogin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T04:22:23.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLogin\\SecureLogin\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "SecureLogin\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLogin\\SecureLogin\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "SecureLogin\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T04:21:41.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminDashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLogin\\SecureLogin\\Views\\Home\\AdminDashboard.cshtml",
+              "RelativeDocumentMoniker": "SecureLogin\\Views\\Home\\AdminDashboard.cshtml",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLogin\\SecureLogin\\Views\\Home\\AdminDashboard.cshtml",
+              "RelativeToolTip": "SecureLogin\\Views\\Home\\AdminDashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-29T04:23:53.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLogin\\SecureLogin\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "SecureLogin\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLogin\\SecureLogin\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "SecureLogin\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-29T04:42:03.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLogin\\SecureLogin\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "SecureLogin\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLogin\\SecureLogin\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "SecureLogin\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAcwH0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T04:40:36.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLogin\\SecureLogin\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SecureLogin\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLogin\\SecureLogin\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SecureLogin\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T04:38:14.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLogin\\SecureLogin\\appsettings.json",
+              "RelativeDocumentMoniker": "SecureLogin\\appsettings.json",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLogin\\SecureLogin\\appsettings.json",
+              "RelativeToolTip": "SecureLogin\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-29T04:58:37.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserProfile.cshtml",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLogin\\SecureLogin\\Views\\Home\\UserProfile.cshtml",
+              "RelativeDocumentMoniker": "SecureLogin\\Views\\Home\\UserProfile.cshtml",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLogin\\SecureLogin\\Views\\Home\\UserProfile.cshtml",
+              "RelativeToolTip": "SecureLogin\\Views\\Home\\UserProfile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-29T04:24:25.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLogin\\SecureLogin\\Views\\Home\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "SecureLogin\\Views\\Home\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLogin\\SecureLogin\\Views\\Home\\AccessDenied.cshtml",
+              "RelativeToolTip": "SecureLogin\\Views\\Home\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-29T05:27:06.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLogin\\SecureLogin\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "SecureLogin\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLogin\\SecureLogin\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "SecureLogin\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAcwHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T04:30:53.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLogin\\SecureLogin\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "SecureLogin\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLogin\\SecureLogin\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "SecureLogin\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-29T04:38:42.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250829051254_initrole.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLogin\\SecureLogin\\Data\\Migrations\\20250829051254_initrole.cs",
+              "RelativeDocumentMoniker": "SecureLogin\\Data\\Migrations\\20250829051254_initrole.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLogin\\SecureLogin\\Data\\Migrations\\20250829051254_initrole.cs",
+              "RelativeToolTip": "SecureLogin\\Data\\Migrations\\20250829051254_initrole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T05:12:54.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250829054346_initroles.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLogin\\SecureLogin\\Data\\Migrations\\20250829054346_initroles.cs",
+              "RelativeDocumentMoniker": "SecureLogin\\Data\\Migrations\\20250829054346_initroles.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLogin\\SecureLogin\\Data\\Migrations\\20250829054346_initroles.cs",
+              "RelativeToolTip": "SecureLogin\\Data\\Migrations\\20250829054346_initroles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T05:43:47.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250829051014_initr.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLogin\\SecureLogin\\Data\\Migrations\\20250829051014_initr.cs",
+              "RelativeDocumentMoniker": "SecureLogin\\Data\\Migrations\\20250829051014_initr.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLogin\\SecureLogin\\Data\\Migrations\\20250829051014_initr.cs",
+              "RelativeToolTip": "SecureLogin\\Data\\Migrations\\20250829051014_initr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T05:10:14.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250829050043_init.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLogin\\SecureLogin\\Data\\Migrations\\20250829050043_init.cs",
+              "RelativeDocumentMoniker": "SecureLogin\\Data\\Migrations\\20250829050043_init.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLogin\\SecureLogin\\Data\\Migrations\\20250829050043_init.cs",
+              "RelativeToolTip": "SecureLogin\\Data\\Migrations\\20250829050043_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T05:00:43.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLogin\\SecureLogin\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "SecureLogin\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLogin\\SecureLogin\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "SecureLogin\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-08-29T04:07:33.196Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

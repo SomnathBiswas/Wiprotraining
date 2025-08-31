@@ -1,0 +1,18 @@
+@model MvcApp.Models.Person
+
+@{
+    ViewData["Title"] = "Person Details";
+}
+
+<h2>Submitted Person Details</h2>
+
+<p><strong>Name:</strong> @Model.FirstName @Model.LastName</p>
+<p><strong>Age:</strong> @Model.Age</p>
+
+<h3>Address</h3>
+<p><strong>Street:</strong> @Model.Address?.Street</p>
+<p><strong>City:</strong> @Model.Address?.City</p>
+<p><strong>Zip Code:</strong> @Model.Address?.ZipCode</p>
+
+<p><a href="/Person/Create">Add Another Person</a></p>
+<p><a href="/Person/Index">Go to Home</a></p>

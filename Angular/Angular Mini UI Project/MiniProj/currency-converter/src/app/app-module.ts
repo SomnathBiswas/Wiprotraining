@@ -7,13 +7,15 @@ import { ConverterForm } from './currency/converter-form/converter-form';
 import { ConversionResult } from './currency/conversion-result/conversion-result';
 import { History } from './currency/history/history';
 import { HttpClientModule } from '@angular/common/http';
+import { FormatCurrencyPipe } from './currency/format-currency-pipe';
 
 @NgModule({
   declarations: [
     App,
     ConverterForm,
     ConversionResult,
-    History
+    History,
+    FormatCurrencyPipe
   ],
   imports: [
     BrowserModule,

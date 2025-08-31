@@ -1,0 +1,194 @@
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\bin\Debug\net9.0\appsettings.json
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\bin\Debug\net9.0\CustomerFeedbackPortal.staticwebassets.runtime.json
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\bin\Debug\net9.0\CustomerFeedbackPortal.staticwebassets.endpoints.json
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\bin\Debug\net9.0\CustomerFeedbackPortal.exe
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\bin\Debug\net9.0\CustomerFeedbackPortal.deps.json
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\bin\Debug\net9.0\CustomerFeedbackPortal.runtimeconfig.json
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\bin\Debug\net9.0\CustomerFeedbackPortal.dll
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\bin\Debug\net9.0\CustomerFeedbackPortal.pdb
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\CustomerFeedbackPortal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\CustomerFeedbackPortal.AssemblyInfoInputs.cache
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\CustomerFeedbackPortal.AssemblyInfo.cs
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\CustomerFeedbackPortal.csproj.CoreCompileInputs.cache
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\CustomerFeedbackPortal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\CustomerFeedbackPortal.RazorAssemblyInfo.cache
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\CustomerFeedbackPortal.RazorAssemblyInfo.cs
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\CustomerFeedbackPortal.sourcelink.json
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\scopedcss\bundle\CustomerFeedbackPortal.styles.css
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\scopedcss\projectbundle\CustomerFeedbackPortal.bundle.scp.css
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\i6s2enwcj1-b9sayid5wm.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\axxfqsz7kf-61n19gt1b8.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\8sz4tdql2g-xtxxf3hu2r.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\lvc1rwbe3a-bqjiyaj88i.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\n3dis37ixf-c2jlpeoesf.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\kjljfl7z69-erw9l3u2r3.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\ajp9kju677-aexeepp0ev.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\ua1s394ufz-d7shbmvgxk.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\5zhw902566-ausgxo2sd3.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\k3gtvqbf7c-k8d9w2qqmf.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\uz09jn3xt9-cosvhxvwiu.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\k73onl3ro2-ub07r2b239.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\667ogri9xu-fvhpjtyr6v.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\g55vuv5t61-b7pk76d08c.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\tsrle4i5q0-fsbi9cje9m.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\fr1gz1a1bi-rzd6atqjts.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\xo2m1csqo9-ee0r1s7dh0.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\xq78gxv0iw-dxx9fxp4il.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\6auxpomgkk-jd9uben2k1.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\ue6abexlq1-khv3u5hwcm.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\gwzzd75pru-r4e9w2rdcm.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\v0ijihskfu-lcd1t2u6c8.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\tjd9orohec-c2oey78nd0.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\hd5clw416w-tdbxkamptv.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\n644w3f4mh-j5mq2jizvt.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\6yyqi88ie8-06098lyss8.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\va84l6ydkp-nvvlpmu67g.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\n8y0g8o1zu-s35ty4nyc5.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\5zn9smf614-pj5nd1wqec.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\p3znz24nrm-46ein0sx1k.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\0a6xxvvmt0-v0zj4ognzu.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\mlqidhcn0z-37tfw0ft22.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\i5k756x0y9-hrwsygsryq.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\9vb1ibj421-pk9g2wxc8p.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\sxgp365462-ft3s53vfgj.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\po7xeulxgd-6cfz1n2cew.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\byhlbyos1a-6pdc2jztkx.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\weqgxdvy7q-493y06b0oq.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\hl9j180kyb-iovd86k7lj.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\4kjmsy264z-vr1egmr9el.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\jbatldxs2r-kbrnm935zg.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\z3ijf8xa9s-jj8uyg4cgr.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\03t27srqbu-y7v9cxd14o.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\m70pvvfnlf-notf2xhcfb.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\hala3myv06-h1s4sie4z3.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\limubbt078-63fj8s7r0e.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\5pscxmbdlr-0j3bgjxly4.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\hdflp1gfv3-47otxtyo56.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\p5y9o36nsl-4v8eqarkd7.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\u6d6ns6pxx-356vix0kms.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\r9n25kaivr-83jwlth58m.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\bjuzazoy6y-mrlpezrjn3.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\1l1l9ngplr-lzl9nlhx6b.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\k0p369cle9-ag7o75518u.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\p487szauzt-x0q3zqp4vz.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\6reulgegdu-0i3buxo5is.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\ejetf2v4bt-o1o13a6vjx.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\llq9crlbbu-ttgo8qnofa.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\gzouoh2qu9-2z0ns9nrw6.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\eam0hku7nk-muycvpuwrr.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\oln0wkxraa-87fc7y1x7t.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\fcby6fd9uq-mlv21k5csn.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\6dg4n0hsol-fw5yht7wvn.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\j0unixekdv-fw5yht7wvn.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\CustomerFeedbackPortal.dll
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\refint\CustomerFeedbackPortal.dll
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\CustomerFeedbackPortal.pdb
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\CustomerFeedbackPortal.genruntimeconfig.cache
+C:\Users\somna\Documents\wiprotraining\.NETCORE\CustomerFeedbackPortal\obj\Debug\net9.0\ref\CustomerFeedbackPortal.dll
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\bin\Debug\net9.0\appsettings.json
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\bin\Debug\net9.0\CustomerFeedbackPortal.staticwebassets.endpoints.json
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\bin\Debug\net9.0\CustomerFeedbackPortal.staticwebassets.runtime.json
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\bin\Debug\net9.0\CustomerFeedbackPortal.exe
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\bin\Debug\net9.0\CustomerFeedbackPortal.deps.json
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\bin\Debug\net9.0\CustomerFeedbackPortal.runtimeconfig.json
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\bin\Debug\net9.0\CustomerFeedbackPortal.dll
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\bin\Debug\net9.0\CustomerFeedbackPortal.pdb
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\CustomerFeedbackPortal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\CustomerFeedbackPortal.AssemblyInfoInputs.cache
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\CustomerFeedbackPortal.AssemblyInfo.cs
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\CustomerFeedbackPortal.csproj.CoreCompileInputs.cache
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\CustomerFeedbackPortal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\CustomerFeedbackPortal.RazorAssemblyInfo.cache
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\CustomerFeedbackPortal.RazorAssemblyInfo.cs
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\CustomerFeedbackPortal.sourcelink.json
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\scopedcss\bundle\CustomerFeedbackPortal.styles.css
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\scopedcss\projectbundle\CustomerFeedbackPortal.bundle.scp.css
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\i6s2enwcj1-b9sayid5wm.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\axxfqsz7kf-61n19gt1b8.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\8sz4tdql2g-xtxxf3hu2r.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\lvc1rwbe3a-bqjiyaj88i.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\n3dis37ixf-c2jlpeoesf.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\kjljfl7z69-erw9l3u2r3.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\ajp9kju677-aexeepp0ev.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\ua1s394ufz-d7shbmvgxk.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\5zhw902566-ausgxo2sd3.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\k3gtvqbf7c-k8d9w2qqmf.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\uz09jn3xt9-cosvhxvwiu.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\k73onl3ro2-ub07r2b239.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\667ogri9xu-fvhpjtyr6v.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\g55vuv5t61-b7pk76d08c.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\tsrle4i5q0-fsbi9cje9m.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\fr1gz1a1bi-rzd6atqjts.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\xo2m1csqo9-ee0r1s7dh0.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\xq78gxv0iw-dxx9fxp4il.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\6auxpomgkk-jd9uben2k1.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\ue6abexlq1-khv3u5hwcm.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\gwzzd75pru-r4e9w2rdcm.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\v0ijihskfu-lcd1t2u6c8.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\tjd9orohec-c2oey78nd0.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\hd5clw416w-tdbxkamptv.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\n644w3f4mh-j5mq2jizvt.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\6yyqi88ie8-06098lyss8.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\va84l6ydkp-nvvlpmu67g.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\n8y0g8o1zu-s35ty4nyc5.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\5zn9smf614-pj5nd1wqec.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\p3znz24nrm-46ein0sx1k.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\0a6xxvvmt0-v0zj4ognzu.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\mlqidhcn0z-37tfw0ft22.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\i5k756x0y9-hrwsygsryq.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\9vb1ibj421-pk9g2wxc8p.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\sxgp365462-ft3s53vfgj.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\po7xeulxgd-6cfz1n2cew.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\byhlbyos1a-6pdc2jztkx.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\weqgxdvy7q-493y06b0oq.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\hl9j180kyb-iovd86k7lj.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\4kjmsy264z-vr1egmr9el.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\jbatldxs2r-kbrnm935zg.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\z3ijf8xa9s-jj8uyg4cgr.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\03t27srqbu-y7v9cxd14o.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\m70pvvfnlf-notf2xhcfb.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\hala3myv06-h1s4sie4z3.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\limubbt078-63fj8s7r0e.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\5pscxmbdlr-0j3bgjxly4.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\hdflp1gfv3-47otxtyo56.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\p5y9o36nsl-4v8eqarkd7.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\u6d6ns6pxx-356vix0kms.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\r9n25kaivr-83jwlth58m.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\bjuzazoy6y-mrlpezrjn3.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\1l1l9ngplr-lzl9nlhx6b.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\k0p369cle9-ag7o75518u.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\p487szauzt-x0q3zqp4vz.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\6reulgegdu-0i3buxo5is.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\ejetf2v4bt-o1o13a6vjx.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\llq9crlbbu-ttgo8qnofa.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\gzouoh2qu9-2z0ns9nrw6.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\eam0hku7nk-muycvpuwrr.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\oln0wkxraa-87fc7y1x7t.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\fcby6fd9uq-mlv21k5csn.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\6dg4n0hsol-fw5yht7wvn.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\compressed\j0unixekdv-fw5yht7wvn.gz
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\CustomerFeedbackPortal.dll
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\refint\CustomerFeedbackPortal.dll
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\CustomerFeedbackPortal.pdb
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\CustomerFeedbackPortal.genruntimeconfig.cache
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day3 Assignment\CustomerFeedbackPortal\obj\Debug\net9.0\ref\CustomerFeedbackPortal.dll

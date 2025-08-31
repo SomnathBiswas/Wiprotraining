@@ -1,0 +1,351 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginApp\\SecureLoginApp\\Data\\Migrations\\20250828190456_initRole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SecureLoginApp\\Data\\Migrations\\20250828190456_initRole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9FA9BBD-CFB6-4568-B56E-2647ADADC1BB}|SecureLoginApp\\SecureLoginApp.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\prep\\secureloginapp\\secureloginapp\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9FA9BBD-CFB6-4568-B56E-2647ADADC1BB}|SecureLoginApp\\SecureLoginApp.csproj|solutionrelative:secureloginapp\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9FA9BBD-CFB6-4568-B56E-2647ADADC1BB}|SecureLoginApp\\SecureLoginApp.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\prep\\secureloginapp\\secureloginapp\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9FA9BBD-CFB6-4568-B56E-2647ADADC1BB}|SecureLoginApp\\SecureLoginApp.csproj|solutionrelative:secureloginapp\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9FA9BBD-CFB6-4568-B56E-2647ADADC1BB}|SecureLoginApp\\SecureLoginApp.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\prep\\secureloginapp\\secureloginapp\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9FA9BBD-CFB6-4568-B56E-2647ADADC1BB}|SecureLoginApp\\SecureLoginApp.csproj|solutionrelative:secureloginapp\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9FA9BBD-CFB6-4568-B56E-2647ADADC1BB}|SecureLoginApp\\SecureLoginApp.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\prep\\secureloginapp\\secureloginapp\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9FA9BBD-CFB6-4568-B56E-2647ADADC1BB}|SecureLoginApp\\SecureLoginApp.csproj|solutionrelative:secureloginapp\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9FA9BBD-CFB6-4568-B56E-2647ADADC1BB}|SecureLoginApp\\SecureLoginApp.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\prep\\secureloginapp\\secureloginapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9FA9BBD-CFB6-4568-B56E-2647ADADC1BB}|SecureLoginApp\\SecureLoginApp.csproj|solutionrelative:secureloginapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9FA9BBD-CFB6-4568-B56E-2647ADADC1BB}|SecureLoginApp\\SecureLoginApp.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\prep\\secureloginapp\\secureloginapp\\views\\account\\userprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9FA9BBD-CFB6-4568-B56E-2647ADADC1BB}|SecureLoginApp\\SecureLoginApp.csproj|solutionrelative:secureloginapp\\views\\account\\userprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9FA9BBD-CFB6-4568-B56E-2647ADADC1BB}|SecureLoginApp\\SecureLoginApp.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\prep\\secureloginapp\\secureloginapp\\viewmodels\\userprofileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9FA9BBD-CFB6-4568-B56E-2647ADADC1BB}|SecureLoginApp\\SecureLoginApp.csproj|solutionrelative:secureloginapp\\viewmodels\\userprofileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9FA9BBD-CFB6-4568-B56E-2647ADADC1BB}|SecureLoginApp\\SecureLoginApp.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\prep\\secureloginapp\\secureloginapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9FA9BBD-CFB6-4568-B56E-2647ADADC1BB}|SecureLoginApp\\SecureLoginApp.csproj|solutionrelative:secureloginapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9FA9BBD-CFB6-4568-B56E-2647ADADC1BB}|SecureLoginApp\\SecureLoginApp.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\prep\\secureloginapp\\secureloginapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9FA9BBD-CFB6-4568-B56E-2647ADADC1BB}|SecureLoginApp\\SecureLoginApp.csproj|solutionrelative:secureloginapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9FA9BBD-CFB6-4568-B56E-2647ADADC1BB}|SecureLoginApp\\SecureLoginApp.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\prep\\secureloginapp\\secureloginapp\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9FA9BBD-CFB6-4568-B56E-2647ADADC1BB}|SecureLoginApp\\SecureLoginApp.csproj|solutionrelative:secureloginapp\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9FA9BBD-CFB6-4568-B56E-2647ADADC1BB}|SecureLoginApp\\SecureLoginApp.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\prep\\secureloginapp\\secureloginapp\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9FA9BBD-CFB6-4568-B56E-2647ADADC1BB}|SecureLoginApp\\SecureLoginApp.csproj|solutionrelative:secureloginapp\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginApp\\SecureLoginApp\\Data\\Migrations\\20250828182753_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SecureLoginApp\\Data\\Migrations\\20250828182753_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9FA9BBD-CFB6-4568-B56E-2647ADADC1BB}|SecureLoginApp\\SecureLoginApp.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\prep\\secureloginapp\\secureloginapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9FA9BBD-CFB6-4568-B56E-2647ADADC1BB}|SecureLoginApp\\SecureLoginApp.csproj|solutionrelative:secureloginapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9FA9BBD-CFB6-4568-B56E-2647ADADC1BB}|SecureLoginApp\\SecureLoginApp.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\prep\\secureloginapp\\secureloginapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9FA9BBD-CFB6-4568-B56E-2647ADADC1BB}|SecureLoginApp\\SecureLoginApp.csproj|solutionrelative:secureloginapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginApp\\SecureLoginApp\\Data\\Migrations\\20250828174750_initRoles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SecureLoginApp\\Data\\Migrations\\20250828174750_initRoles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9FA9BBD-CFB6-4568-B56E-2647ADADC1BB}|SecureLoginApp\\SecureLoginApp.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\prep\\secureloginapp\\secureloginapp\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9FA9BBD-CFB6-4568-B56E-2647ADADC1BB}|SecureLoginApp\\SecureLoginApp.csproj|solutionrelative:secureloginapp\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9FA9BBD-CFB6-4568-B56E-2647ADADC1BB}|SecureLoginApp\\SecureLoginApp.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\prep\\secureloginapp\\secureloginapp\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9FA9BBD-CFB6-4568-B56E-2647ADADC1BB}|SecureLoginApp\\SecureLoginApp.csproj|solutionrelative:secureloginapp\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9FA9BBD-CFB6-4568-B56E-2647ADADC1BB}|SecureLoginApp\\SecureLoginApp.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\prep\\secureloginapp\\secureloginapp\\viewmodels\\adminuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9FA9BBD-CFB6-4568-B56E-2647ADADC1BB}|SecureLoginApp\\SecureLoginApp.csproj|solutionrelative:secureloginapp\\viewmodels\\adminuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250828190456_initRole.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginApp\\SecureLoginApp\\Data\\Migrations\\20250828190456_initRole.cs",
+              "RelativeDocumentMoniker": "SecureLoginApp\\Data\\Migrations\\20250828190456_initRole.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginApp\\SecureLoginApp\\Data\\Migrations\\20250828190456_initRole.cs",
+              "RelativeToolTip": "SecureLoginApp\\Data\\Migrations\\20250828190456_initRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T19:04:56.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginApp\\SecureLoginApp\\Program.cs",
+              "RelativeDocumentMoniker": "SecureLoginApp\\Program.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginApp\\SecureLoginApp\\Program.cs",
+              "RelativeToolTip": "SecureLoginApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T17:31:36.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginApp\\SecureLoginApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "SecureLoginApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginApp\\SecureLoginApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "SecureLoginApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T18:17:40.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginApp\\SecureLoginApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "SecureLoginApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginApp\\SecureLoginApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "SecureLoginApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T18:10:10.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginApp\\SecureLoginApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "SecureLoginApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginApp\\SecureLoginApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "SecureLoginApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T18:06:01.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginApp\\SecureLoginApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "SecureLoginApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginApp\\SecureLoginApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "SecureLoginApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T18:19:19.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserProfile.cshtml",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginApp\\SecureLoginApp\\Views\\Account\\UserProfile.cshtml",
+              "RelativeDocumentMoniker": "SecureLoginApp\\Views\\Account\\UserProfile.cshtml",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginApp\\SecureLoginApp\\Views\\Account\\UserProfile.cshtml",
+              "RelativeToolTip": "SecureLoginApp\\Views\\Account\\UserProfile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T17:43:01.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserProfileViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginApp\\SecureLoginApp\\ViewModels\\UserProfileViewModel.cs",
+              "RelativeDocumentMoniker": "SecureLoginApp\\ViewModels\\UserProfileViewModel.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginApp\\SecureLoginApp\\ViewModels\\UserProfileViewModel.cs",
+              "RelativeToolTip": "SecureLoginApp\\ViewModels\\UserProfileViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T17:41:00.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginApp\\SecureLoginApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "SecureLoginApp\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginApp\\SecureLoginApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "SecureLoginApp\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAswEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T17:36:29.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginApp\\SecureLoginApp\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "SecureLoginApp\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginApp\\SecureLoginApp\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "SecureLoginApp\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T17:38:07.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginApp\\SecureLoginApp\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "SecureLoginApp\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginApp\\SecureLoginApp\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "SecureLoginApp\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T17:35:03.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginApp\\SecureLoginApp\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "SecureLoginApp\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginApp\\SecureLoginApp\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "SecureLoginApp\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T17:40:26.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250828182753_init.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginApp\\SecureLoginApp\\Data\\Migrations\\20250828182753_init.cs",
+              "RelativeDocumentMoniker": "SecureLoginApp\\Data\\Migrations\\20250828182753_init.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginApp\\SecureLoginApp\\Data\\Migrations\\20250828182753_init.cs",
+              "RelativeToolTip": "SecureLoginApp\\Data\\Migrations\\20250828182753_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T18:27:53.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginApp\\SecureLoginApp\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "SecureLoginApp\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginApp\\SecureLoginApp\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "SecureLoginApp\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T17:42:41.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginApp\\SecureLoginApp\\appsettings.json",
+              "RelativeDocumentMoniker": "SecureLoginApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginApp\\SecureLoginApp\\appsettings.json",
+              "RelativeToolTip": "SecureLoginApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-28T17:46:27.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250828174750_initRoles.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginApp\\SecureLoginApp\\Data\\Migrations\\20250828174750_initRoles.cs",
+              "RelativeDocumentMoniker": "SecureLoginApp\\Data\\Migrations\\20250828174750_initRoles.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginApp\\SecureLoginApp\\Data\\Migrations\\20250828174750_initRoles.cs",
+              "RelativeToolTip": "SecureLoginApp\\Data\\Migrations\\20250828174750_initRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T17:47:51.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginApp\\SecureLoginApp\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "SecureLoginApp\\Views\\Account\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginApp\\SecureLoginApp\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "SecureLoginApp\\Views\\Account\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T17:43:20.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginApp\\SecureLoginApp\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "SecureLoginApp\\Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginApp\\SecureLoginApp\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "SecureLoginApp\\Views\\Admin\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T17:43:50.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminUserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginApp\\SecureLoginApp\\ViewModels\\AdminUserViewModel.cs",
+              "RelativeDocumentMoniker": "SecureLoginApp\\ViewModels\\AdminUserViewModel.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginApp\\SecureLoginApp\\ViewModels\\AdminUserViewModel.cs",
+              "RelativeToolTip": "SecureLoginApp\\ViewModels\\AdminUserViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T17:41:52.337Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+<div class="container">
+      <h2>BookStore Pro</h2>
+
+      <!-- Async pipe demo -->
+      <section>
+        <h4>Using async pipe</h4>
+        <div class="grid" *ngIf="books$ | async as books; else loading1">
+          <app-book-item *ngFor="let b of books" [book]="b"></app-book-item>
+        </div>
+        <ng-template #loading1>Loading…</ng-template>
+      </section>
+
+      <hr />
+
+      <!-- Manual subscribe demo -->
+      <section>
+        <h4>Using manual subscribe</h4>
+        <div class="grid" *ngIf="manualBooks?.length; else loading2">
+          <app-book-item *ngFor="let b of manualBooks" [book]="b"></app-book-item>
+        </div>
+        <ng-template #loading2>Loading…</ng-template>
+      </section>
+    </div>

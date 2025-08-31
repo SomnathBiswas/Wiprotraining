@@ -1,1 +1,14 @@
-<h4 *ngIf="result">{{result}}</h4>
+<!-- <h4 *ngIf="result">{{result}}</h4> -->
+
+
+<!-- For backward compatibility -->
+<h4 *ngIf="result && typeof result === 'string'">{{result}}</h4>
+
+<!-- New formatted display using pipes -->
+<h4 *ngIf="fromAmount && toAmount">
+  <!-- With pipe (formatted) -->
+  <div>With pipe: {{ fromAmount | formatCurrency:fromCurrency }} = {{ toAmount | formatCurrency:toCurrency }}</div>
+  
+  <!-- Without pipe (unformatted) -->
+  <div>Without pipe: {{ fromAmount }} {{ fromCurrency }} = {{ toAmount }} {{ toCurrency }}</div>
+</h4>

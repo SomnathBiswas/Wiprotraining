@@ -1,0 +1,47 @@
+﻿@*
+    This view displays the login form
+    It's strongly typed to receive no specific model (we're using basic parameters)
+*@
+
+@{
+    // Set the page title
+    ViewData["Title"] = "Login";
+}
+
+<!-- Page heading -->
+<h2>Login</h2>
+
+<!-- Login form -->
+<!-- Using method="post" makes this a POST request when submitted -->
+<!-- asp-action and asp-controller specify where to send the form data -->
+<form method="post" asp-action="Login" asp-controller="Account">
+    <!-- This generates an anti-forgery token to prevent CSRF attacks -->
+    <!-- This meets the requirement for CSRF protection -->
+    @Html.AntiForgeryToken()
+
+    <!-- Username input field -->
+    <div class="form-group">
+        <label for="username">Username:</label>
+        <!-- The name attribute matches the parameter name in the controller action -->
+        <input type="text" class="form-control" id="username" name="username" required />
+    </div>
+
+    <!-- Password input field -->
+    <div class="form-group">
+        <label for="password">Password:</label>
+        <!-- type="password" hides the input as dots or asterisks -->
+        <input type="password" class="form-control" id="password" name="password" required />
+    </div>
+
+    <!-- Submit button -->
+    <button type="submit" class="btn btn-primary">Login</button>
+
+    <!-- Display error messages if any -->
+    @if (ViewBag.ErrorMessage != null)
+    {
+        <!-- Show error message in a red box -->
+        <div class="alert alert-danger" style="margin-top: 15px;">
+            @ViewBag.ErrorMessage
+        </div>
+    }
+</form>

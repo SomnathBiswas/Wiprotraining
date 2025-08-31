@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\Data",
+    "\\Models",
+    "\\Views",
+    "\\Views\\Book",
+    "\\Views\\Home"
+  ],
+  "SelectedNode": "\\BookStoreApp.csproj",
+  "PreviewInSolutionExplorer": false
+}

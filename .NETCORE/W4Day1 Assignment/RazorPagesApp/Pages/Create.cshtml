@@ -1,0 +1,19 @@
+@page
+@model RazorPagesApp.Pages.Items.CreateModel
+<h1>Add Item</h1>
+<form method="post">
+    <div>
+        <label asp-for="NewItem.Name"></label>
+        <input asp-for="NewItem.Name" />
+        <span asp-validation-for="NewItem.Name"></span>
+    </div>
+    <div>
+        <label asp-for="NewItem.Description"></label>
+        <input asp-for="NewItem.Description" />
+    </div>
+    <button type="submit">Add</button>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

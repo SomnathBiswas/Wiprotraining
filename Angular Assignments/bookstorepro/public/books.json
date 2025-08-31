@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Clean Code",
+    "price": 799.0,
+    "publicationDate": "2008-08-01",
+    "description": "Even bad code can function. But if code isn't clean, it can bring a development organization to its knees.",
+    "discountPercent": 10
+  },
+  {
+    "id": 2,
+    "title": "The Pragmatic Programmer",
+    "price": 999.0,
+    "publicationDate": "1999-10-20",
+    "description": "Straight from the programming trenches, practical advice for programmers to improve their craft.",
+    "discountPercent": 15
+  },
+  {
+    "id": 3,
+    "title": "You Don't Know JS Yet",
+    "price": 599.0,
+    "publicationDate": "2020-01-28",
+    "description": "A deep dive into core mechanisms of the JavaScript language, explained clearly and concisely.",
+    "discountPercent": 5
+  }
+]

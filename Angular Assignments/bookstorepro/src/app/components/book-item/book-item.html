@@ -1,0 +1,21 @@
+<div class="card">
+  <h3>{{ book.title | uppercase }}</h3>
+
+  <div class="meta">
+    <span class="price">
+      Price: {{ book.price | currency:'INR' }}
+    </span>
+    <span class="date">
+      Published: {{ book.publicationDate | date:'mediumDate' }}
+    </span>
+  </div>
+
+  <p class="desc">
+    {{ book.description | slice:0:60 }}{{ book.description.length > 60 ? '…' : '' }}
+  </p>
+
+  <div class="discount">
+    Discount: {{ book.discountPercent }}% → 
+    <strong>{{ (book.price | discount:book.discountPercent) | currency:'INR' }}</strong>
+  </div>
+</div>

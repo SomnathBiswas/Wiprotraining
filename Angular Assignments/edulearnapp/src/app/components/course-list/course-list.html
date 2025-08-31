@@ -1,0 +1,17 @@
+<div class="course-list-container">
+  <h2>Available Courses</h2>
+  <div class="courses-grid">
+    <div class="course-card" *ngFor="let course of courses">
+      <h3>{{ course.title }}</h3>
+      <p><strong>Instructor:</strong> {{ course.instructor }}</p>
+      <p><strong>Duration:</strong> {{ course.duration }}</p>
+      <p><strong>Level:</strong> {{ course.level }}</p>
+      <p><strong>Price:</strong> ${{ course.price }}</p>
+     
+      <button class="btn-primary" (click)="selectCourse(course)">
+        View Details
+      </button>
+    </div>
+  </div>
+</div>
+

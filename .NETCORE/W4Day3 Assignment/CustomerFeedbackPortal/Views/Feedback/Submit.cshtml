@@ -1,0 +1,22 @@
+@model List<FeedbackPortal.Models.Feedback>
+
+<h2>Submitted Feedback</h2>
+<table class="table table-bordered">
+    <tr>
+        <th>Name</th>
+        <th>Email</th>
+        <th>Rating</th>
+        <th>Comments</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Name</td>
+            <td>@item.Email</td>
+            <td>@item.Rating</td>
+            <td>@item.Comments</td>
+        </tr>
+    }
+</table>
+<a asp-controller="Feedback" asp-action="Index">Back to Form</a>

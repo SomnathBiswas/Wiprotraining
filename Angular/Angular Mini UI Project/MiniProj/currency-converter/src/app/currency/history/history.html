@@ -1,6 +1,13 @@
-<h3>Conversion History</h3>
+<!-- <h3>Conversion History</h3>
     <ul>
       <li *ngFor="let h of history">
         {{h.date}}: {{h.amount}} {{h.from}} → {{h.result}} {{h.to}}
       </li>
-    </ul>
+    </ul> -->
+
+<h3>Conversion History</h3>
+    <div *ngFor="let item of historyItems">
+      {{ item.date | date:'short' }}: 
+      {{ item.amount | formatCurrency:item.from }} = 
+      {{ item.result | formatCurrency:item.to }}
+    </div>

@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginAndRoleBaseApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4734A1BE-B407-43A5-A336-352246CB9555}|SecureLoginAndRoleBaseApp\\SecureLoginAndRoleBaseApp.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\prep\\secureloginandrolebaseapp\\secureloginandrolebaseapp\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4734A1BE-B407-43A5-A336-352246CB9555}|SecureLoginAndRoleBaseApp\\SecureLoginAndRoleBaseApp.csproj|solutionrelative:secureloginandrolebaseapp\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4734A1BE-B407-43A5-A336-352246CB9555}|SecureLoginAndRoleBaseApp\\SecureLoginAndRoleBaseApp.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\prep\\secureloginandrolebaseapp\\secureloginandrolebaseapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4734A1BE-B407-43A5-A336-352246CB9555}|SecureLoginAndRoleBaseApp\\SecureLoginAndRoleBaseApp.csproj|solutionrelative:secureloginandrolebaseapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4734A1BE-B407-43A5-A336-352246CB9555}|SecureLoginAndRoleBaseApp\\SecureLoginAndRoleBaseApp.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\prep\\secureloginandrolebaseapp\\secureloginandrolebaseapp\\views\\home\\admindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4734A1BE-B407-43A5-A336-352246CB9555}|SecureLoginAndRoleBaseApp\\SecureLoginAndRoleBaseApp.csproj|solutionrelative:secureloginandrolebaseapp\\views\\home\\admindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4734A1BE-B407-43A5-A336-352246CB9555}|SecureLoginAndRoleBaseApp\\SecureLoginAndRoleBaseApp.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\prep\\secureloginandrolebaseapp\\secureloginandrolebaseapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4734A1BE-B407-43A5-A336-352246CB9555}|SecureLoginAndRoleBaseApp\\SecureLoginAndRoleBaseApp.csproj|solutionrelative:secureloginandrolebaseapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4734A1BE-B407-43A5-A336-352246CB9555}|SecureLoginAndRoleBaseApp\\SecureLoginAndRoleBaseApp.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\prep\\secureloginandrolebaseapp\\secureloginandrolebaseapp\\views\\home\\userprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4734A1BE-B407-43A5-A336-352246CB9555}|SecureLoginAndRoleBaseApp\\SecureLoginAndRoleBaseApp.csproj|solutionrelative:secureloginandrolebaseapp\\views\\home\\userprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4734A1BE-B407-43A5-A336-352246CB9555}|SecureLoginAndRoleBaseApp\\SecureLoginAndRoleBaseApp.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\prep\\secureloginandrolebaseapp\\secureloginandrolebaseapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4734A1BE-B407-43A5-A336-352246CB9555}|SecureLoginAndRoleBaseApp\\SecureLoginAndRoleBaseApp.csproj|solutionrelative:secureloginandrolebaseapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4734A1BE-B407-43A5-A336-352246CB9555}|SecureLoginAndRoleBaseApp\\SecureLoginAndRoleBaseApp.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\prep\\secureloginandrolebaseapp\\secureloginandrolebaseapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4734A1BE-B407-43A5-A336-352246CB9555}|SecureLoginAndRoleBaseApp\\SecureLoginAndRoleBaseApp.csproj|solutionrelative:secureloginandrolebaseapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4734A1BE-B407-43A5-A336-352246CB9555}|SecureLoginAndRoleBaseApp\\SecureLoginAndRoleBaseApp.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\prep\\secureloginandrolebaseapp\\secureloginandrolebaseapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4734A1BE-B407-43A5-A336-352246CB9555}|SecureLoginAndRoleBaseApp\\SecureLoginAndRoleBaseApp.csproj|solutionrelative:secureloginandrolebaseapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4734A1BE-B407-43A5-A336-352246CB9555}|SecureLoginAndRoleBaseApp\\SecureLoginAndRoleBaseApp.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\prep\\secureloginandrolebaseapp\\secureloginandrolebaseapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4734A1BE-B407-43A5-A336-352246CB9555}|SecureLoginAndRoleBaseApp\\SecureLoginAndRoleBaseApp.csproj|solutionrelative:secureloginandrolebaseapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginAndRoleBaseApp\\SecureLoginAndRoleBaseApp\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "SecureLoginAndRoleBaseApp\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginAndRoleBaseApp\\SecureLoginAndRoleBaseApp\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "SecureLoginAndRoleBaseApp\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-08-29T03:27:56.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginAndRoleBaseApp\\SecureLoginAndRoleBaseApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "SecureLoginAndRoleBaseApp\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginAndRoleBaseApp\\SecureLoginAndRoleBaseApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "SecureLoginAndRoleBaseApp\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T13:29:31.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginAndRoleBaseApp\\SecureLoginAndRoleBaseApp\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "SecureLoginAndRoleBaseApp\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginAndRoleBaseApp\\SecureLoginAndRoleBaseApp\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "SecureLoginAndRoleBaseApp\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T13:59:44.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginAndRoleBaseApp\\SecureLoginAndRoleBaseApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SecureLoginAndRoleBaseApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginAndRoleBaseApp\\SecureLoginAndRoleBaseApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SecureLoginAndRoleBaseApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T13:50:31.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminDashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginAndRoleBaseApp\\SecureLoginAndRoleBaseApp\\Views\\Home\\AdminDashboard.cshtml",
+              "RelativeDocumentMoniker": "SecureLoginAndRoleBaseApp\\Views\\Home\\AdminDashboard.cshtml",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginAndRoleBaseApp\\SecureLoginAndRoleBaseApp\\Views\\Home\\AdminDashboard.cshtml",
+              "RelativeToolTip": "SecureLoginAndRoleBaseApp\\Views\\Home\\AdminDashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T13:56:07.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserProfile.cshtml",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginAndRoleBaseApp\\SecureLoginAndRoleBaseApp\\Views\\Home\\UserProfile.cshtml",
+              "RelativeDocumentMoniker": "SecureLoginAndRoleBaseApp\\Views\\Home\\UserProfile.cshtml",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginAndRoleBaseApp\\SecureLoginAndRoleBaseApp\\Views\\Home\\UserProfile.cshtml",
+              "RelativeToolTip": "SecureLoginAndRoleBaseApp\\Views\\Home\\UserProfile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T14:04:31.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginAndRoleBaseApp\\SecureLoginAndRoleBaseApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SecureLoginAndRoleBaseApp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginAndRoleBaseApp\\SecureLoginAndRoleBaseApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SecureLoginAndRoleBaseApp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T13:22:13.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginAndRoleBaseApp\\SecureLoginAndRoleBaseApp\\Program.cs",
+              "RelativeDocumentMoniker": "SecureLoginAndRoleBaseApp\\Program.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginAndRoleBaseApp\\SecureLoginAndRoleBaseApp\\Program.cs",
+              "RelativeToolTip": "SecureLoginAndRoleBaseApp\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T13:22:49.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginAndRoleBaseApp\\SecureLoginAndRoleBaseApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SecureLoginAndRoleBaseApp\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Prep\\SecureLoginAndRoleBaseApp\\SecureLoginAndRoleBaseApp\\Models\\User.cs",
+              "RelativeToolTip": "SecureLoginAndRoleBaseApp\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T13:22:03.35Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -297,3 +297,17 @@ C:\Users\somna\Documents\wiprotraining\Unit Testing\CoreRazorApp\CoreRazorApp\bi
 C:\Users\somna\Documents\wiprotraining\Unit Testing\CoreRazorApp\CoreRazorApp\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\somna\Documents\wiprotraining\Unit Testing\CoreRazorApp\CoreRazorApp\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\somna\Documents\wiprotraining\Unit Testing\CoreRazorApp\CoreRazorApp\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\somna\Documents\wiprotraining\Unit Testing\CoreRazorApp\CoreRazorApp\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\somna\Documents\wiprotraining\Unit Testing\CoreRazorApp\CoreRazorApp\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\somna\Documents\wiprotraining\Unit Testing\CoreRazorApp\CoreRazorApp\bin\Debug\net8.0\DnsClient.dll
+C:\Users\somna\Documents\wiprotraining\Unit Testing\CoreRazorApp\CoreRazorApp\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\somna\Documents\wiprotraining\Unit Testing\CoreRazorApp\CoreRazorApp\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\somna\Documents\wiprotraining\Unit Testing\CoreRazorApp\CoreRazorApp\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\somna\Documents\wiprotraining\Unit Testing\CoreRazorApp\CoreRazorApp\bin\Debug\net8.0\MongoDB.EntityFrameworkCore.dll
+C:\Users\somna\Documents\wiprotraining\Unit Testing\CoreRazorApp\CoreRazorApp\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\somna\Documents\wiprotraining\Unit Testing\CoreRazorApp\CoreRazorApp\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\somna\Documents\wiprotraining\Unit Testing\CoreRazorApp\CoreRazorApp\bin\Debug\net8.0\Snappier.dll
+C:\Users\somna\Documents\wiprotraining\Unit Testing\CoreRazorApp\CoreRazorApp\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\somna\Documents\wiprotraining\Unit Testing\CoreRazorApp\CoreRazorApp\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\somna\Documents\wiprotraining\Unit Testing\CoreRazorApp\CoreRazorApp\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\somna\Documents\wiprotraining\Unit Testing\CoreRazorApp\CoreRazorApp\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll

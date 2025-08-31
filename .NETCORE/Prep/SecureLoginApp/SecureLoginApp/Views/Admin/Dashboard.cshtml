@@ -1,0 +1,14 @@
+﻿@model List<SecureLoginApp.ViewModels.AdminUserViewModel>
+<h2>Admin Dashboard</h2>
+<p>@ViewBag.Message</p>
+<table>
+    <tr><th>Username</th><th>Email</th><th>Roles</th></tr>
+    @foreach (var u in Model)
+    {
+        <tr>
+            <td>@u.Username</td>
+            <td>@u.Email</td>
+            <td>@u.Roles</td>
+        </tr>
+    }
+</table>

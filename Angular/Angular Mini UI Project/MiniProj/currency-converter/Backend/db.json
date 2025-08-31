@@ -316,6 +316,606 @@
       "to": "INR",
       "amount": 7,
       "result": 646.4888888888889
+    },
+    {
+      "id": "f253",
+      "date": "2025-08-11T10:35:08.086Z",
+      "from": "INR",
+      "to": "USD",
+      "amount": 5,
+      "result": 0.06015399422521655
+    },
+    {
+      "id": "546f",
+      "date": "2025-08-11T10:36:41.937Z",
+      "from": "INR",
+      "to": "USD",
+      "amount": 1,
+      "result": 0.01203079884504331
+    },
+    {
+      "id": "1e7d",
+      "date": "2025-08-11T10:38:47.478Z",
+      "from": "USD",
+      "to": "INR",
+      "amount": 1,
+      "result": 83.12
+    },
+    {
+      "id": "61c2",
+      "date": "2025-08-11T10:38:48.374Z",
+      "from": "USD",
+      "to": "INR",
+      "amount": 1,
+      "result": 83.12
+    },
+    {
+      "id": "922b",
+      "date": "2025-08-11T10:38:48.542Z",
+      "from": "USD",
+      "to": "INR",
+      "amount": 1,
+      "result": 83.12
+    },
+    {
+      "id": "59ec",
+      "date": "2025-08-11T10:38:48.797Z",
+      "from": "USD",
+      "to": "INR",
+      "amount": 1,
+      "result": 83.12
+    },
+    {
+      "id": "c0b2",
+      "date": "2025-08-11T10:38:48.900Z",
+      "from": "USD",
+      "to": "INR",
+      "amount": 1,
+      "result": 83.12
+    },
+    {
+      "id": "bad8",
+      "date": "2025-08-11T10:38:49.032Z",
+      "from": "USD",
+      "to": "INR",
+      "amount": 1,
+      "result": 83.12
+    },
+    {
+      "id": "b659",
+      "date": "2025-08-11T10:38:49.238Z",
+      "from": "USD",
+      "to": "INR",
+      "amount": 1,
+      "result": 83.12
+    },
+    {
+      "id": "ceab",
+      "date": "2025-08-11T10:38:49.472Z",
+      "from": "USD",
+      "to": "INR",
+      "amount": 1,
+      "result": 83.12
+    },
+    {
+      "id": "ad45",
+      "date": "2025-08-11T10:38:49.642Z",
+      "from": "USD",
+      "to": "INR",
+      "amount": 1,
+      "result": 83.12
+    },
+    {
+      "id": "78c1",
+      "date": "2025-08-11T10:38:49.787Z",
+      "from": "USD",
+      "to": "INR",
+      "amount": 1,
+      "result": 83.12
+    },
+    {
+      "id": "4683",
+      "date": "2025-08-11T10:38:49.958Z",
+      "from": "USD",
+      "to": "INR",
+      "amount": 1,
+      "result": 83.12
+    },
+    {
+      "id": "07e9",
+      "date": "2025-08-11T10:38:50.136Z",
+      "from": "USD",
+      "to": "INR",
+      "amount": 1,
+      "result": 83.12
+    },
+    {
+      "id": "52f1",
+      "date": "2025-08-11T10:38:50.484Z",
+      "from": "USD",
+      "to": "INR",
+      "amount": 1,
+      "result": 83.12
+    },
+    {
+      "id": "4d96",
+      "date": "2025-08-11T10:38:50.642Z",
+      "from": "USD",
+      "to": "INR",
+      "amount": 1,
+      "result": 83.12
+    },
+    {
+      "id": "de5b",
+      "date": "2025-08-11T10:38:50.862Z",
+      "from": "USD",
+      "to": "INR",
+      "amount": 1,
+      "result": 83.12
+    },
+    {
+      "id": "6064",
+      "date": "2025-08-11T10:38:51.004Z",
+      "from": "USD",
+      "to": "INR",
+      "amount": 1,
+      "result": 83.12
+    },
+    {
+      "id": "0a1e",
+      "date": "2025-08-11T10:38:51.182Z",
+      "from": "USD",
+      "to": "INR",
+      "amount": 1,
+      "result": 83.12
+    },
+    {
+      "id": "647d",
+      "date": "2025-08-11T10:38:58.691Z",
+      "from": "USD",
+      "to": "INR",
+      "amount": 1,
+      "result": 83.12
+    },
+    {
+      "id": "f33f",
+      "date": "2025-08-11T10:38:58.920Z",
+      "from": "USD",
+      "to": "INR",
+      "amount": 1,
+      "result": 83.12
+    },
+    {
+      "id": "657e",
+      "date": "2025-08-11T10:38:59.105Z",
+      "from": "USD",
+      "to": "INR",
+      "amount": 1,
+      "result": 83.12
+    },
+    {
+      "id": "2195",
+      "date": "2025-08-11T10:38:59.408Z",
+      "from": "USD",
+      "to": "INR",
+      "amount": 1,
+      "result": 83.12
+    },
+    {
+      "id": "a0ea",
+      "date": "2025-08-11T10:38:59.564Z",
+      "from": "USD",
+      "to": "INR",
+      "amount": 1,
+      "result": 83.12
+    },
+    {
+      "id": "bec4",
+      "date": "2025-08-11T10:38:59.728Z",
+      "from": "USD",
+      "to": "INR",
+      "amount": 1,
+      "result": 83.12
+    },
+    {
+      "id": "1f3a",
+      "date": "2025-08-11T10:39:03.336Z",
+      "from": "USD",
+      "to": "INR",
+      "amount": 13,
+      "result": 1080.56
+    },
+    {
+      "id": "0d73",
+      "date": "2025-08-11T10:39:03.730Z",
+      "from": "USD",
+      "to": "INR",
+      "amount": 13,
+      "result": 1080.56
+    },
+    {
+      "id": "e1b8",
+      "date": "2025-08-11T10:39:03.952Z",
+      "from": "USD",
+      "to": "INR",
+      "amount": 13,
+      "result": 1080.56
+    },
+    {
+      "id": "f76a",
+      "date": "2025-08-11T10:39:04.146Z",
+      "from": "USD",
+      "to": "INR",
+      "amount": 13,
+      "result": 1080.56
+    },
+    {
+      "id": "cfe0",
+      "date": "2025-08-11T10:39:04.330Z",
+      "from": "USD",
+      "to": "INR",
+      "amount": 13,
+      "result": 1080.56
+    },
+    {
+      "id": "4c20",
+      "date": "2025-08-11T10:39:04.608Z",
+      "from": "USD",
+      "to": "INR",
+      "amount": 13,
+      "result": 1080.56
+    },
+    {
+      "id": "a83c",
+      "date": "2025-08-11T10:39:04.752Z",
+      "from": "USD",
+      "to": "INR",
+      "amount": 13,
+      "result": 1080.56
+    },
+    {
+      "id": "5837",
+      "date": "2025-08-11T10:39:05.000Z",
+      "from": "USD",
+      "to": "INR",
+      "amount": 13,
+      "result": 1080.56
+    },
+    {
+      "id": "b56e",
+      "date": "2025-08-11T10:39:05.168Z",
+      "from": "USD",
+      "to": "INR",
+      "amount": 13,
+      "result": 1080.56
+    },
+    {
+      "id": "e2e4",
+      "date": "2025-08-11T10:39:14.342Z",
+      "from": "EUR",
+      "to": "INR",
+      "amount": 20,
+      "result": 1847.111111111111
+    },
+    {
+      "id": "a134",
+      "date": "2025-08-11T10:39:14.548Z",
+      "from": "EUR",
+      "to": "INR",
+      "amount": 20,
+      "result": 1847.111111111111
+    },
+    {
+      "id": "92ce",
+      "date": "2025-08-11T10:39:14.740Z",
+      "from": "EUR",
+      "to": "INR",
+      "amount": 20,
+      "result": 1847.111111111111
+    },
+    {
+      "id": "2681",
+      "date": "2025-08-11T10:39:36.862Z",
+      "from": "USD",
+      "to": "INR",
+      "amount": 1,
+      "result": 83.12
+    },
+    {
+      "id": "cb14",
+      "date": "2025-08-11T10:39:37.994Z",
+      "from": "USD",
+      "to": "INR",
+      "amount": 1,
+      "result": 83.12
+    },
+    {
+      "id": "ee4e",
+      "date": "2025-08-11T10:48:12.888Z",
+      "from": "INR",
+      "to": "INR",
+      "amount": 2,
+      "result": 2
+    },
+    {
+      "id": "6c13",
+      "date": "2025-08-11T10:48:19.086Z",
+      "from": "INR",
+      "to": "INR",
+      "amount": 2,
+      "result": 2
+    },
+    {
+      "id": "e6f1",
+      "date": "2025-08-11T10:48:19.654Z",
+      "from": "INR",
+      "to": "INR",
+      "amount": 2,
+      "result": 2
+    },
+    {
+      "id": "7958",
+      "date": "2025-08-11T10:48:19.869Z",
+      "from": "INR",
+      "to": "INR",
+      "amount": 2,
+      "result": 2
+    },
+    {
+      "id": "9b5e",
+      "date": "2025-08-11T10:48:20.063Z",
+      "from": "INR",
+      "to": "INR",
+      "amount": 2,
+      "result": 2
+    },
+    {
+      "id": "5ddd",
+      "date": "2025-08-11T10:48:20.316Z",
+      "from": "INR",
+      "to": "INR",
+      "amount": 2,
+      "result": 2
+    },
+    {
+      "id": "4d8b",
+      "date": "2025-08-11T10:48:23.324Z",
+      "from": "INR",
+      "to": "EUR",
+      "amount": 2,
+      "result": 0.02165543792107796
+    },
+    {
+      "id": "8862",
+      "date": "2025-08-11T10:48:24.166Z",
+      "from": "INR",
+      "to": "EUR",
+      "amount": 2,
+      "result": 0.02165543792107796
+    },
+    {
+      "id": "176e",
+      "date": "2025-08-11T10:48:24.362Z",
+      "from": "INR",
+      "to": "EUR",
+      "amount": 2,
+      "result": 0.02165543792107796
+    },
+    {
+      "id": "4a54",
+      "date": "2025-08-11T10:48:24.536Z",
+      "from": "INR",
+      "to": "EUR",
+      "amount": 2,
+      "result": 0.02165543792107796
+    },
+    {
+      "id": "343d",
+      "date": "2025-08-11T10:48:24.693Z",
+      "from": "INR",
+      "to": "EUR",
+      "amount": 2,
+      "result": 0.02165543792107796
+    },
+    {
+      "id": "c761",
+      "date": "2025-08-11T10:48:24.894Z",
+      "from": "INR",
+      "to": "EUR",
+      "amount": 2,
+      "result": 0.02165543792107796
+    },
+    {
+      "id": "a5a3",
+      "date": "2025-08-11T10:48:25.050Z",
+      "from": "INR",
+      "to": "EUR",
+      "amount": 2,
+      "result": 0.02165543792107796
+    },
+    {
+      "id": "79b7",
+      "date": "2025-08-11T10:48:25.206Z",
+      "from": "INR",
+      "to": "EUR",
+      "amount": 2,
+      "result": 0.02165543792107796
+    },
+    {
+      "id": "3dfc",
+      "date": "2025-08-11T10:48:51.462Z",
+      "from": "INR",
+      "to": "USD",
+      "amount": 100,
+      "result": 1.2030798845043311
+    },
+    {
+      "id": "832d",
+      "date": "2025-08-11T10:49:05.574Z",
+      "from": "USD",
+      "to": "INR",
+      "amount": 100,
+      "result": 8312
+    },
+    {
+      "id": "4557",
+      "date": "2025-08-11T10:49:11.668Z",
+      "from": "USD",
+      "to": "INR",
+      "amount": 100,
+      "result": 8312
+    },
+    {
+      "id": "e605",
+      "date": "2025-08-11T10:49:11.952Z",
+      "from": "USD",
+      "to": "INR",
+      "amount": 100,
+      "result": 8312
+    },
+    {
+      "id": "7c3d",
+      "date": "2025-08-11T10:49:12.162Z",
+      "from": "USD",
+      "to": "INR",
+      "amount": 100,
+      "result": 8312
+    },
+    {
+      "id": "dac6",
+      "date": "2025-08-11T10:49:12.400Z",
+      "from": "USD",
+      "to": "INR",
+      "amount": 100,
+      "result": 8312
+    },
+    {
+      "id": "df3c",
+      "date": "2025-08-11T10:49:12.504Z",
+      "from": "USD",
+      "to": "INR",
+      "amount": 100,
+      "result": 8312
+    },
+    {
+      "id": "aed5",
+      "date": "2025-08-11T10:49:12.606Z",
+      "from": "USD",
+      "to": "INR",
+      "amount": 100,
+      "result": 8312
+    },
+    {
+      "id": "cd2d",
+      "date": "2025-08-11T10:49:12.714Z",
+      "from": "USD",
+      "to": "INR",
+      "amount": 100,
+      "result": 8312
+    },
+    {
+      "id": "e0dc",
+      "date": "2025-08-11T10:49:12.792Z",
+      "from": "USD",
+      "to": "INR",
+      "amount": 100,
+      "result": 8312
+    },
+    {
+      "id": "893d",
+      "date": "2025-08-11T10:49:12.890Z",
+      "from": "USD",
+      "to": "INR",
+      "amount": 100,
+      "result": 8312
+    },
+    {
+      "id": "b36c",
+      "date": "2025-08-11T10:49:13.071Z",
+      "from": "USD",
+      "to": "INR",
+      "amount": 100,
+      "result": 8312
+    },
+    {
+      "id": "8c72",
+      "date": "2025-08-11T11:02:09.354Z",
+      "from": "USD",
+      "to": "INR",
+      "amount": 1,
+      "result": 83.12
+    },
+    {
+      "id": "b933",
+      "date": "2025-08-11T11:07:11.685Z",
+      "from": "USD",
+      "to": "INR",
+      "amount": 1,
+      "result": 83.12
+    },
+    {
+      "id": "029f",
+      "date": "2025-08-11T11:07:25.705Z",
+      "from": "USD",
+      "to": "INR",
+      "amount": 1000,
+      "result": 83120
+    },
+    {
+      "id": "128a",
+      "date": "2025-08-11T11:07:43.975Z",
+      "from": "USD",
+      "to": "INR",
+      "amount": 1.34,
+      "result": 111.38080000000001
+    },
+    {
+      "id": "c2c8",
+      "date": "2025-08-11T11:17:07.591Z",
+      "from": "EUR",
+      "to": "INR",
+      "amount": 1.67,
+      "result": 154.23377777777776
+    },
+    {
+      "id": "3a26",
+      "date": "2025-08-11T11:26:00.771Z",
+      "from": "USD",
+      "to": "INR",
+      "amount": 1,
+      "result": 83.12
+    },
+    {
+      "id": "e6e8",
+      "date": "2025-08-11T11:29:41.639Z",
+      "from": "USD",
+      "to": "INR",
+      "amount": 1.34,
+      "result": 111.38080000000001
+    },
+    {
+      "id": "e422",
+      "date": "2025-08-11T16:13:08.301Z",
+      "from": "EUR",
+      "to": "INR",
+      "amount": 1.34,
+      "result": 123.75644444444445
+    },
+    {
+      "id": "bef1",
+      "date": "2025-08-11T16:32:25.127Z",
+      "from": "USD",
+      "to": "INR",
+      "amount": 1,
+      "result": 83.12
+    },
+    {
+      "id": "efa9",
+      "date": "2025-08-12T05:04:19.804Z",
+      "from": "USD",
+      "to": "INR",
+      "amount": 6,
+      "result": 498.72
     }
   ]
 }

@@ -1,0 +1,13 @@
+@model AdvancedRazorPagesApp.Models.Product
+
+<div class="product-summary">
+    <h3>@Model.Name</h3>
+    <p>@Model.Description</p>
+    <ul>
+        @foreach (var cat in Model.Categories)
+        {
+            <li>@cat.CategoryName</li>
+        }
+    </ul>
+    <a asp-page="/Products/Details" asp-route-id="@Model.ProductID">View Details</a>
+</div>

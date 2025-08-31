@@ -8,4 +8,13 @@ import { Component, signal } from '@angular/core';
 })
 export class App {
   protected readonly title = signal('currency-converter');
+  
+  // Property to store the conversion result
+  conversionResult: any = null;
+  
+  // Method to handle the conversion event
+  onConvert(result: any) {
+    this.conversionResult = result;
+    console.log('Conversion result in App:', result);
+  }
 }
