@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\ECommerceMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B17962D6-165B-42DC-BFC4-7E67A5FCFB02}|ECommerceMVC\\ECommerceMVC.csproj|c:\\users\\pc\\source\\repos\\ecommercemvc\\ecommercemvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B17962D6-165B-42DC-BFC4-7E67A5FCFB02}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B17962D6-165B-42DC-BFC4-7E67A5FCFB02}|ECommerceMVC\\ECommerceMVC.csproj|c:\\users\\pc\\source\\repos\\ecommercemvc\\ecommercemvc\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B17962D6-165B-42DC-BFC4-7E67A5FCFB02}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B17962D6-165B-42DC-BFC4-7E67A5FCFB02}|ECommerceMVC\\ECommerceMVC.csproj|c:\\users\\pc\\source\\repos\\ecommercemvc\\ecommercemvc\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B17962D6-165B-42DC-BFC4-7E67A5FCFB02}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B17962D6-165B-42DC-BFC4-7E67A5FCFB02}|ECommerceMVC\\ECommerceMVC.csproj|c:\\users\\pc\\source\\repos\\ecommercemvc\\ecommercemvc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B17962D6-165B-42DC-BFC4-7E67A5FCFB02}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B17962D6-165B-42DC-BFC4-7E67A5FCFB02}|ECommerceMVC\\ECommerceMVC.csproj|c:\\users\\pc\\source\\repos\\ecommercemvc\\ecommercemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B17962D6-165B-42DC-BFC4-7E67A5FCFB02}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B17962D6-165B-42DC-BFC4-7E67A5FCFB02}|ECommerceMVC\\ECommerceMVC.csproj|c:\\users\\pc\\source\\repos\\ecommercemvc\\ecommercemvc\\services\\loggingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B17962D6-165B-42DC-BFC4-7E67A5FCFB02}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\services\\loggingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B17962D6-165B-42DC-BFC4-7E67A5FCFB02}|ECommerceMVC\\ECommerceMVC.csproj|c:\\users\\pc\\source\\repos\\ecommercemvc\\ecommercemvc\\services\\iloggingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B17962D6-165B-42DC-BFC4-7E67A5FCFB02}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\services\\iloggingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B17962D6-165B-42DC-BFC4-7E67A5FCFB02}|ECommerceMVC\\ECommerceMVC.csproj|c:\\users\\pc\\source\\repos\\ecommercemvc\\ecommercemvc\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B17962D6-165B-42DC-BFC4-7E67A5FCFB02}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B17962D6-165B-42DC-BFC4-7E67A5FCFB02}|ECommerceMVC\\ECommerceMVC.csproj|c:\\users\\pc\\source\\repos\\ecommercemvc\\ecommercemvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B17962D6-165B-42DC-BFC4-7E67A5FCFB02}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B17962D6-165B-42DC-BFC4-7E67A5FCFB02}|ECommerceMVC\\ECommerceMVC.csproj|c:\\users\\pc\\source\\repos\\ecommercemvc\\ecommercemvc\\filters\\errorhandlingfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B17962D6-165B-42DC-BFC4-7E67A5FCFB02}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\filters\\errorhandlingfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B17962D6-165B-42DC-BFC4-7E67A5FCFB02}|ECommerceMVC\\ECommerceMVC.csproj|c:\\users\\pc\\source\\repos\\ecommercemvc\\ecommercemvc\\filters\\authfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B17962D6-165B-42DC-BFC4-7E67A5FCFB02}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\filters\\authfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B17962D6-165B-42DC-BFC4-7E67A5FCFB02}|ECommerceMVC\\ECommerceMVC.csproj|c:\\users\\pc\\source\\repos\\ecommercemvc\\ecommercemvc\\filters\\loggingfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B17962D6-165B-42DC-BFC4-7E67A5FCFB02}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\filters\\loggingfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "ECommerceMVC\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "ECommerceMVC\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T14:01:11.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "ECommerceMVC\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "ECommerceMVC\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T14:00:36.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "ECommerceMVC\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "ECommerceMVC\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T13:58:53.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ECommerceMVC\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ECommerceMVC\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T13:58:31.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoggingService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Services\\LoggingService.cs",
+              "RelativeDocumentMoniker": "ECommerceMVC\\Services\\LoggingService.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Services\\LoggingService.cs",
+              "RelativeToolTip": "ECommerceMVC\\Services\\LoggingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T13:56:55.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ILoggingService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Services\\ILoggingService.cs",
+              "RelativeDocumentMoniker": "ECommerceMVC\\Services\\ILoggingService.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Services\\ILoggingService.cs",
+              "RelativeToolTip": "ECommerceMVC\\Services\\ILoggingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T13:56:38.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "ECommerceMVC\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Models\\Order.cs",
+              "RelativeToolTip": "ECommerceMVC\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T13:56:12.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ECommerceMVC\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Models\\Product.cs",
+              "RelativeToolTip": "ECommerceMVC\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T13:55:43.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Program.cs",
+              "RelativeDocumentMoniker": "ECommerceMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Program.cs",
+              "RelativeToolTip": "ECommerceMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T13:51:02.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErrorHandlingFilter.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Filters\\ErrorHandlingFilter.cs",
+              "RelativeDocumentMoniker": "ECommerceMVC\\Filters\\ErrorHandlingFilter.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Filters\\ErrorHandlingFilter.cs",
+              "RelativeToolTip": "ECommerceMVC\\Filters\\ErrorHandlingFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T13:50:36.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthFilter.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Filters\\AuthFilter.cs",
+              "RelativeDocumentMoniker": "ECommerceMVC\\Filters\\AuthFilter.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Filters\\AuthFilter.cs",
+              "RelativeToolTip": "ECommerceMVC\\Filters\\AuthFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T13:49:41.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoggingFilter.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Filters\\LoggingFilter.cs",
+              "RelativeDocumentMoniker": "ECommerceMVC\\Filters\\LoggingFilter.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ECommerceMVC\\ECommerceMVC\\Filters\\LoggingFilter.cs",
+              "RelativeToolTip": "ECommerceMVC\\Filters\\LoggingFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T13:48:23.832Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

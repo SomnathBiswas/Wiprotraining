@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\OnlineBookstore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C535F73D-8638-4194-9ED8-2C227F618174}|OnlineBookstore\\OnlineBookstore.csproj|c:\\users\\pc\\source\\repos\\onlinebookstore\\onlinebookstore\\pages\\books\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C535F73D-8638-4194-9ED8-2C227F618174}|OnlineBookstore\\OnlineBookstore.csproj|solutionrelative:onlinebookstore\\pages\\books\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C535F73D-8638-4194-9ED8-2C227F618174}|OnlineBookstore\\OnlineBookstore.csproj|c:\\users\\pc\\source\\repos\\onlinebookstore\\onlinebookstore\\pages\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C535F73D-8638-4194-9ED8-2C227F618174}|OnlineBookstore\\OnlineBookstore.csproj|solutionrelative:onlinebookstore\\pages\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C535F73D-8638-4194-9ED8-2C227F618174}|OnlineBookstore\\OnlineBookstore.csproj|c:\\users\\pc\\source\\repos\\onlinebookstore\\onlinebookstore\\pages\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C535F73D-8638-4194-9ED8-2C227F618174}|OnlineBookstore\\OnlineBookstore.csproj|solutionrelative:onlinebookstore\\pages\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C535F73D-8638-4194-9ED8-2C227F618174}|OnlineBookstore\\OnlineBookstore.csproj|c:\\users\\pc\\source\\repos\\onlinebookstore\\onlinebookstore\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C535F73D-8638-4194-9ED8-2C227F618174}|OnlineBookstore\\OnlineBookstore.csproj|solutionrelative:onlinebookstore\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C535F73D-8638-4194-9ED8-2C227F618174}|OnlineBookstore\\OnlineBookstore.csproj|c:\\users\\pc\\source\\repos\\onlinebookstore\\onlinebookstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C535F73D-8638-4194-9ED8-2C227F618174}|OnlineBookstore\\OnlineBookstore.csproj|solutionrelative:onlinebookstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\OnlineBookstore\\OnlineBookstore\\Pages\\Books\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "OnlineBookstore\\Pages\\Books\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\OnlineBookstore\\OnlineBookstore\\Pages\\Books\\Index.cshtml.cs",
+              "RelativeToolTip": "OnlineBookstore\\Pages\\Books\\Index.cshtml.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T16:02:49.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\OnlineBookstore\\OnlineBookstore\\Pages\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineBookstore\\Pages\\Books\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\OnlineBookstore\\OnlineBookstore\\Pages\\Books\\Index.cshtml",
+              "RelativeToolTip": "OnlineBookstore\\Pages\\Books\\Index.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwBsAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T16:00:37.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\OnlineBookstore\\OnlineBookstore\\Pages\\Books\\Create.cshtml",
+              "RelativeDocumentMoniker": "OnlineBookstore\\Pages\\Books\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\OnlineBookstore\\OnlineBookstore\\Pages\\Books\\Create.cshtml",
+              "RelativeToolTip": "OnlineBookstore\\Pages\\Books\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T15:42:58.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\OnlineBookstore\\OnlineBookstore\\Program.cs",
+              "RelativeDocumentMoniker": "OnlineBookstore\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\OnlineBookstore\\OnlineBookstore\\Program.cs",
+              "RelativeToolTip": "OnlineBookstore\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T15:39:37.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\OnlineBookstore\\OnlineBookstore\\Views\\Books\\Create.cshtml",
+              "RelativeDocumentMoniker": "OnlineBookstore\\Views\\Books\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\OnlineBookstore\\OnlineBookstore\\Views\\Books\\Create.cshtml",
+              "RelativeToolTip": "OnlineBookstore\\Views\\Books\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T15:39:17.818Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

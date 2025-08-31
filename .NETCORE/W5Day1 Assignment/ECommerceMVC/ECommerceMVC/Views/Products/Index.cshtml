@@ -1,0 +1,15 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model IEnumerable<ECommerceMVC.Models.Product>
+
+<h2>Products</h2>
+<ul>
+    @foreach (var p in Model)
+    {
+        <li>@p.Name - ₹@p.Price</li>
+    }
+</ul>
+
