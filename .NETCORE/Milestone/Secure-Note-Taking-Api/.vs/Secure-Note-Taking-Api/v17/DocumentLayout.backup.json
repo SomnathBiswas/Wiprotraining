@@ -66,8 +66,7 @@
               "RelativeToolTip": "Secure-Note-Taking-Api\\Program.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T05:33:03.02Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T05:33:03.02Z"
             },
             {
               "$type": "Document",
@@ -79,8 +78,7 @@
               "RelativeToolTip": "Secure-Note-Taking-Api\\Controllers\\AuthController.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAA1wCkAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T04:49:20.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T04:49:20.619Z"
             },
             {
               "$type": "Document",
@@ -92,8 +90,7 @@
               "RelativeToolTip": "Secure-Note-Taking-Api\\DataTranferObjects\\Login.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T04:57:15.81Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T04:57:15.81Z"
             },
             {
               "$type": "Document",
@@ -105,8 +102,7 @@
               "RelativeToolTip": "Secure-Note-Taking-Api\\DataTranferObjects\\Register.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T04:57:04.641Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T04:57:04.641Z"
             },
             {
               "$type": "Document",
@@ -131,8 +127,7 @@
               "RelativeToolTip": "Secure-Note-Taking-Api\\Data\\SecureNoteDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T04:47:08.276Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T04:47:08.276Z"
             },
             {
               "$type": "Document",
@@ -144,8 +139,7 @@
               "RelativeToolTip": "Secure-Note-Taking-Api\\Models\\NoteModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T04:47:53.946Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T04:47:53.946Z"
             },
             {
               "$type": "Document",
@@ -157,21 +151,19 @@
               "RelativeToolTip": "Secure-Note-Taking-Api\\Models\\UserModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T04:47:40.5Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T04:47:40.5Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Secure-Note-Taking-Api",
+              "Title": "Secure-Note-Taking-Api.csproj",
               "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Milestone\\Secure-Note-Taking-Api\\Secure-Note-Taking-Api\\Secure-Note-Taking-Api.csproj",
               "RelativeDocumentMoniker": "Secure-Note-Taking-Api\\Secure-Note-Taking-Api.csproj",
               "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\Milestone\\Secure-Note-Taking-Api\\Secure-Note-Taking-Api\\Secure-Note-Taking-Api.csproj",
               "RelativeToolTip": "Secure-Note-Taking-Api\\Secure-Note-Taking-Api.csproj",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-30T06:24:49.013Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T06:24:49.013Z"
             }
           ]
         }

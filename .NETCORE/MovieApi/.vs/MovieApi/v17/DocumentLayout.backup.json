@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\MovieApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36B2781B-C6DE-47B8-A426-5238AE913D65}|MovieApi\\MovieApi.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\movieapi\\movieapi\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B2781B-C6DE-47B8-A426-5238AE913D65}|MovieApi\\MovieApi.csproj|solutionrelative:movieapi\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B2781B-C6DE-47B8-A426-5238AE913D65}|MovieApi\\MovieApi.csproj|c:\\users\\somna\\documents\\wiprotraining\\.netcore\\movieapi\\movieapi\\dto\\moviecreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B2781B-C6DE-47B8-A426-5238AE913D65}|MovieApi\\MovieApi.csproj|solutionrelative:movieapi\\dto\\moviecreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\MovieApi\\MovieApi\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "MovieApi\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\MovieApi\\MovieApi\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "MovieApi\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T04:40:39.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieCreate.cs",
+              "DocumentMoniker": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\MovieApi\\MovieApi\\DTO\\MovieCreate.cs",
+              "RelativeDocumentMoniker": "MovieApi\\DTO\\MovieCreate.cs",
+              "ToolTip": "C:\\Users\\somna\\Documents\\wiprotraining\\.NETCORE\\MovieApi\\MovieApi\\DTO\\MovieCreate.cs",
+              "RelativeToolTip": "MovieApi\\DTO\\MovieCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T04:44:04.472Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
