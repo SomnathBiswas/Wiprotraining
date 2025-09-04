@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Backend.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20250902062142_Initial")]
-    partial class Initial
+    [Migration("20250903201151_init")]
+    partial class init
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -171,12 +171,14 @@ namespace Backend.Migrations
             modelBuilder.Entity("Backend.Models.Image", b =>
                 {
                     b.HasOne("Backend.Models.Answer", "Answer")
-                        .WithMany()
-                        .HasForeignKey("AnswerId");
+                        .WithMany("Images")
+                        .HasForeignKey("AnswerId")
+                        .OnDelete(DeleteBehavior.Restrict);
 
                     b.HasOne("Backend.Models.Question", "Question")
-                        .WithMany()
-                        .HasForeignKey("QuestionId");
+                        .WithMany("Images")
+                        .HasForeignKey("QuestionId")
+                        .OnDelete(DeleteBehavior.Restrict);
 
                     b.Navigation("Answer");
 
@@ -194,9 +196,16 @@ namespace Backend.Migrations
                     b.Navigation("User");
                 });
 
+            modelBuilder.Entity("Backend.Models.Answer", b =>
+                {
+                    b.Navigation("Images");
+                });
+
             modelBuilder.Entity("Backend.Models.Question", b =>
                 {
                     b.Navigation("Answers");
+
+                    b.Navigation("Images");
                 });
 
             modelBuilder.Entity("Backend.Models.User", b =>

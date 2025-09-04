@@ -346,3 +346,4 @@ C:\Users\somna\Documents\wiprotraining\Capstone\DoConnect\Backend\obj\Debug\net9
 C:\Users\somna\Documents\wiprotraining\Capstone\DoConnect\Backend\obj\Debug\net9.0\Backend.pdb
 C:\Users\somna\Documents\wiprotraining\Capstone\DoConnect\Backend\obj\Debug\net9.0\Backend.genruntimeconfig.cache
 C:\Users\somna\Documents\wiprotraining\Capstone\DoConnect\Backend\obj\Debug\net9.0\ref\Backend.dll
+C:\Users\somna\Documents\wiprotraining\Capstone\DoConnect\Backend\bin\Debug\net9.0\BCrypt.Net-Next.dll

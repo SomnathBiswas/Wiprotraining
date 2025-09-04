@@ -1,0 +1,67 @@
+<header class="header">
+  <div class="logo">● DoConnect</div>
+  <nav class="nav-links">
+    <a routerLink="/admin/dashboard">Dashboard</a>
+    <a (click)="logout()" class="btn btn-outline">Logout</a>
+  </nav>
+</header>
+
+<section class="page">
+  <h1>Approve / Reject Questions</h1>
+
+  <!-- Tools -->
+  <div class="toolbar">
+    <select title="Filter by status" [(ngModel)]="filterStatus" (change)="filter()">
+      <option value="Pending">Pending</option>
+      <option value="Approved">Approved</option>
+      <option value="Rejected">Rejected</option>
+      <option value="All">All</option>
+    </select>
+
+    
+  </div>
+
+  <!-- List -->
+  <div class="list">
+    <div class="card" *ngFor="let q of filtered">
+      <div class="card-header">
+        <div class="chip" [ngClass]="q.status.toLowerCase()">{{ q.status }}</div>
+        <div class="meta">
+          <span>By <strong>{{ q.username }}</strong></span>
+          <span>•</span>
+          <span>{{ q.createdAt | date:'medium' }}</span>
+        </div>
+      </div>
+
+      <h3 class="title">{{ q.questionTitle }}</h3>
+      <p class="text">{{ q.questionText }}</p>
+
+      <!-- Images -->
+      <!-- <div class="images" *ngIf="q.imagePaths?.length">
+        <img *ngFor="let p of q.imagePaths" [src]="p" alt="question img" class="thumb"/>
+      </div> -->
+
+      @if (q.imagePaths?.length) {
+        <div class="images">
+          @for (p of q.imagePaths; track p) {
+            <img [src]="p" alt="question img" class="thumb">
+          }
+        </div>
+      }
+
+
+      <div class="actions">
+        <button class="btn btn-pill"
+                [disabled]="q.status !== 'Pending'"
+                (click)="approve(q.questionId)">Approve</button>
+        <button class="btn btn-pill btn-danger"
+                [disabled]="q.status !== 'Pending'"
+                (click)="reject(q.questionId)">Reject</button>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer class="footer">
+  <p>© 2025 DoConnect. Admin Panel</p>
+</footer>

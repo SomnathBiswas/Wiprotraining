@@ -168,12 +168,14 @@ namespace Backend.Migrations
             modelBuilder.Entity("Backend.Models.Image", b =>
                 {
                     b.HasOne("Backend.Models.Answer", "Answer")
-                        .WithMany()
-                        .HasForeignKey("AnswerId");
+                        .WithMany("Images")
+                        .HasForeignKey("AnswerId")
+                        .OnDelete(DeleteBehavior.Restrict);
 
                     b.HasOne("Backend.Models.Question", "Question")
-                        .WithMany()
-                        .HasForeignKey("QuestionId");
+                        .WithMany("Images")
+                        .HasForeignKey("QuestionId")
+                        .OnDelete(DeleteBehavior.Restrict);
 
                     b.Navigation("Answer");
 
@@ -191,9 +193,16 @@ namespace Backend.Migrations
                     b.Navigation("User");
                 });
 
+            modelBuilder.Entity("Backend.Models.Answer", b =>
+                {
+                    b.Navigation("Images");
+                });
+
             modelBuilder.Entity("Backend.Models.Question", b =>
                 {
                     b.Navigation("Answers");
+
+                    b.Navigation("Images");
                 });
 
             modelBuilder.Entity("Backend.Models.User", b =>

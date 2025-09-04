@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace Backend.Migrations
 {
     /// <inheritdoc />
-    public partial class Initial : Migration
+    public partial class init : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -96,12 +96,14 @@ namespace Backend.Migrations
                         name: "FK_Images_Answers_AnswerId",
                         column: x => x.AnswerId,
                         principalTable: "Answers",
-                        principalColumn: "AnswerId");
+                        principalColumn: "AnswerId",
+                        onDelete: ReferentialAction.Restrict);
                     table.ForeignKey(
                         name: "FK_Images_Questions_QuestionId",
                         column: x => x.QuestionId,
                         principalTable: "Questions",
-                        principalColumn: "QuestionId");
+                        principalColumn: "QuestionId",
+                        onDelete: ReferentialAction.Restrict);
                 });
 
             migrationBuilder.CreateIndex(

@@ -26,6 +26,6 @@ namespace Backend.Models
 
         public User User { get; set; } = null!;
         public ICollection<Answer> Answers { get; set; } = new List<Answer>();
-        // public ICollection<Image> Images { get; set; }
+        public ICollection<Image> Images { get; set; } = new List<Image>();
     }
 }

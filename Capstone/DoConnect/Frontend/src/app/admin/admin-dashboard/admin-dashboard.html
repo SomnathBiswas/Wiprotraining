@@ -1,0 +1,32 @@
+<!-- Header -->
+<header class="header">
+  <div class="logo">● DoConnect</div>
+  <nav class="nav-links">
+    <a (click)="logout()" class="btn btn-outline">Logout</a>
+  </nav>
+</header>
+
+<!-- Page content -->
+<main class="page">
+  <section class="admin-card">
+    <h1>Admin Dashboard</h1>
+    <p class="subtitle">Manage questions, answers and content approvals</p>
+
+    <div class="btn-grid">
+      <a routerLink="/admin/approval/questions" class="btn btn-pill">
+        Approve / Reject Questions
+      </a>
+      <a routerLink="/admin/approval/answers" class="btn btn-pill">
+        Approve / Reject Answers
+      </a>
+      <a routerLink="/admin/approval/manage" class="btn btn-pill">
+        Manage Content
+      </a>
+    </div>
+  </section>
+</main>
+
+<!-- Footer -->
+<footer class="footer">
+  <p>© 2025 DoConnect. Admin Panel</p>
+</footer>
