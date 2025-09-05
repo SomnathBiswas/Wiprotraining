@@ -103,17 +103,6 @@
   box-shadow: 0 2px 5px rgba(0,0,0,0.05);
 }
 
-/* Call to Action */
-.cta {
-  text-align: center;
-  padding: 40px;
-  background: #f8f9fa;  /* Very light gray */
-}
-
-.cta-buttons a {
-  margin: 0 10px;
-}
-
 /* Footer */
 footer {
   text-align: center;
@@ -121,4 +110,8 @@ footer {
   background: #fafafa;
   color: #555;
   font-size: 14px;
+  position: relative;
+  bottom: auto;
+  width: 100%;
+  margin-top: 40px;
 }

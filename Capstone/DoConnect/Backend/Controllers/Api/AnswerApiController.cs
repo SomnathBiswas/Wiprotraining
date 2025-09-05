@@ -64,6 +64,32 @@ namespace Backend.Controllers.Api
             return Ok(answer);
         }
 
+        [Authorize(Roles = "Admin")]
+        [HttpGet]
+        public async Task<IActionResult> GetAllAnswers()
+        {
+            var answers = await _context.Answers
+                .Include(a => a.User)
+                .Include(a => a.Question)
+                .Include(a => a.Images)
+                .Select(a => new
+                {
+                    answerId = a.AnswerId,
+                    questionId = a.QuestionId,
+                    questionTitle = a.Question != null ? a.Question.QuestionTitle : null,
+                    answerText = a.AnswerText,
+                    status = a.Status,
+                    createdAt = a.CreatedAt,
+                    username = a.User != null ? a.User.Username : "Unknown",
+                    imagePaths = a.Images.Select(i => i.ImagePath).ToList()
+                })
+                .OrderByDescending(a => a.createdAt)
+                .ToListAsync();
+
+            return Ok(answers);
+        }
+
+
         [Authorize]
         [HttpPost]
         public async Task<IActionResult> CreateAnswer([FromBody] CreateAnswerDto dto)
@@ -105,6 +131,8 @@ namespace Backend.Controllers.Api
 
             return CreatedAtAction(nameof(GetAnswer), new { id = answer.AnswerId }, result);
         }
+
+
         [Authorize]
         [HttpPut("{id}")]
         public async Task<IActionResult> UpdateAnswer(int id, [FromBody] Answer updatedAnswer)
@@ -131,6 +159,7 @@ namespace Backend.Controllers.Api
 
             return Ok(answer);
         }
+
 
         [Authorize(Roles = "Admin")]
         [HttpDelete("{id}")]

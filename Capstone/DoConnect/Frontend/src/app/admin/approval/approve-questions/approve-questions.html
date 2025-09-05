@@ -1,3 +1,4 @@
+<!-- approve-questions.html -->
 <header class="header">
   <div class="logo">● DoConnect</div>
   <nav class="nav-links">
@@ -18,7 +19,6 @@
       <option value="All">All</option>
     </select>
 
-    
   </div>
 
   <!-- List -->
@@ -36,29 +36,33 @@
       <h3 class="title">{{ q.questionTitle }}</h3>
       <p class="text">{{ q.questionText }}</p>
 
-      <!-- Images -->
-      <!-- <div class="images" *ngIf="q.imagePaths?.length">
+
+      <div class="images" *ngIf="q.imagePaths && q.imagePaths.length">
         <img *ngFor="let p of q.imagePaths" [src]="p" alt="question img" class="thumb"/>
-      </div> -->
-
-      @if (q.imagePaths?.length) {
-        <div class="images">
-          @for (p of q.imagePaths; track p) {
-            <img [src]="p" alt="question img" class="thumb">
-          }
-        </div>
-      }
-
+      </div>
 
       <div class="actions">
-        <button class="btn btn-pill"
-                [disabled]="q.status !== 'Pending'"
-                (click)="approve(q.questionId)">Approve</button>
-        <button class="btn btn-pill btn-danger"
-                [disabled]="q.status !== 'Pending'"
-                (click)="reject(q.questionId)">Reject</button>
+        
+        <button *ngIf="q.status === 'Pending'"
+                class="btn btn-pill"
+                [disabled]="q.processing"
+                (click)="approve(q)">
+          {{ q.processing ? 'Approving...' : 'Approve' }}
+        </button>
+
+        <button *ngIf="q.status === 'Pending'"
+                class="btn btn-pill btn-danger"
+                [disabled]="q.processing"
+                (click)="reject(q)">
+          {{ q.processing ? 'Rejecting...' : 'Reject' }}
+        </button>
       </div>
     </div>
+  </div>
+
+
+  <div *ngIf="filtered?.length === 0" class="muted">
+    No questions to show for the selected filter.
   </div>
 </section>
 

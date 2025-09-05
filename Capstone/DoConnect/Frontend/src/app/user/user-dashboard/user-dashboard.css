@@ -1,21 +1,23 @@
-/* reuse landing header style */
-.header {
+/* Navbar */
+.navbar {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 14px 24px;
-  border-bottom: 1px solid #e5e7eb;
-  background: #fff;
-  position: sticky;
-  top: 0;
-  z-index: 5;
+  padding: 15px 50px;
+  background: white;
+  border-bottom: 1px solid #eee;
 }
-.logo { font-weight: 700; font-size: 18px; }
+
+.logo {
+  font-weight: bold;
+  color: #333;
+  font-size: 18px;
+}
 
 .nav-links a {
-  margin-left: 16px;
+  margin-left: 20px;
   text-decoration: none;
-  font-weight: 500;
+  font-weight: 600;
   color: #333;
 }
 
@@ -37,8 +39,12 @@
 
 .btn-outline {
   border: 1px solid #d3d6da;
-  background: #fff;
-  color: #111;
+  padding: 6px 16px;
+  border-radius: 6px;
+  background: white;
+  color: black;
+  font-weight: 600;
+  transition: 0.2s;
 }
 .btn-outline:hover { background: #f3f4f6; }
 
@@ -100,12 +106,15 @@
   line-height: 1.4;
 }
 
-/* footer same style */
-.footer {
+/* Footer */
+footer {
+  text-align: center;
+  padding: 20px;
+  background: #fafafa;
+  color: #555;
+  font-size: 14px;
+  position: relative;
+  bottom: auto;
+  width: 100%;
   margin-top: 40px;
-  padding: 20px 24px;
-  border-top: 1px solid #e5e7eb;
-  text-align: left;
-  color: #6b7280;
-  background: #fff;
 }

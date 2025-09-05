@@ -16,9 +16,9 @@ const routes: Routes = [
   {path: 'auth/login', component: Login},
   {path: 'auth/register', component: Register},
   {path: 'questions', component: QuestionList},
-  {path: 'questions/:id', component: QuestionDetail},
   {path: 'questions/ask', component: AskQuestion},
   {path: 'questions/answer/:id', component: AnswerQuestion},
+  {path: 'questions/:id', component: QuestionDetail},
 ];
 
 @NgModule({

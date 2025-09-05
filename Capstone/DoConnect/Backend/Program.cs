@@ -6,6 +6,7 @@ using System.Text;
 using Backend.Services;
 using Microsoft.OpenApi.Models;
 using Microsoft.Extensions.FileProviders;
+using Microsoft.AspNetCore.Http.Features;
 
 
 
@@ -55,6 +56,11 @@ builder.Services.AddSwaggerGen(
 );
 builder.Services.AddScoped<JwtService>();
 
+builder.Services.Configure<FormOptions>(options =>
+{
+    options.MultipartBodyLengthLimit = 10 * 1024 * 1024; // 10 MB
+});
+
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     .AddJwtBearer(options =>
     {
@@ -75,9 +81,6 @@ var uploadsPath = Path.Combine(builder.Environment.ContentRootPath, "Uploads");
 Directory.CreateDirectory(uploadsPath);
 
 
-
-
-
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowAngular",
@@ -85,8 +88,6 @@ builder.Services.AddCors(options =>
                         .AllowAnyHeader()
                         .AllowAnyMethod());
 });
-
-
 
 builder.Services.AddControllers()
     .AddJsonOptions(options =>
@@ -117,15 +118,16 @@ else
 
 app.UseHttpsRedirection();
 
+
 app.UseStaticFiles();
 
-// app.UseStaticFiles(new StaticFileOptions
-// {
+app.UseStaticFiles(new StaticFileOptions
+{
 
-//     FileProvider = new PhysicalFileProvider(uploadsPath),
-//     RequestPath = "/uploads"
+    FileProvider = new PhysicalFileProvider(uploadsPath),
+    RequestPath = "/uploads"
 
-// });
+});
 
 
 app.UseRouting();

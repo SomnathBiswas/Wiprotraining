@@ -1,11 +1,10 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-
 import { UserRoutingModule } from './user-routing-module';
 import { Login } from './auth/login/login';
 import { Register } from './auth/register/register';
 import { FormsModule } from '@angular/forms';
-import { AskQuestion } from './questions/ask-question/ask-question';
+import { AskQuestion } from './questions/ask-question/ask-question'; 
 import { AnswerQuestion } from './questions/answer-question/answer-question';
 import { QuestionList } from './questions/question-list/question-list';
 import { QuestionDetail } from './questions/question-detail/question-detail';

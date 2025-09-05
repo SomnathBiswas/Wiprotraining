@@ -13,10 +13,11 @@ namespace Backend.Controllers.Api
     public class QuestionApiController : ControllerBase
     {
         private readonly ApplicationDbContext _context;
-
-        public QuestionApiController(ApplicationDbContext context)
+        private readonly IWebHostEnvironment _env;
+        public QuestionApiController(ApplicationDbContext context, IWebHostEnvironment env)
         {
             _context = context;
+            _env = env;
         }
 
         [HttpGet]
@@ -55,12 +56,13 @@ namespace Backend.Controllers.Api
             return Ok(questions);
         }
 
+
         [HttpGet("{id}")]
         public async Task<IActionResult> GetQuestion(int id)
         {
             var projected = await _context.Questions
                 .Include(q => q.User)
-                .Include(q => q.Images) 
+                .Include(q => q.Images)
                 .Include(q => q.Answers).ThenInclude(a => a.User)
                 .Include(q => q.Answers).ThenInclude(a => a.Images)
                 .Where(q => q.QuestionId == id)
@@ -93,13 +95,15 @@ namespace Backend.Controllers.Api
             var baseUrl = $"{Request.Scheme}://{Request.Host}";
 
             projected.ImagePaths = projected.ImagePaths
-                .Select(p => $"{baseUrl}/uploads/Questions/{System.IO.Path.GetFileName(p)}")
+                .Select(p => p)
+                // .Select(p => $"{baseUrl}/uploads/Questions/{System.IO.Path.GetFileName(p)}")
                 .ToList();
 
             foreach (var a in projected.Answers)
             {
                 a.ImagePaths = a.ImagePaths
-                    .Select(p => $"{baseUrl}/uploads/Answers/{System.IO.Path.GetFileName(p)}")
+                    // .Select(p => $"{baseUrl}/uploads/Answers/{System.IO.Path.GetFileName(p)}")
+                    .Select(p => p)
                     .ToList();
             }
 
@@ -144,6 +148,50 @@ namespace Backend.Controllers.Api
 
 
         [Authorize]
+        [HttpPost("with-image")]
+        public async Task<IActionResult> CreateQuestionWithImage([FromForm] CreateQuestionWithImageDto dto)
+        {   
+            var userIdClaim = User.FindFirst(ClaimTypes.NameIdentifier)?.Value;
+            if (userIdClaim == null) return Unauthorized();
+            int userId = int.Parse(userIdClaim);
+            // Save Question
+            var question = new Question
+            {
+                UserId = userId,
+                QuestionTitle = dto.QuestionTitle,
+                QuestionText = dto.QuestionText,
+                Status = "Pending",
+                CreatedAt = DateTime.UtcNow
+            };
+
+            // Save optional image
+            if (dto.ImageFile != null && dto.ImageFile.Length > 0)
+            {
+                var uploadsDir = Path.Combine(_env.WebRootPath ?? Path.Combine(Directory.GetCurrentDirectory(), "wwwroot"), "uploads");
+                if (!Directory.Exists(uploadsDir))
+                    Directory.CreateDirectory(uploadsDir);
+
+                var fileName = $"{Guid.NewGuid()}_{dto.ImageFile.FileName}";
+                var filePath = Path.Combine(uploadsDir, fileName);
+
+                using (var stream = new FileStream(filePath, FileMode.Create))
+                {
+                    await dto.ImageFile.CopyToAsync(stream);
+                }
+
+                question.Images = new List<Image>
+                {
+                    new Image { ImagePath = $"/uploads/{fileName}" }
+                };
+            }
+
+            _context.Questions.Add(question);
+            await _context.SaveChangesAsync();
+
+            return Ok(new { message = "Question created successfully, wait for admin approval.", question.QuestionId });
+        }
+
+        [Authorize]
         [HttpPut("{id}")]
         public async Task<IActionResult> UpdateQuestion(int id, [FromBody] Question updatedQuestion)
         {
@@ -167,7 +215,7 @@ namespace Backend.Controllers.Api
                 Answers = new List<AnswerDto>()
             };
             // return Ok(question);
-                return Ok(result);
+            return Ok(result);
         }
 
         [Authorize(Roles = "Admin")]

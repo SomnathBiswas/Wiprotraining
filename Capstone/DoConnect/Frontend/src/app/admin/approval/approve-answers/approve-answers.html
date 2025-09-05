@@ -35,16 +35,14 @@
       <p class="text">{{ a.answerText }}</p>
 
       <div class="images" *ngIf="a.imagePaths?.length">
-        <img *ngFor="let img of a.imagePaths"  [src]="img" alt="" />
+        <img *ngFor="let img of a.imagePaths"  [src]="getImageUrl(img)" alt="" />
       </div>
 
       <div class="actions">
-        <button class="btn btn-pill"
-                [disabled]="a.status !== 'Pending'"
-                (click)="approve(a.answerId)">Approve</button>
-        <button class="btn btn-pill btn-danger"
-                [disabled]="a.status !== 'Pending'"
-                (click)="reject(a.answerId)">Reject</button>
+        <ng-container *ngIf="a.status === 'Pending'">
+          <button class="btn btn-pill" (click)="approve(a.answerId)">Approve</button>
+          <button class="btn btn-pill btn-danger" (click)="reject(a.answerId)">Reject</button>
+        </ng-container>
       </div>
     </div>
   </div>
