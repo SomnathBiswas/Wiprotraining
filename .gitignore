@@ -1,0 +1,20 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build outputs
+bin/
+obj/
+*.zip
+
+# Node/Angular
+node_modules/
+dist/
+
+# Rider/IDE caches
+.idea/
+
+# others
+*.db
+*.pdb
